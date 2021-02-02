@@ -117,7 +117,8 @@ page.data-v-955f5ab0 {
 .add-attr .add-attr-btn.data-v-955f5ab0 {
   height: 72rpx;
   width: 320rpx;
-  border-radius: 36rpx;
+  -webkit-border-radius: 36rpx;
+          border-radius: 36rpx;
   border: 2rpx solid #446dfd;
   margin: 0 auto;
   color: #446dfd;
@@ -144,7 +145,8 @@ page.data-v-955f5ab0 {
   line-height: 80rpx;
   height: 80rpx;
   margin: 20rpx auto;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   background-color: #446dfd;
   color: #fff;
   font-size: 32rpx;
@@ -177,7 +179,8 @@ page.data-v-955f5ab0 {
   right: 0;
   margin: 0 auto;
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #fff;
   text-align: center;
 }

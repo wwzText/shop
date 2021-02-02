@@ -40,7 +40,8 @@ page.data-v-70e7adc3 {
 }
 .marketing.data-v-70e7adc3 {
   width: 702rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   padding: 20rpx;
   background-color: #ffffff;
   height: 88rpx;
@@ -67,10 +68,12 @@ page.data-v-70e7adc3 {
 }
 .box.data-v-70e7adc3 {
   border: 1rpx solid;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
   position: relative;
   display: inline-block;
-  box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
   padding: 0 12rpx;
   font-size: 20rpx;
   height: 30rpx;
@@ -79,7 +82,8 @@ page.data-v-70e7adc3 {
 .box .left.data-v-70e7adc3, .box .right.data-v-70e7adc3 {
   width: 10rpx;
   height: 10rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   position: absolute;
   z-index: 1;
   top: 50%;
@@ -130,7 +134,8 @@ page.data-v-70e7adc3 {
   height: 272rpx;
   border: 1rpx solid #cfcfcf;
   margin-top: 17rpx;
-  border-radius: 14rpx;
+  -webkit-border-radius: 14rpx;
+          border-radius: 14rpx;
   background-color: #ffffff;
 }
 .model .f-scroll .f-item.data-v-70e7adc3:last-child {
@@ -159,7 +164,8 @@ page.data-v-70e7adc3 {
   padding: 0;
   border: none;
   margin: 0;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #ffffff;
   font-size: 26rpx;
   text-align: center;

@@ -53,7 +53,8 @@ page.data-v-a6e5df82 {
   width: 130rpx;
   height: 130rpx;
   margin: 0 auto 30rpx auto;
-  border-radius: 130rpx;
+  -webkit-border-radius: 130rpx;
+          border-radius: 130rpx;
   overflow: hidden;
 }
 .content .avatar image.data-v-a6e5df82 {
@@ -75,7 +76,8 @@ page.data-v-a6e5df82 {
 }
 .content .pic .card-title.data-v-a6e5df82 {
   margin-left: 40rpx;
-  border-radius: 120rpx;
+  -webkit-border-radius: 120rpx;
+          border-radius: 120rpx;
   overflow: hidden;
 }
 .content .pic image.data-v-a6e5df82 {
@@ -134,6 +136,7 @@ page.data-v-a6e5df82 {
   margin: 62rpx auto 0 auto;
   width: 520rpx;
   height: 90rpx;
-  border-radius: 90rpx;
+  -webkit-border-radius: 90rpx;
+          border-radius: 90rpx;
 }
 

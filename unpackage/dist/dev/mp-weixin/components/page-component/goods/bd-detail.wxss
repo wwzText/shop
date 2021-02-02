@@ -39,7 +39,8 @@ page.data-v-0ecce06e {
   width: 702rpx;
   padding: 20rpx 0;
   background-color: #ffffff;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   margin: 24rpx 24rpx 0 24rpx;
 }
 .bd-detail image.data-v-0ecce06e {

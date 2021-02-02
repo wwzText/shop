@@ -106,14 +106,18 @@ page.data-v-e6de4474 {
   display: block;
 }
 .tab-item.tab-left.data-v-e6de4474 {
-  border-top-left-radius: 28rpx;
-  border-bottom-left-radius: 28rpx;
+  -webkit-border-top-left-radius: 28rpx;
+          border-top-left-radius: 28rpx;
+  -webkit-border-bottom-left-radius: 28rpx;
+          border-bottom-left-radius: 28rpx;
   border: 2rpx solid #446dfd;
   border-right: 0;
 }
 .tab-item.tab-right.data-v-e6de4474 {
-  border-top-right-radius: 28rpx;
-  border-bottom-right-radius: 28rpx;
+  -webkit-border-top-right-radius: 28rpx;
+          border-top-right-radius: 28rpx;
+  -webkit-border-bottom-right-radius: 28rpx;
+          border-bottom-right-radius: 28rpx;
   border: 2rpx solid #446dfd;
   border-left: 0;
 }
@@ -135,7 +139,8 @@ page.data-v-e6de4474 {
 .search.data-v-e6de4474 {
   height: 56rpx;
   line-height: 56rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #fff;
   color: #b2b2b2;
   width: 528rpx;
@@ -189,7 +194,8 @@ page.data-v-e6de4474 {
   background-color: #fff;
   padding: 24rpx;
   margin: 20rpx 24rpx 0;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   display: block;
 }
 .order-info.data-v-e6de4474 {
@@ -241,15 +247,18 @@ page.data-v-e6de4474 {
   left: 0;
   text-align: center;
   background-color: #446dfd;
-  border-bottom-left-radius: 4rpx;
-  border-bottom-right-radius: 4rpx;
+  -webkit-border-bottom-left-radius: 4rpx;
+          border-bottom-left-radius: 4rpx;
+  -webkit-border-bottom-right-radius: 4rpx;
+          border-bottom-right-radius: 4rpx;
 }
 .goods .goods-img.data-v-e6de4474 {
   height: 160rpx;
   width: 160rpx;
   float: left;
   margin-right: 20rpx;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
 }
 .goods .goods-attr.data-v-e6de4474 {
   font-size: 24rpx;
@@ -339,7 +348,8 @@ page.data-v-e6de4474 {
   padding-left: 62rpx;
   padding-right: 70rpx;
   background-color: #fff;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   height: 64rpx;
   font-size: 26rpx;
   color: #353535;
@@ -366,7 +376,8 @@ page.data-v-e6de4474 {
   padding: 0 20rpx;
   background-color: #f7f7f7;
   color: #333;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   font-size: 28rpx;
   margin-left: 20rpx;
   margin-bottom: 20rpx;
@@ -383,7 +394,8 @@ page.data-v-e6de4474 {
 }
 .dialog.data-v-e6de4474 {
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background-color: #fff;
   z-index: 20;
@@ -398,7 +410,8 @@ page.data-v-e6de4474 {
   color: #353535;
 }
 .remark-input input.data-v-e6de4474 {
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #F7F7F7;
   height: 80rpx;
   line-height: 80rpx;
@@ -416,7 +429,8 @@ page.data-v-e6de4474 {
   height: 68rpx;
   line-height: 68rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 2rpx solid #ddd;
   color: #666;
   font-size: 28rpx;
@@ -427,7 +441,8 @@ page.data-v-e6de4474 {
   height: 68rpx;
   line-height: 66rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 2rpx solid #ddd;
   color: #666;
   background-color: #fff;
@@ -477,7 +492,8 @@ page.data-v-e6de4474 {
   width: 492rpx;
   padding: 24rpx 32rpx;
   font-size: 28rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   border: 2rpx solid #e2e2e2;
   text-align: left;
   margin: 32rpx auto;
@@ -506,7 +522,8 @@ page.data-v-e6de4474 {
   width: 298rpx;
   height: 64rpx;
   margin-left: 24rpx;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   padding-left: 62rpx;
   background-color: #f7f7f7;
 }
@@ -612,7 +629,8 @@ page.data-v-e6de4474 {
 .refund-price.data-v-e6de4474 {
   width: 160rpx;
   border: 2rpx solid #e2e2e2;
-  border-radius: 5rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
   font-size: 32rpx;
   padding: 0 5rpx;
 }

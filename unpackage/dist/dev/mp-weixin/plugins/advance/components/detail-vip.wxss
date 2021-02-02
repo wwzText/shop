@@ -45,7 +45,8 @@ page.data-v-b77264c0 {
 .detail-vip .bg.data-v-b77264c0 {
   width: 100%;
   height: 120rpx;
-  border-radius: 14rpx;
+  -webkit-border-radius: 14rpx;
+          border-radius: 14rpx;
 }
 .detail-vip .content.data-v-b77264c0 {
   position: absolute;
@@ -95,7 +96,9 @@ page.data-v-b77264c0 {
   width: 120rpx;
   height: 48rpx;
   text-align: center;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
+  background: -webkit-gradient(linear, left top, right top, from(#fbdec8), to(#f3be94));
   background: -webkit-linear-gradient(left, #fbdec8, #f3be94);
   background: linear-gradient(to right, #fbdec8, #f3be94);
   font-size: 24rpx;

@@ -75,7 +75,8 @@ page.data-v-ff8c7b5a {
   background: #FFFFFF;
   width: 146rpx;
   line-height: 64rpx;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   text-align: center;
 }
 .app-bottom.data-v-ff8c7b5a {
@@ -128,10 +129,12 @@ page.data-v-ff8c7b5a {
   display: block;
 }
 .shop-info-1.data-v-ff8c7b5a {
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
 }
 .shop-info-2.data-v-ff8c7b5a {
-  border-radius: 15rpx 15rpx 0 0;
+  -webkit-border-radius: 15rpx 15rpx 0 0;
+          border-radius: 15rpx 15rpx 0 0;
 }
 .shop-info.data-v-ff8c7b5a {
   height: 124rpx;
@@ -142,7 +145,8 @@ page.data-v-ff8c7b5a {
   margin: 24rpx 24rpx 0 24rpx;
 }
 .shop-info > image.data-v-ff8c7b5a {
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   margin: 0 20rpx;
   height: 80rpx;
   width: 80rpx;
@@ -176,7 +180,8 @@ page.data-v-ff8c7b5a {
   padding: 20rpx;
   font-size: 24rpx;
   background: #FFFFFF;
-  border-radius: 0 0 15rpx 15rpx;
+  -webkit-border-radius: 0 0 15rpx 15rpx;
+          border-radius: 0 0 15rpx 15rpx;
 }
 .shop-address .address.data-v-ff8c7b5a {
   color: #666666;

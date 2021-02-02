@@ -52,8 +52,10 @@ page.data-v-17fb2c10 {
   margin-left: 24rpx;
   margin-right: 24rpx;
   height: 200rpx;
-  border-bottom-right-radius: 20rpx;
-  border-top-right-radius: 20rpx;
+  -webkit-border-bottom-right-radius: 20rpx;
+          border-bottom-right-radius: 20rpx;
+  -webkit-border-top-right-radius: 20rpx;
+          border-top-right-radius: 20rpx;
   position: relative;
   padding-right: 24rpx;
   border: 1rpx solid transparent;
@@ -76,8 +78,10 @@ page.data-v-17fb2c10 {
 .app-list-mode .app-item .app-content.data-v-17fb2c10 {
   width: 446rpx;
   height: 200rpx;
-  border-bottom-right-radius: 20rpx;
-  border-top-right-radius: 20rpx;
+  -webkit-border-bottom-right-radius: 20rpx;
+          border-bottom-right-radius: 20rpx;
+  -webkit-border-top-right-radius: 20rpx;
+          border-top-right-radius: 20rpx;
 }
 .app-list-mode .app-item .app-content .app-name.data-v-17fb2c10 {
   word-break: break-all;
@@ -102,7 +106,8 @@ page.data-v-17fb2c10 {
   margin-right: 8rpx;
   color: #ff4544;
   background-color: #feeeee;
-  border-radius: 14rpx;
+  -webkit-border-radius: 14rpx;
+          border-radius: 14rpx;
 }
 .app-list-mode .app-item .app-content .app-icon-margin.data-v-17fb2c10 {
   margin-bottom: 51rpx;
@@ -167,12 +172,14 @@ page.data-v-17fb2c10 {
 .app-list-mode .app-item .app-content .app-price-button .app-fillet-fill.data-v-17fb2c10 {
   background-color: #ff4544;
   color: white;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
 }
 .app-list-mode .app-item .app-content .app-price-button .app-rounded-line.data-v-17fb2c10 {
   background-color: white;
   color: #ff4544;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
 }
 .app-one-per-line.data-v-17fb2c10 {
   width: 750rpx;
@@ -183,8 +190,10 @@ page.data-v-17fb2c10 {
   position: relative;
   border: 1rpx solid transparent;
   margin-top: 24rpx;
-  border-bottom-right-radius: 10rpx;
-  border-bottom-left-radius: 10rpx;
+  -webkit-border-bottom-right-radius: 10rpx;
+          border-bottom-right-radius: 10rpx;
+  -webkit-border-bottom-left-radius: 10rpx;
+          border-bottom-left-radius: 10rpx;
   overflow: hidden;
 }
 .app-one-per-line .app-item .app-icon.data-v-17fb2c10 {
@@ -204,6 +213,7 @@ page.data-v-17fb2c10 {
   left: 50%;
   -webkit-transform: translate(-50%, -100%);
           transform: translate(-50%, -100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(#ff8b8b));
   background: -webkit-linear-gradient(left, #ff4544, #ff8b8b);
   background: linear-gradient(left, #ff4544, #ff8b8b);
   color: white;
@@ -272,7 +282,8 @@ page.data-v-17fb2c10 {
   font-size: 26rpx;
   line-height: 48rpx;
   margin: 0;
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   border: 1rpx solid #ff4544;
 }
 .app-one-per-line .app-item .app-price-button .app-button.data-v-17fb2c10:after {
@@ -289,12 +300,14 @@ page.data-v-17fb2c10 {
 .app-one-per-line .app-item .app-price-button .app-fillet-fill.data-v-17fb2c10 {
   background-color: #ff4544;
   color: white;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
 }
 .app-one-per-line .app-item .app-price-button .app-rounded-line.data-v-17fb2c10 {
   background-color: white;
   color: #ff4544;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
 }
 .app-two-per-line.data-v-17fb2c10 {
   width: 750rpx;
@@ -303,8 +316,10 @@ page.data-v-17fb2c10 {
 .app-two-per-line .app-item.data-v-17fb2c10 {
   width: 346rpx;
   height: 534rpx;
-  border-bottom-left-radius: 10rpx;
-  border-bottom-right-radius: 10rpx;
+  -webkit-border-bottom-left-radius: 10rpx;
+          border-bottom-left-radius: 10rpx;
+  -webkit-border-bottom-right-radius: 10rpx;
+          border-bottom-right-radius: 10rpx;
   border: 1rpx solid transparent;
   overflow: hidden;
   position: relative;
@@ -331,6 +346,7 @@ page.data-v-17fb2c10 {
   left: 50%;
   -webkit-transform: translate(-50%, -100%);
           transform: translate(-50%, -100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(#ff8b8b));
   background: -webkit-linear-gradient(left, #ff4544, #ff8b8b);
   background: linear-gradient(left, #ff4544, #ff8b8b);
 }
@@ -398,7 +414,8 @@ page.data-v-17fb2c10 {
   height: 48rpx;
   font-size: 26rpx;
   line-height: 48rpx;
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   border: 1rpx solid #ff4544;
   position: absolute;
   right: 24rpx;
@@ -417,12 +434,14 @@ page.data-v-17fb2c10 {
 .app-two-per-line .app-item .app-group-price-button .app-fillet-fill.data-v-17fb2c10 {
   background-color: #ff4544;
   color: white;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
 }
 .app-two-per-line .app-item .app-group-price-button .app-rounded-line.data-v-17fb2c10 {
   background-color: white;
   color: #ff4544;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
 }
 .app-two-per-line .app-item-margin.data-v-17fb2c10 {
   margin-right: 10rpx;

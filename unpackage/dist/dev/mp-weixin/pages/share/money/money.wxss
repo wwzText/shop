@@ -56,7 +56,8 @@ page.data-v-7e4ac8d8 {
   padding: 0 30rpx;
   height: 54rpx;
   line-height: 52rpx;
-  border-radius: 27rpx;
+  -webkit-border-radius: 27rpx;
+          border-radius: 27rpx;
   font-size: 28rpx;
 }
 .nav-right button.data-v-7e4ac8d8::after {
@@ -97,7 +98,8 @@ page.data-v-7e4ac8d8 {
   color: #fff;
   font-size: 30rpx;
   height: 80rpx;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   line-height: 80rpx;
   background: #ff4544;
 }

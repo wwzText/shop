@@ -72,7 +72,8 @@ page.data-v-76f8839c {
   height: 110rpx;
   background-color: white;
   padding: 10rpx 0;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .app-phone-binding .app-unbound .content .input-view.data-v-76f8839c {
   margin-left: 24rpx;
@@ -86,7 +87,8 @@ page.data-v-76f8839c {
   line-height: 80rpx;
   background-color: #f7f7f7;
   padding-left: 24rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   font-size: 28rpx;
   color: #999999;
   margin-right: 16rpx;
@@ -107,10 +109,12 @@ page.data-v-76f8839c {
   font-size: 28rpx;
   background-color: white;
   border: none;
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   text-align: center;
   padding: 0;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .app-phone-binding .app-unbound .content .manual-input.data-v-76f8839c {
   width: 100%;
@@ -127,7 +131,8 @@ page.data-v-76f8839c {
   height: 60rpx;
   margin: 20rpx 0;
   padding-left: 40rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .app-phone-binding .app-unbound .content .manual-input .bottom.data-v-76f8839c {
   height: 100rpx;
@@ -138,7 +143,8 @@ page.data-v-76f8839c {
   padding-left: 40rpx;
   font-size: 28rpx;
   margin: 20rpx 0;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .app-phone-binding .app-unbound .content .manual-input .bottom .line.data-v-76f8839c {
   width: 1rpx;
@@ -162,7 +168,8 @@ page.data-v-76f8839c {
   background-color: #ff4544;
   color: white;
   font-size: 32rpx;
-  border-radius: 44rpx;
+  -webkit-border-radius: 44rpx;
+          border-radius: 44rpx;
 }
 .app-phone-binding .app-bound.data-v-76f8839c {
   width: 750rpx;

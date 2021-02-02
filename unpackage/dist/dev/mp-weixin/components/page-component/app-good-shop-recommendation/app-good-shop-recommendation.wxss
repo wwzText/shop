@@ -100,13 +100,16 @@ page.data-v-956ffdcc {
   width: 224rpx;
   height: 288rpx;
   margin: 0 8rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .app-good-shop-recommendation .app-content .app-scroll .app-item .app-image.data-v-956ffdcc {
   width: 224rpx;
   height: 224rpx;
-  border-top-left-radius: 16rpx;
-  border-top-right-radius: 16rpx;
+  -webkit-border-top-left-radius: 16rpx;
+          border-top-left-radius: 16rpx;
+  -webkit-border-top-right-radius: 16rpx;
+          border-top-right-radius: 16rpx;
 }
 .app-good-shop-recommendation .app-content .app-scroll .app-item .app-name.data-v-956ffdcc {
   height: 64rpx;
@@ -128,7 +131,8 @@ page.data-v-956ffdcc {
   margin-top: 20rpx;
   margin-bottom: 20rpx;
   overflow: hidden;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .app-good-shop-recommendation .app-goods-shop .app-shop .app-top.data-v-956ffdcc {
   width: 662rpx;
@@ -137,7 +141,8 @@ page.data-v-956ffdcc {
 .app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-image.data-v-956ffdcc {
   width: 100rpx;
   height: 100rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
 }
 .app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-title.data-v-956ffdcc {
   margin-left: 24rpx;
@@ -172,7 +177,8 @@ page.data-v-956ffdcc {
   font-size: 26rpx;
   color: #666666;
   line-height: 64rpx;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
 }
 .app-good-shop-recommendation .app-goods-shop .app-shop .app-bottom.data-v-956ffdcc {
   height: 233rpx;

@@ -58,7 +58,8 @@ page.data-v-139f5cf7 {
   width: 702rpx;
   height: 66rpx;
   background-color: #F7F7F7;
-  border-radius: 33rpx;
+  -webkit-border-radius: 33rpx;
+          border-radius: 33rpx;
 }
 .nav-area .search-view .icon.data-v-139f5cf7 {
   width: 20rpx;
@@ -71,9 +72,11 @@ page.data-v-139f5cf7 {
 .nav-area .search-view input.data-v-139f5cf7 {
   width: 702rpx;
   height: 66rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   padding: 0 70rpx 0 30rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   font-size: 26rpx;
 }
 .nav-area .search-view .search-clear.data-v-139f5cf7 {

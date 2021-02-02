@@ -70,7 +70,8 @@ page.data-v-12651413 {
 .page .member-list .member-bannner .member-item .member-img.data-v-12651413 {
   width: 620rpx;
   height: 320rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .page .member-list .member-name.data-v-12651413 {
   font-size: 32rpx;
@@ -96,8 +97,10 @@ page.data-v-12651413 {
 .page .rights.data-v-12651413 {
   position: relative;
   background-color: #fff;
-  border-top-left-radius: 16rpx;
-  border-top-right-radius: 16rpx;
+  -webkit-border-top-left-radius: 16rpx;
+          border-top-left-radius: 16rpx;
+  -webkit-border-top-right-radius: 16rpx;
+          border-top-right-radius: 16rpx;
   padding-bottom: 50rpx;
 }
 .page .rights .title.data-v-12651413 {
@@ -147,7 +150,8 @@ page.data-v-12651413 {
 }
 .page .rights .rights-list .explain.data-v-12651413 {
   width: 640rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   padding: 56rpx 50rpx 50rpx 126rpx;
   margin: 50rpx auto 20rpx;
   font-size: 28rpx;

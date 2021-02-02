@@ -62,7 +62,8 @@ page.data-v-c72a4afc {
   background: #ffe4e7;
   line-height: 40rpx;
   padding: 0 12rpx;
-  border-radius: 0 25rpx 25rpx 0;
+  -webkit-border-radius: 0 25rpx 25rpx 0;
+          border-radius: 0 25rpx 25rpx 0;
   font-size: 24rpx;
 }
 .lottery .lottery-image image.data-v-c72a4afc {

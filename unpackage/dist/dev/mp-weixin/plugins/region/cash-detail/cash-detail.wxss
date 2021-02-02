@@ -38,8 +38,10 @@ page.data-v-fc720fee {
 .list.data-v-fc720fee {
   background-color: #fff;
   margin: 24rpx 24rpx 12rpx;
-  border-radius: 8rpx;
-  box-shadow: rgba(0, 0, 0, 0.1) 0 0 20rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 0 20rpx;
+          box-shadow: rgba(0, 0, 0, 0.1) 0 0 20rpx;
 }
 .item-header.data-v-fc720fee {
   color: #999999;
@@ -64,7 +66,8 @@ page.data-v-fc720fee {
   margin-left: 20rpx;
   font-size: 24rpx;
   padding: 0 10rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   border: 1px solid #ff4544;
   color: #ff4544;
 }

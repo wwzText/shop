@@ -50,7 +50,8 @@ page.data-v-b5423a8c {
 .app-attr .content.data-v-b5423a8c {
   width: 100%;
   background-color: #ffffff;
-  border-radius: 16rpx 16rpx 0 0;
+  -webkit-border-radius: 16rpx 16rpx 0 0;
+          border-radius: 16rpx 16rpx 0 0;
 }
 .app-attr .content .close.data-v-b5423a8c {
   width: 30rpx;
@@ -71,7 +72,8 @@ page.data-v-b5423a8c {
   width: 200rpx;
   height: 200rpx;
   border: 4rpx solid #ffffff;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   margin-top: -64rpx;
   display: block;
 }
@@ -112,7 +114,8 @@ page.data-v-b5423a8c {
 .app-attr .content .second .attr-group .attr-item.data-v-b5423a8c {
   margin-right: 20rpx;
   padding: 15rpx 24rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   margin-bottom: 20rpx;
 }
 .app-attr .content .second .attr-group .attr-item.attr-item-default.data-v-b5423a8c {
@@ -204,7 +207,8 @@ page.data-v-b5423a8c {
   padding: 0 22rpx;
   height: 56rpx;
   line-height: 56rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   font-size: 26rpx;
   margin-left: 20rpx;
   display: inline-block;
@@ -218,7 +222,8 @@ page.data-v-b5423a8c {
   line-height: 26rpx;
   border: 2rpx solid #fff;
   padding: 0 10rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   font-size: 20rpx;
   z-index: 100;
 }

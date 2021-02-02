@@ -46,7 +46,8 @@ page.data-v-4b190bd3 {
 }
 .app-prompt-box .app-content.data-v-4b190bd3 {
   width: 620rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   background-color: white;
   position: absolute;
   top: 50%;

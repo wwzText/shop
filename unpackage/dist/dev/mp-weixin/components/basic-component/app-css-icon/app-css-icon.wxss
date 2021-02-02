@@ -39,7 +39,8 @@ page.data-v-409e189a {
   display: inline-block;
   height: 1em;
   width: 1em;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   text-indent: -100em;
   vertical-align: middle;
   position: relative;
@@ -48,12 +49,14 @@ page.data-v-409e189a {
           transform: translate(0, -10%);
 }
 .app-css-icon.round.data-v-409e189a {
-  border-radius: 10em;
+  -webkit-border-radius: 10em;
+          border-radius: 10em;
 }
 .app-css-icon.data-v-409e189a::before,
 .app-css-icon.data-v-409e189a::after {
   content: '';
-  box-sizing: inherit;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
   position: absolute;
   left: 50%;
   top: 50%;

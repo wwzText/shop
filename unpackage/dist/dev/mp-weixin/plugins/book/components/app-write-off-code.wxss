@@ -42,14 +42,16 @@ page.data-v-2a890996 {
   top: 0;
   left: 0;
   position: fixed;
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   z-index: 1500;
 }
 .app-write-off-code .app-content.data-v-2a890996 {
   background-color: white;
   width: 600rpx;
   height: 600rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   position: absolute;
   top: 50%;
   left: 50%;

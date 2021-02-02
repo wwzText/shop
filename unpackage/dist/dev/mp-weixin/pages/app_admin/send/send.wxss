@@ -48,7 +48,8 @@ page.data-v-7320b530 {
   background-color: #fff;
   margin: 0 24rpx 28rpx;
   padding: 32rpx 24rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .goods-list .goods-item.data-v-7320b530 {
   margin-top: 24rpx;
@@ -59,7 +60,8 @@ page.data-v-7320b530 {
 .goods-list .active-icon.data-v-7320b530 {
   height: 36rpx;
   width: 36rpx;
-  border-radius: 18rpx;
+  -webkit-border-radius: 18rpx;
+          border-radius: 18rpx;
   margin-right: 24rpx;
 }
 .goods-list .goods.data-v-7320b530 {
@@ -111,7 +113,8 @@ page.data-v-7320b530 {
   width: 702rpx;
   height: 80rpx;
   line-height: 80rpx;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   padding: 0;
   text-align: center;
   margin: 40rpx auto;
@@ -128,7 +131,8 @@ page.data-v-7320b530 {
 .input-list.data-v-7320b530 {
   background-color: #fff;
   margin: 0 24rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   padding: 0 24rpx;
 }
 .input-list .input-item.data-v-7320b530 {
@@ -153,7 +157,8 @@ page.data-v-7320b530 {
   line-height: 48rpx;
   margin-left: 16rpx;
   background-color: #fff;
-  border-radius: 26rpx;
+  -webkit-border-radius: 26rpx;
+          border-radius: 26rpx;
   border: 2rpx solid #e2e2e2;
   color: #666666;
   display: inline-block;
@@ -230,7 +235,8 @@ page.data-v-7320b530 {
   line-height: 48rpx;
   text-align: center;
   border: 1rpx solid #446dfd;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   position: absolute;
   top: 20rpx;
   right: 0;

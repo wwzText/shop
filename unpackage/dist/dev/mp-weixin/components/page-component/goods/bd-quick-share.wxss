@@ -50,7 +50,8 @@ page.data-v-15679432 {
   height: 209rpx;
   color: #ffffff;
   font-size: 28rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background: rgba(0, 0, 0, 0.8);
 }
@@ -101,8 +102,10 @@ page.data-v-15679432 {
 }
 .app-goods-quick-share .quick-center.data-v-15679432 {
   background: #ffffff;
-  border-top-left-radius: 16rpx;
-  border-top-right-radius: 16rpx;
+  -webkit-border-top-left-radius: 16rpx;
+          border-top-left-radius: 16rpx;
+  -webkit-border-top-right-radius: 16rpx;
+          border-top-right-radius: 16rpx;
   position: absolute;
   width: 100%;
   height: auto;
@@ -114,7 +117,8 @@ page.data-v-15679432 {
   width: calc(100% - 80rpx);
   padding-top: 100rpx;
   padding-bottom: 77rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   background-color: white;
   position: absolute;
   top: 50%;
@@ -136,7 +140,8 @@ page.data-v-15679432 {
   width: 440rpx;
   height: 783rpx;
   position: relative;
-  box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
+  -webkit-box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
+          box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
 }
 .app-center .app-image-iframe .text.data-v-15679432 {
   text-align: center;

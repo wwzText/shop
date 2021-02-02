@@ -68,7 +68,8 @@ page.data-v-38743433 {
   background-color: rgba(0, 0, 0, 0.3);
   line-height: 48rpx;
   width: 92rpx;
-  border-radius: 24rpx 0 0 24rpx;
+  -webkit-border-radius: 24rpx 0 0 24rpx;
+          border-radius: 24rpx 0 0 24rpx;
   position: absolute;
   right: 0;
   z-index: 1;
@@ -88,7 +89,8 @@ page.data-v-38743433 {
   padding: 0 30rpx;
   display: inline-block;
   background: rgba(0, 0, 0, 0.3);
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
 }
 .scratch .scratch-oppty text.data-v-38743433 {
   color: #ffb92a;
@@ -121,7 +123,8 @@ page.data-v-38743433 {
   transform: translate(-50%, 0);
   line-height: 80rpx;
   background: #f05525;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   padding: 0 48rpx;
   color: #ffffff;
 }
@@ -154,7 +157,8 @@ page.data-v-38743433 {
   width: 654rpx;
   background: #420080;
   display: inline-block;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   text-align: left;
   padding-top: 26rpx;
   margin-top: 48rpx;
@@ -214,7 +218,8 @@ page.data-v-38743433 {
   line-height: 80rpx;
   color: #ffffff;
   margin-top: 40rpx;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
 }
 .scratch .scraxtch-award .next.data-v-38743433 {
   background: #f05525;
@@ -284,7 +289,8 @@ page.data-v-38743433 {
   position: absolute;
   top: 730rpx;
   border-bottom: 10rpx solid #ffb947;
-  border-radius: 0 0 24rpx 24rpx;
+  -webkit-border-radius: 0 0 24rpx 24rpx;
+          border-radius: 0 0 24rpx 24rpx;
   border-left: 10rpx solid #ffb947;
   border-right: 10rpx solid #ffb947;
   width: 490rpx;

@@ -38,8 +38,10 @@ page.data-v-2ad3cad4 {
 .list.data-v-2ad3cad4 {
   background-color: #fff;
   margin: 24rpx 24rpx 12rpx;
-  border-radius: 8rpx;
-  box-shadow: rgba(0, 0, 0, 0.1) 0 0 20rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 0 20rpx;
+          box-shadow: rgba(0, 0, 0, 0.1) 0 0 20rpx;
 }
 .item-header.data-v-2ad3cad4 {
   color: #999999;
@@ -64,7 +66,8 @@ page.data-v-2ad3cad4 {
   margin-left: 20rpx;
   font-size: 24rpx;
   padding: 0 10rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   border: 1px solid;
 }
 .cash.data-v-2ad3cad4 {

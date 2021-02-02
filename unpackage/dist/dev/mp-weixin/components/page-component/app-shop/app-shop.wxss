@@ -50,7 +50,8 @@ page.data-v-03db685a {
 .app-item .app-left .app-image.data-v-03db685a {
   height: 150rpx;
   width: 150rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   background-size: 100% auto;
   margin-top: 35rpx;
 }

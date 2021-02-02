@@ -193,7 +193,8 @@ view.input.placeholder.data-v-0a5fe6fe {
 .add-attr-btn.data-v-0a5fe6fe {
   height: 72rpx;
   width: 320rpx;
-  border-radius: 36rpx;
+  -webkit-border-radius: 36rpx;
+          border-radius: 36rpx;
   border: 1rpx solid #ff4544;
   margin: 0 auto;
   color: #ff4544;
@@ -237,7 +238,8 @@ view.input.placeholder.data-v-0a5fe6fe {
   font-size: 28rpx;
   color: #fff;
   background-color: #ff4544;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
 }
 .dialog.data-v-0a5fe6fe {
   position: fixed;
@@ -330,7 +332,8 @@ view.input.placeholder.data-v-0a5fe6fe {
   right: 0;
   margin: 0 auto;
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #fff;
 }
 .btn-area.data-v-0a5fe6fe {

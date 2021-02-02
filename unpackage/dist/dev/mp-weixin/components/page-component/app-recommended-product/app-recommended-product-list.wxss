@@ -72,7 +72,8 @@ page {
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item {
   width: 554rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   position: relative;
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item.have-bg {
@@ -96,7 +97,8 @@ page {
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item .out-dialog image {
   width: 160rpx;
   height: 160rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-image {
   width: 150rpx;
@@ -131,14 +133,17 @@ page {
   font-size: 28rpx;
   color: #ffffff;
   line-height: 48rpx;
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   margin: 0;
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-button-fillet {
-  border-radius: 20rpx !important;
+  -webkit-border-radius: 20rpx !important;
+          border-radius: 20rpx !important;
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-button-rounded-lines {
-  border-radius: 20rpx !important;
+  -webkit-border-radius: 20rpx !important;
+          border-radius: 20rpx !important;
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-product-button-cart {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAk1BMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ROyVeAAAAMHRSTlMAM7iiRx3IDOGtfkn26p2Fbmg98L+1lIx0FBL65qilYkEoJBgHA9rX1dPMiVJMQCzDHvUSAAABB0lEQVQ4y73UiWqDUBCF4d/qdYsa96hZmrX7kvd/ulrQqeAVSyk5oDjwIccR5fqL/Cs6OY0/iy7Aag657pJ0vtMTah5litSYyFKe7o3p+D1KsO70KXF6FBNP1AlpehRhrPXII+3RI06oRyvu5bUoXvQoYSnonUiPLDxB/lTzA7Ygjw+t2ZxxBT1zCnTIRgWCsgZbv4F9e0YKmpMbEFRRTW5AUISl38BugGzqbGwChT1AQc1mjNZcQkFtDBJzlAp1HSITbcoOddkuLGvRHpLvIfrjF2wejFyG8pjaGpQDjtsNBVCHY+SzN/C6Icb6JB+jAuChG3bA2dV0enXU9ue+zrHoLm/8E/sC0xrBNhZZrxMAAAAASUVORK5CYII=);
@@ -148,7 +153,8 @@ page {
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-border-all {
   width: 554rpx;
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
 }
 .app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-border-all-item {
   border: 1rpx solid #e2e2e2;

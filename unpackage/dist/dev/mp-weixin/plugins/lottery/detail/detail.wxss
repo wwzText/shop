@@ -81,7 +81,8 @@ page.data-v-b6a90288 {
   text-align: center;
   line-height: 40rpx;
   background: #fff;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   margin-right: 12rpx;
   display: inline-block;
 }
@@ -171,7 +172,8 @@ page.data-v-b6a90288 {
   color: #ff4544;
   font-size: 28rpx;
   height: 72rpx;
-  border-radius: 36rpx;
+  -webkit-border-radius: 36rpx;
+          border-radius: 36rpx;
   text-align: center;
   line-height: 72rpx;
   border: 1px solid #ff4544;
@@ -206,7 +208,8 @@ page.data-v-b6a90288 {
 }
 .detail-center-a.data-v-b6a90288 {
   background: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 24rpx;
   padding: 32rpx 0;
 }
@@ -301,7 +304,8 @@ page.data-v-b6a90288 {
   width: 64rpx;
   height: 64rpx;
   margin: 0 32rpx 0 40rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .detail-suc .user-winning-list .right.data-v-b6a90288 {
   margin-right: 40rpx;

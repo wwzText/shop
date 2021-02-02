@@ -48,7 +48,8 @@ page.data-v-f1041c70 {
   background-color: #fff;
   padding: 20rpx;
   margin: 24rpx 24rpx 0 24rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
 }
 .goods-name.data-v-f1041c70 {
   background-color: #ffffff;

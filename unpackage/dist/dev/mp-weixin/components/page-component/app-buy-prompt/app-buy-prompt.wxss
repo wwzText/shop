@@ -51,13 +51,15 @@ swiper.data-v-35cfa97a {
 .buy-prompt-box .center.data-v-35cfa97a {
   height: 60rpx;
   background-color: rgba(0, 0, 0, 0.8);
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
   color: #fff;
 }
 .buy-prompt-box .image.data-v-35cfa97a {
   height: 60rpx;
   width: 60rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .buy-prompt-box .text-a.data-v-35cfa97a {
   padding-left: 10rpx;

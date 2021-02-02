@@ -49,7 +49,8 @@ page.data-v-ab911fd6 {
 }
 .card-info.data-v-ab911fd6 {
   margin: 0 24rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   background-color: #fff;
   position: relative;
   margin-top: 70rpx;
@@ -65,7 +66,8 @@ page.data-v-ab911fd6 {
   right: 0;
   margin: 0 auto;
   top: -44rpx;
-  border-radius: 44rpx;
+  -webkit-border-radius: 44rpx;
+          border-radius: 44rpx;
 }
 .card-name.data-v-ab911fd6 {
   font-size: 46rpx;
@@ -83,7 +85,8 @@ page.data-v-ab911fd6 {
   margin: 0 auto;
   line-height: 60rpx;
   font-size: 15px;
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
   background-color: #FEEEEE;
   color: #FF4544;
 }
@@ -91,7 +94,8 @@ page.data-v-ab911fd6 {
   padding: 40rpx;
   width: 90%;
   margin: 0 auto 50rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   background-color: #fff;
   font-size: 15px;
 }
@@ -106,7 +110,8 @@ page.data-v-ab911fd6 {
   padding: 0;
   text-align: center;
   line-height: 88rpx;
-  border-radius: 44rpx;
+  -webkit-border-radius: 44rpx;
+          border-radius: 44rpx;
   background-color: #ff4544;
   color: #fff;
   font-size: 32rpx;
@@ -124,7 +129,8 @@ page.data-v-ab911fd6 {
   width: 702rpx;
   margin: 24rpx;
   background-color: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   padding: 28rpx 24rpx;
   font-size: 28rpx;
   color: #353535;
@@ -155,7 +161,8 @@ page.data-v-ab911fd6 {
   width: 630rpx;
   background-color: #fff;
   padding-top: 40rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   font-size: 32rpx;
   color: #353535;
   text-align: center;
@@ -180,7 +187,8 @@ page.data-v-ab911fd6 {
 .dialog-content .input-number.data-v-ab911fd6 {
   width: 288rpx;
   background: #f7f7f7;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   height: 80rpx;
   margin-right: 16rpx;
   line-height: 80rpx;

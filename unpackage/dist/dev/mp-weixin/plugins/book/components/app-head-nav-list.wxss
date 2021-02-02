@@ -49,7 +49,8 @@ page.data-v-64243489 {
   text-align: center;
   color: #666666;
   margin: 16rpx 23rpx;
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
   padding: 0 24rpx;
 }
 .app-head-nav-list .app-active-item.data-v-64243489 {

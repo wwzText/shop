@@ -39,7 +39,8 @@ page.data-v-7a071d28 {
   width: 702rpx;
   height: 80rpx;
   line-height: 80rpx;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   padding: 0;
   text-align: center;
   margin: 40rpx auto;

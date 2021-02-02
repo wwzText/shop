@@ -61,7 +61,8 @@ page.data-v-a2c1a616 {
 .marketing .block .give.data-v-a2c1a616 {
   padding: 2rpx 4rpx;
   border: 1rpx solid;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
   font-size: 22rpx;
   margin-right: 12rpx;
 }
@@ -105,7 +106,8 @@ page.data-v-a2c1a616 {
   height: 88rpx;
   display: block;
   margin-right: 68rpx;
-  border-radius: 88rpx;
+  -webkit-border-radius: 88rpx;
+          border-radius: 88rpx;
 }
 .card-modal .content .card .name.data-v-a2c1a616 {
   width: 478rpx;
@@ -190,7 +192,8 @@ page.data-v-a2c1a616 {
   height: 88rpx;
   display: block;
   margin-right: 68rpx;
-  border-radius: 88rpx;
+  -webkit-border-radius: 88rpx;
+          border-radius: 88rpx;
 }
 .coupon-modal .content .coupon .name.data-v-a2c1a616 {
   width: 478rpx;

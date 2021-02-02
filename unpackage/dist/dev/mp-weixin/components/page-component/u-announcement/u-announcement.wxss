@@ -144,8 +144,10 @@ page.data-v-2249c70c {
 .u-bottom-content.data-v-2249c70c {
   background-color: #ffffff;
   padding: 50rpx;
-  border-bottom-right-radius: 11rpx;
-  border-bottom-left-radius: 11rpx;
+  -webkit-border-bottom-right-radius: 11rpx;
+          border-bottom-right-radius: 11rpx;
+  -webkit-border-bottom-left-radius: 11rpx;
+          border-bottom-left-radius: 11rpx;
 }
 .u-button.data-v-2249c70c {
   margin: 0 auto;

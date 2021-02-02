@@ -50,7 +50,8 @@ page {
 .buttons .app-button .app-exhange {
   width: 702rpx;
   color: #fff;
-  border-radius: 41rpx;
+  -webkit-border-radius: 41rpx;
+          border-radius: 41rpx;
   height: 82rpx;
   line-height: 82rpx;
   font-size: 28rpx;
@@ -59,7 +60,8 @@ page {
   background: #e9e9e9;
   width: 702rpx;
   color: #999999;
-  border-radius: 41rpx;
+  -webkit-border-radius: 41rpx;
+          border-radius: 41rpx;
   height: 82rpx;
   line-height: 82rpx;
   font-size: 28rpx;

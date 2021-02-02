@@ -36,6 +36,7 @@ page.data-v-2323f270 {
   padding-bottom: env(safe-area-inset-bottom);
 }
 .default.data-v-2323f270 {
+  background: -webkit-gradient(linear, left top, right top, from(#ff5527), to(#ff2755));
   background: -webkit-linear-gradient(left, #ff5527, #ff2755);
   background: linear-gradient(to right, #ff5527, #ff2755);
 }
@@ -57,7 +58,8 @@ page.data-v-2323f270 {
 .detail-ad .text .count.data-v-2323f270 {
   display: inline-block;
   padding: 5rpx 16rpx;
-  border-radius: 18rpx;
+  -webkit-border-radius: 18rpx;
+          border-radius: 18rpx;
   background-color: rgba(0, 0, 0, 0.2);
   font-size: 22rpx;
 }
@@ -76,7 +78,8 @@ page.data-v-2323f270 {
   height: 36rpx;
   line-height: 36rpx;
   text-align: center;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
   font-size: 24rpx;
   color: #353535;
   background-color: #ffffff;

@@ -69,9 +69,11 @@ page.data-v-2f17f2d5 {
   margin: 0 auto;
   height: 360rpx;
   width: 702rpx;
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
   background-color: #fff;
-  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.3);
 }
 .head-card .card-name.data-v-2f17f2d5 {
   position: absolute;
@@ -119,7 +121,8 @@ page.data-v-2f17f2d5 {
   height: 44rpx;
   line-height: 44rpx;
   width: 144rpx;
-  border-radius: 22rpx;
+  -webkit-border-radius: 22rpx;
+          border-radius: 22rpx;
   font-size: 26rpx;
   color: #dba158;
   background-color: #ffefde;
@@ -139,7 +142,8 @@ page.data-v-2f17f2d5 {
   height: 223rpx;
   width: 215rpx;
   background-color: #fff;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   text-align: center;
   padding-top: 24rpx;
   margin-left: 13rpx;
@@ -180,7 +184,8 @@ page.data-v-2f17f2d5 {
 }
 .scroll-view .scroll-item.active.data-v-2f17f2d5 {
   background-color: #fff8ef;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   text-align: center;
   padding-top: 24rpx;
   margin-left: 13rpx;
@@ -199,10 +204,12 @@ page.data-v-2f17f2d5 {
   margin: 0 auto;
   padding: 40rpx 36rpx;
   font-size: 32rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   padding-top: 110rpx;
   background-color: #fff;
-  box-shadow: 0 0 8rpx #efefef;
+  -webkit-box-shadow: 0 0 8rpx #efefef;
+          box-shadow: 0 0 8rpx #efefef;
 }
 .item .item-title.data-v-2f17f2d5 {
   position: absolute;
@@ -240,7 +247,8 @@ page.data-v-2f17f2d5 {
   width: 80rpx;
   height: 80rpx;
   margin-bottom: 20rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin: 0 auto;
 }
 .item .item-icon .item-icon-name.data-v-2f17f2d5 {
@@ -264,7 +272,8 @@ page.data-v-2f17f2d5 {
 .item .item-right image.data-v-2f17f2d5 {
   width: 630rpx;
   height: 160rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
 }
 .item .item-right.data-v-2f17f2d5:first-of-type {
   margin-top: 0;
@@ -337,7 +346,8 @@ page.data-v-2f17f2d5 {
 .item .card-list .card-item.data-v-2f17f2d5 {
   height: 136rpx;
   width: 542rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   font-size: 28rpx;
   color: #000000;
   border: 2rpx solid #e2e2e2;
@@ -347,7 +357,8 @@ page.data-v-2f17f2d5 {
 .item .card-list .card-item image.data-v-2f17f2d5 {
   width: 80rpx;
   height: 80rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin-right: 25rpx;
 }
 .card-detail-title.data-v-2f17f2d5 {
@@ -405,14 +416,18 @@ page.data-v-2f17f2d5 {
 .foot .foot-button .foot-info.data-v-2f17f2d5 {
   width: 502rpx;
   padding-left: 40rpx;
-  border-top-left-radius: 40rpx;
-  border-bottom-left-radius: 40rpx;
+  -webkit-border-top-left-radius: 40rpx;
+          border-top-left-radius: 40rpx;
+  -webkit-border-bottom-left-radius: 40rpx;
+          border-bottom-left-radius: 40rpx;
 }
 .foot .foot-button .foot-buy.data-v-2f17f2d5 {
   width: 200rpx;
   text-align: center;
-  border-top-right-radius: 40rpx;
-  border-bottom-right-radius: 40rpx;
+  -webkit-border-top-right-radius: 40rpx;
+          border-top-right-radius: 40rpx;
+  -webkit-border-bottom-right-radius: 40rpx;
+          border-bottom-right-radius: 40rpx;
 }
 .foot .bottom-read.data-v-2f17f2d5 {
   height: 34rpx;
@@ -425,7 +440,8 @@ page.data-v-2f17f2d5 {
 .foot .bottom-read .read-icon image.data-v-2f17f2d5 {
   width: 24rpx;
   height: 24rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .foot.iphone_x.data-v-2f17f2d5 {
   height: 260rpx;
@@ -452,7 +468,8 @@ page.data-v-2f17f2d5 {
   width: 650rpx;
   background-color: #fff;
   padding-bottom: 122rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   position: relative;
 }
 .bg .dialog .dialog-top.data-v-2f17f2d5 {
@@ -503,7 +520,8 @@ page.data-v-2f17f2d5 {
   width: 586rpx;
   text-align: center;
   line-height: 88rpx;
-  border-radius: 44rpx;
+  -webkit-border-radius: 44rpx;
+          border-radius: 44rpx;
   background-color: #efc493;
   font-size: 32rpx;
   color: #fff;
@@ -528,7 +546,8 @@ page.data-v-2f17f2d5 {
   margin: 0 auto;
   max-height: 517rpx;
   overflow-y: auto;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   border: 2rpx solid #e2e2e2;
   padding: 16rpx 32rpx;
 }

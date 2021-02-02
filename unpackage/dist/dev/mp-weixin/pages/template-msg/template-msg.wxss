@@ -51,12 +51,14 @@ page.data-v-baf77a74 {
   background-color: #ffffff;
   height: 120rpx;
   padding: 0 40rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .list .item .btn.data-v-baf77a74 {
   font-size: 26rpx;
   padding: 20rpx 30rpx;
-  border-radius: 64rpx;
+  -webkit-border-radius: 64rpx;
+          border-radius: 64rpx;
   margin-left: 20rpx;
 }
 .list .item .btn.btn-subscribe.data-v-baf77a74 {

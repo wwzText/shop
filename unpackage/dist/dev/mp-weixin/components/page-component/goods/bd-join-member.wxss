@@ -41,7 +41,8 @@ page.data-v-90337460 {
   height: 80rpx;
   padding: 0 24rpx;
   font-size: 24rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .right.data-v-90337460 {
   width: 12rpx;

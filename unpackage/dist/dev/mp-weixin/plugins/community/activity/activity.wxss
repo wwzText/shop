@@ -70,7 +70,8 @@ page.data-v-12733f48 {
 .middleman .middleman-info .avatar.data-v-12733f48 {
   width: 58rpx;
   height: 58rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin-right: 20rpx;
   -webkit-flex-shrink: 0;
           flex-shrink: 0;
@@ -88,8 +89,10 @@ page.data-v-12733f48 {
   line-height: 90rpx;
   margin: 0 24rpx;
   width: 702rpx;
-  border-top-left-radius: 16rpx;
-  border-top-right-radius: 16rpx;
+  -webkit-border-top-left-radius: 16rpx;
+          border-top-left-radius: 16rpx;
+  -webkit-border-top-right-radius: 16rpx;
+          border-top-right-radius: 16rpx;
   background-color: #F2F2F2;
   position: relative;
   z-index: 2;
@@ -105,14 +108,16 @@ page.data-v-12733f48 {
   width: 702rpx;
   margin: 0 24rpx;
   padding-bottom: 24rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #f7f7f7;
   position: relative;
   z-index: 2;
 }
 .status-area .status.data-v-12733f48 {
   background-color: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   padding: 24rpx;
 }
 .status-area .status .end-time.data-v-12733f48 {
@@ -131,14 +136,16 @@ page.data-v-12733f48 {
 .status-area .status .progress.data-v-12733f48 {
   width: 654rpx;
   background-color: #f0f0f0;
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
   height: 20rpx;
   position: relative;
   margin: 15rpx 0;
   overflow: hidden;
 }
 .status-area .status .progress view.data-v-12733f48 {
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
   height: 20rpx;
   position: absolute;
   top: 0;
@@ -152,7 +159,8 @@ page.data-v-12733f48 {
   width: 58rpx;
   height: 58rpx;
   margin-left: -14rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   border: 2rpx solid #ffffff;
 }
 .status-area .status .buy-user .sales.data-v-12733f48 {
@@ -172,7 +180,8 @@ page.data-v-12733f48 {
 .status-area .status .new-buy image.data-v-12733f48 {
   width: 60rpx;
   height: 60rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   display: block;
   margin-right: 20rpx;
 }
@@ -182,7 +191,8 @@ page.data-v-12733f48 {
 }
 .list .goods.data-v-12733f48 {
   background-color: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   width: 702rpx;
   height: 220rpx;
   margin-bottom: 20rpx;
@@ -192,7 +202,8 @@ page.data-v-12733f48 {
 .list .goods .out-dialog.data-v-12733f48 {
   width: 220rpx;
   height: 220rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   position: absolute;
   top: 0;
   left: 0;
@@ -202,12 +213,14 @@ page.data-v-12733f48 {
 .list .goods .out-dialog image.data-v-12733f48 {
   width: 220rpx;
   height: 220rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .list .goods .cover.data-v-12733f48 {
   height: 220rpx;
   width: 220rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin-right: 15rpx;
 }
 .list .goods .info.data-v-12733f48 {
@@ -238,20 +251,26 @@ page.data-v-12733f48 {
   top: 0;
   left: 0;
   opacity: 0.1;
-  border-top-left-radius: 15rpx;
-  border-bottom-left-radius: 15rpx;
+  -webkit-border-top-left-radius: 15rpx;
+          border-top-left-radius: 15rpx;
+  -webkit-border-bottom-left-radius: 15rpx;
+          border-bottom-left-radius: 15rpx;
   border: 0;
   height: 100%;
   width: 100%;
 }
 .list .goods .info .sale view.data-v-12733f48:first-of-type {
   border-right: 0;
-  border-top-left-radius: 15rpx;
-  border-bottom-left-radius: 15rpx;
+  -webkit-border-top-left-radius: 15rpx;
+          border-top-left-radius: 15rpx;
+  -webkit-border-bottom-left-radius: 15rpx;
+          border-bottom-left-radius: 15rpx;
 }
 .list .goods .info .sale .stock.data-v-12733f48 {
-  border-top-right-radius: 15rpx;
-  border-bottom-right-radius: 15rpx;
+  -webkit-border-top-right-radius: 15rpx;
+          border-top-right-radius: 15rpx;
+  -webkit-border-bottom-right-radius: 15rpx;
+          border-bottom-right-radius: 15rpx;
   border-left: 0;
   background-color: #fff;
 }
@@ -323,7 +342,8 @@ page.data-v-12733f48 {
   padding: 0 16rpx 24rpx;
   background-color: #fff;
   z-index: 20;
-  box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.3);
 }
 .cart-item .cart-left.data-v-12733f48 {
   font-size: 24rpx;
@@ -338,7 +358,8 @@ page.data-v-12733f48 {
 .cart-item .cart-left .cart-icon image.data-v-12733f48 {
   width: 74rpx;
   height: 74rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .cart-item .cart-left .cart-icon view.data-v-12733f48 {
   position: absolute;
@@ -346,7 +367,8 @@ page.data-v-12733f48 {
   left: 52rpx;
   height: 34rpx;
   line-height: 34rpx;
-  border-radius: 17rpx;
+  -webkit-border-radius: 17rpx;
+          border-radius: 17rpx;
   color: #fff;
   padding: 0 10rpx;
 }
@@ -362,7 +384,8 @@ page.data-v-12733f48 {
   color: #fff;
   height: 78rpx;
   line-height: 78rpx;
-  border-radius: 39rpx;
+  -webkit-border-radius: 39rpx;
+          border-radius: 39rpx;
   padding: 0 50rpx;
 }
 .dialog-btn.data-v-12733f48 {
@@ -391,8 +414,10 @@ page.data-v-12733f48 {
 }
 .bg .dialog.data-v-12733f48 {
   background-color: #fff;
-  border-top-left-radius: 16rpx;
-  border-top-right-radius: 16rpx;
+  -webkit-border-top-left-radius: 16rpx;
+          border-top-left-radius: 16rpx;
+  -webkit-border-top-right-radius: 16rpx;
+          border-top-right-radius: 16rpx;
   position: fixed;
   bottom: -600rpx;
   left: 0;
@@ -409,8 +434,10 @@ page.data-v-12733f48 {
   width: 100%;
   font-size: 24rpx;
   z-index: 10;
-  border-top-left-radius: 16rpx;
-  border-top-right-radius: 16rpx;
+  -webkit-border-top-left-radius: 16rpx;
+          border-top-left-radius: 16rpx;
+  -webkit-border-top-right-radius: 16rpx;
+          border-top-right-radius: 16rpx;
   position: relative;
 }
 .bg .dialog .cart-discount .discount-bg.data-v-12733f48 {
@@ -444,7 +471,8 @@ page.data-v-12733f48 {
 }
 .bg .dialog .goods.data-v-12733f48 {
   background-color: #fff;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   width: 702rpx;
   margin-bottom: 20rpx;
   padding-top: 20rpx;
@@ -459,7 +487,8 @@ page.data-v-12733f48 {
 .bg .dialog .goods .cover.data-v-12733f48 {
   height: 180rpx;
   width: 180rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   margin-right: 25rpx;
 }
 .bg .dialog .goods .info.data-v-12733f48 {
@@ -558,7 +587,8 @@ page.data-v-12733f48 {
 .bg .dialog .recommend-goods image.data-v-12733f48 {
   width: 220rpx;
   height: 220rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   display: block;
   margin: 0 33rpx;
 }
@@ -588,7 +618,8 @@ page.data-v-12733f48 {
 .input-info.data-v-12733f48 {
   margin: 0 24rpx;
   background-color: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   width: 702rpx;
 }
 .input-info .input-item.data-v-12733f48 {

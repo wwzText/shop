@@ -77,7 +77,8 @@ page.data-v-5ac2dc9a {
 .pay .pay-view .money-icon.data-v-5ac2dc9a {
   width: 93rpx;
   height: 93rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin-bottom: 20rpx;
 }
 .pay .pay-view .money-name.data-v-5ac2dc9a {
@@ -183,7 +184,8 @@ page.data-v-5ac2dc9a {
   border: 1rpx solid #ccc;
   z-index: 1;
   padding: 24rpx;
-  border-radius: 5rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
 }
 .popup .c.data-v-5ac2dc9a {
   position: fixed;
@@ -218,7 +220,8 @@ page.data-v-5ac2dc9a {
   z-index: 10;
   width: 702rpx;
   margin: 0 auto;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .app-view .app-line.data-v-5ac2dc9a {
   height: 118rpx;

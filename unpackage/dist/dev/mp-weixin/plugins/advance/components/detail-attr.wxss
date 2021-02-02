@@ -46,8 +46,10 @@ page.data-v-a120a004 {
 }
 .attr-content.data-v-a120a004 {
   width: 750rpx;
-  border-top-left-radius: 15rpx;
-  border-top-right-radius: 15rpx;
+  -webkit-border-top-left-radius: 15rpx;
+          border-top-left-radius: 15rpx;
+  -webkit-border-top-right-radius: 15rpx;
+          border-top-right-radius: 15rpx;
   padding: 0 24rpx;
 }
 .attr-content .top.data-v-a120a004 {
@@ -60,7 +62,8 @@ page.data-v-a120a004 {
   width: 200rpx;
   height: 200rpx;
   background-color: white;
-  border-radius: 9rpx;
+  -webkit-border-radius: 9rpx;
+          border-radius: 9rpx;
   text-align: center;
   position: absolute;
   top: -63rpx;
@@ -69,7 +72,8 @@ page.data-v-a120a004 {
   width: 192rpx;
   height: 192rpx;
   margin-top: 4rpx;
-  border-radius: 9rpx;
+  -webkit-border-radius: 9rpx;
+          border-radius: 9rpx;
 }
 .attr-content .top .close.data-v-a120a004 {
   width: 35rpx;
@@ -119,7 +123,8 @@ page.data-v-a120a004 {
   height: 57rpx;
   line-height: 57rpx;
   text-align: center;
-  border-radius: 9rpx;
+  -webkit-border-radius: 9rpx;
+          border-radius: 9rpx;
   color: #1b1b1b;
   margin-right: 20rpx;
   padding: 0 24rpx;

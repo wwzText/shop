@@ -74,14 +74,16 @@ page.data-v-35235b82 {
   line-height: 58rpx;
   background-color: #fff;
   width: 160rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   font-size: 24rpx;
   color: #caa76e;
 }
 .use-btn.data-v-35235b82 {
   height: 55rpx;
   width: 160rpx;
-  border-radius: 27.5rpx;
+  -webkit-border-radius: 27.5rpx;
+          border-radius: 27.5rpx;
   position: absolute;
   right: 20rpx;
   border: 0;
@@ -99,8 +101,10 @@ page.data-v-35235b82 {
   padding: 20rpx 25rpx;
   font-size: 26rpx;
   color: #666;
-  border-bottom-left-radius: 15rpx;
-  border-bottom-right-radius: 15rpx;
+  -webkit-border-bottom-left-radius: 15rpx;
+          border-bottom-left-radius: 15rpx;
+  -webkit-border-bottom-right-radius: 15rpx;
+          border-bottom-right-radius: 15rpx;
 }
 .discount_limit.data-v-35235b82 {
   width: 286rpx;

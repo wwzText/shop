@@ -51,7 +51,8 @@ page.data-v-175addf8 {
   width: 470rpx;
   height: 5rpx;
   top: 50rpx;
-  border-radius: 2.5rpx;
+  -webkit-border-radius: 2.5rpx;
+          border-radius: 2.5rpx;
   background-color: #e3e3e3;
   position: relative;
 }
@@ -110,7 +111,8 @@ page.data-v-175addf8 {
 .app-to-index.data-v-175addf8 {
   width: 702rpx;
   height: 80rpx;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   background-color: #ff4544;
   color: #fff;
   text-align: center;
@@ -189,7 +191,8 @@ page.data-v-175addf8 {
   color: #ff4544;
   border: 2rpx solid #ff4544;
   margin-left: 16rpx;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   font-size: 24rpx;
 }
 .info > view.data-v-175addf8 {

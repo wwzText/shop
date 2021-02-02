@@ -71,7 +71,8 @@ page.data-v-e242fdc8 {
   width: 21rpx;
   background-repeat: no-repeat;
   margin-left: 24rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .poster-goods .setting .line .label text.data-v-e242fdc8 {
   line-height: 1;
@@ -83,7 +84,8 @@ page.data-v-e242fdc8 {
   height: 56rpx;
   padding: 0 20rpx;
   background: #f7f7f7;
-  border-radius: 5rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
   margin: 0 14rpx;
 }
 .poster-goods .setting .line .style-input .type-pure.data-v-e242fdc8 {
@@ -114,11 +116,13 @@ page.data-v-e242fdc8 {
   top: -19rpx;
   right: -19rpx;
   z-index: 10;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .poster-goods .setting .line-input.data-v-e242fdc8 {
   position: relative;
-  border-radius: 5rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
   margin: 0 14rpx 14rpx;
   background: #f7f7f7;
   width: 140rpx;
@@ -138,14 +142,16 @@ page.data-v-e242fdc8 {
   display: inline-block;
   height: 60rpx;
   width: 60rpx;
-  border-radius: 5rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
   border: 1px solid #e5e5e5;
   margin-right: 26rpx;
   margin-top: 19rpx;
 }
 .poster-goods .button.data-v-e242fdc8 {
   font-size: 32rpx;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   height: 68rpx;
   margin: 34rpx auto 0;
   color: #ffffff;

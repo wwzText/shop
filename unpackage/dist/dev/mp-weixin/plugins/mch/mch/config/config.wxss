@@ -114,11 +114,13 @@ page.data-v-47086a30 {
 .white .form-input .switch-view.data-v-47086a30 {
   width: 88rpx;
   height: 48rpx;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   background-color: #dddddd;
 }
 .white .form-input .switch-view .click.data-v-47086a30 {
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   background-color: white;
   width: 38rpx;
   height: 38rpx;
@@ -219,7 +221,8 @@ page.data-v-47086a30 {
 }
 .time-bg .time-dialog.data-v-47086a30 {
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background-color: #fff;
   z-index: 20;
@@ -248,7 +251,8 @@ page.data-v-47086a30 {
   height: 68rpx;
   line-height: 68rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 2rpx solid;
   font-size: 28rpx;
   margin-bottom: 16rpx;

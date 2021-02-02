@@ -55,7 +55,8 @@ page.data-v-2ca19246 {
 .search-content.data-v-2ca19246 {
   background-color: #fff;
   height: 56rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
 }
 .search-content image.data-v-2ca19246 {
   height: 24rpx;
@@ -108,7 +109,8 @@ page.data-v-2ca19246 {
   width: 368rpx;
   height: 56rpx;
   margin: 24rpx auto;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   line-height: 54rpx;
   font-size: 24rpx;
   color: #666666;
@@ -128,7 +130,8 @@ page.data-v-2ca19246 {
   width: 702rpx;
   margin: 0 24rpx 24rpx;
   background-color: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   padding: 24rpx;
   position: relative;
 }
@@ -152,7 +155,8 @@ page.data-v-2ca19246 {
 .goods image.data-v-2ca19246 {
   height: 160rpx;
   width: 160rpx;
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
   float: left;
   margin-right: 20rpx;
 }
@@ -185,7 +189,8 @@ page.data-v-2ca19246 {
   width: 138rpx;
   text-align: center;
   height: 48rpx !important;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   border: 1rpx solid #ff4544;
   line-height: 46rpx;
   margin-top: 28rpx;
@@ -235,7 +240,8 @@ page.data-v-2ca19246 {
 .search-input input.data-v-2ca19246 {
   padding-left: 62rpx;
   background-color: #fff;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   height: 64rpx;
   font-size: 26rpx;
   color: #353535;
@@ -262,7 +268,8 @@ page.data-v-2ca19246 {
   padding: 0 20rpx;
   background-color: #f7f7f7;
   color: #333;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   font-size: 28rpx;
   margin-left: 20rpx;
   margin-bottom: 20rpx;
@@ -279,12 +286,15 @@ page.data-v-2ca19246 {
 .scan button.data-v-2ca19246 {
   height: 116rpx !important;
   width: 112rpx;
-  border-top-left-radius: 58rpx;
-  border-bottom-left-radius: 58rpx;
+  -webkit-border-top-left-radius: 58rpx;
+          border-top-left-radius: 58rpx;
+  -webkit-border-bottom-left-radius: 58rpx;
+          border-bottom-left-radius: 58rpx;
   border: 1rpx solid #cdcdcd;
   border-right: 0;
   background-color: rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0 10rpx #efefef;
+  -webkit-box-shadow: 0 0 10rpx #efefef;
+          box-shadow: 0 0 10rpx #efefef;
   text-align: center;
 }
 .scan button image.data-v-2ca19246 {
@@ -298,7 +308,8 @@ page.data-v-2ca19246 {
   left: 24rpx;
   width: 88rpx;
   height: 88rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .platform.data-v-2ca19246 {
   font-size: 24rpx;
@@ -343,12 +354,16 @@ page.data-v-2ca19246 {
   margin-bottom: 20rpx;
 }
 .left-status.data-v-2ca19246 {
-  border-top-left-radius: 28rpx;
-  border-bottom-left-radius: 28rpx;
+  -webkit-border-top-left-radius: 28rpx;
+          border-top-left-radius: 28rpx;
+  -webkit-border-bottom-left-radius: 28rpx;
+          border-bottom-left-radius: 28rpx;
 }
 .right-status.data-v-2ca19246 {
-  border-top-right-radius: 28rpx;
-  border-bottom-right-radius: 28rpx;
+  -webkit-border-top-right-radius: 28rpx;
+          border-top-right-radius: 28rpx;
+  -webkit-border-bottom-right-radius: 28rpx;
+          border-bottom-right-radius: 28rpx;
 }
 .history-img.data-v-2ca19246 {
   height: 34rpx;

@@ -39,7 +39,8 @@ page.data-v-c568feec {
   background: #ffffff;
   width: 702rpx;
   margin: 0 24rpx 24rpx 24rpx;
-  border-radius: 0 0 15rpx 15rpx;
+  -webkit-border-radius: 0 0 15rpx 15rpx;
+          border-radius: 0 0 15rpx 15rpx;
 }
 .lottery-attr .box.data-v-c568feec {
   border-top: 1px solid #e2e2e2;
@@ -47,7 +48,8 @@ page.data-v-c568feec {
 }
 .lottery-attr .border.data-v-c568feec {
   border: 1px solid #666666;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   font-size: 24rpx;
   line-height: 1;
   padding: 8rpx 16rpx;
@@ -95,7 +97,8 @@ page.data-v-c568feec {
   background: #ff4544;
   opacity: 0.6;
   padding: 0 24rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   font-size: 28rpx;
   color: #FFFFFF;
 }
@@ -117,7 +120,8 @@ page.data-v-c568feec {
   padding: 20rpx 20rpx 20rpx 20rpx;
   width: 702rpx;
   margin: 24rpx 24rpx 0 24rpx;
-  border-radius: 15rpx 15rpx 0 0;
+  -webkit-border-radius: 15rpx 15rpx 0 0;
+          border-radius: 15rpx 15rpx 0 0;
 }
 .goods .name.data-v-c568feec {
   color: #353535;
@@ -171,7 +175,8 @@ page.data-v-c568feec {
   margin: 24rpx 24rpx 0 24rpx;
   padding: 20rpx 20rpx 0 20rpx;
   background: #FFFFFF;
-  border-radius: 15rpx 15rpx 0 0;
+  -webkit-border-radius: 15rpx 15rpx 0 0;
+          border-radius: 15rpx 15rpx 0 0;
 }
 .step view.data-v-c568feec {
   font-size: 32rpx;
@@ -190,7 +195,8 @@ page.data-v-c568feec {
   background: #FFFFFF;
   width: 702rpx;
   margin: 0 24rpx 24rpx 24rpx;
-  border-radius: 0 0 15rpx 15rpx;
+  -webkit-border-radius: 0 0 15rpx 15rpx;
+          border-radius: 0 0 15rpx 15rpx;
 }
 .step-info .label.data-v-c568feec {
   font-size: 52rpx;
@@ -211,7 +217,8 @@ page.data-v-c568feec {
   background: #ffffff;
   color: #353535;
   margin: 24rpx 24rpx 0 24rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
 }
 .lucky-all .friend.data-v-c568feec {
   margin-top: 16rpx;
@@ -232,7 +239,8 @@ page.data-v-c568feec {
   margin-right: 32rpx;
   height: 64rpx;
   width: 64rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .lucky-all .swiper .lucky-code .nickname.data-v-c568feec {
   color: #353535;
@@ -252,12 +260,14 @@ page.data-v-c568feec {
   padding-left: 24rpx;
   width: 702rpx;
   margin: 24rpx 24rpx 0 24rpx;
-  border-radius: 15rpx 15rpx 0 0;
+  -webkit-border-radius: 15rpx 15rpx 0 0;
+          border-radius: 15rpx 15rpx 0 0;
 }
 .rule-info.data-v-c568feec {
   width: 702rpx;
   margin: 0 24rpx 24rpx 24rpx;
-  border-radius: 0 0 15rpx 15rpx;
+  -webkit-border-radius: 0 0 15rpx 15rpx;
+          border-radius: 0 0 15rpx 15rpx;
   background: #FFFFFF;
   padding: 20rpx;
 }

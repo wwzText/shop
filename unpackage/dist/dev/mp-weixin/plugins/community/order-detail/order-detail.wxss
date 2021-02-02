@@ -52,7 +52,8 @@ page.data-v-7bdb58fc {
   left: 50%;
   margin-left: -240rpx;
   background-color: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   z-index: 233;
   font-size: 28rpx;
   color: #353535;
@@ -61,7 +62,8 @@ page.data-v-7bdb58fc {
   top: 230rpx;
   width: 600rpx;
   height: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   padding: 90rpx 0 56rpx;
   font-size: 32rpx;
   margin-left: -300rpx;
@@ -124,7 +126,8 @@ page.data-v-7bdb58fc {
 .title .pick.data-v-7bdb58fc {
   height: 124rpx;
   width: 124rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   background-color: #fff;
   color: #353535;
   font-size: 22rpx;
@@ -140,7 +143,8 @@ page.data-v-7bdb58fc {
   font-size: 38rpx;
 }
 .info.data-v-7bdb58fc {
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   width: 702rpx;
   margin: 0 24rpx;
   background-color: #fff;
@@ -159,12 +163,14 @@ page.data-v-7bdb58fc {
   margin-right: 24rpx;
   width: 56rpx;
   height: 56rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .info .info-top .user-info .avatar image.data-v-7bdb58fc {
   width: 56rpx;
   height: 56rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .info .info-top .user-info .user.data-v-7bdb58fc {
   color: #353535;
@@ -186,14 +192,16 @@ page.data-v-7bdb58fc {
   line-height: 26rpx;
   padding: 0 5rpx;
   display: inline-block;
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
   border: 2rpx solid;
   margin-top: 2rpx;
   position: relative;
   white-space: nowrap;
 }
 .info .info-top .user-info .user .middleman-name .middleman-bg.data-v-7bdb58fc {
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
   position: absolute;
   top: 0;
   left: 0;
@@ -230,7 +238,8 @@ page.data-v-7bdb58fc {
   background-color: #fff;
   margin: 24rpx;
   margin-bottom: 0;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   position: relative;
 }
 .item-card.send.data-v-7bdb58fc {
@@ -294,7 +303,8 @@ page.data-v-7bdb58fc {
   width: 160rpx;
   float: left;
   margin-right: 24rpx;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
 }
 .item-card .goods .goods-name.data-v-7bdb58fc {
   font-size: 26rpx;
@@ -334,7 +344,8 @@ page.data-v-7bdb58fc {
   font-size: 26rpx;
   color: #666666;
   border: 2rpx solid #e2e2e2;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
 }
 .item-card .price-item.data-v-7bdb58fc {
   margin-bottom: 10rpx;
@@ -358,7 +369,8 @@ page.data-v-7bdb58fc {
   top: 12rpx;
   right: 24rpx;
   height: 60rpx;
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
   line-height: 58rpx;
   padding: 0 30rpx;
   border: 2rpx solid #e2e2e2;
@@ -403,7 +415,8 @@ page.data-v-7bdb58fc {
   height: 48rpx;
   line-height: 46rpx;
   padding: 0 24rpx;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   border: 2rpx solid;
   font-size: 24rpx;
   margin-left: 16rpx;

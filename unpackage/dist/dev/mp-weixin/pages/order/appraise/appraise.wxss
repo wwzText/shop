@@ -39,7 +39,8 @@ page.data-v-29117fa5 {
   margin: 24rpx;
 }
 .form-box .item-box.data-v-29117fa5 {
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   background-color: #ffffff;
   padding: 24rpx 20rpx;
   width: 100%;
@@ -76,8 +77,10 @@ page.data-v-29117fa5 {
   background-color: #f7f7f7;
   margin-top: 20rpx;
   padding: 0 24rpx;
-  border-top-left-radius: 5rpx;
-  border-top-right-radius: 5rpx;
+  -webkit-border-top-left-radius: 5rpx;
+          border-top-left-radius: 5rpx;
+  -webkit-border-top-right-radius: 5rpx;
+          border-top-right-radius: 5rpx;
 }
 .form-box .content.data-v-29117fa5 {
   height: 120rpx;
@@ -87,13 +90,16 @@ page.data-v-29117fa5 {
 .form-box .image-box.data-v-29117fa5 {
   padding: 24rpx;
   background-color: #f7f7f7;
-  border-bottom-left-radius: 5rpx;
-  border-bottom-right-radius: 5rpx;
+  -webkit-border-bottom-left-radius: 5rpx;
+          border-bottom-left-radius: 5rpx;
+  -webkit-border-bottom-right-radius: 5rpx;
+          border-bottom-right-radius: 5rpx;
   padding-top: 100rpx;
 }
 .form-box .btn.data-v-29117fa5 {
   background-color: #ff4544;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   color: #fff;
   width: 100%;
   margin-top: 50rpx;

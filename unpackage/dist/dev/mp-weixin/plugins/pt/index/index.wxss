@@ -92,10 +92,12 @@ page.data-v-7872eea7 {
   font-size: 28rpx;
   color: #666666;
   padding: 0 24rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   height: 56rpx;
   line-height: 56rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   margin: 18rpx 32rpx;
 }
 .app-index-nav .app-scroll .app-active-item.data-v-7872eea7 {

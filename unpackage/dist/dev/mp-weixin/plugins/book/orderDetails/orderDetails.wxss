@@ -49,7 +49,8 @@ page.data-v-aabab434 {
 }
 .app-order-details > view.data-v-aabab434 {
   width: 702rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: white;
 }
 .app-order-details .app-image-title.data-v-aabab434 {
@@ -123,7 +124,8 @@ page.data-v-aabab434 {
   width: 150rpx;
   height: 150rpx;
   margin: 5rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
 }
 .app-order-details .app-buttons.data-v-aabab434 {
   height: 102rpx;
@@ -141,7 +143,8 @@ page.data-v-aabab434 {
   height: 60rpx;
   line-height: 60rpx;
   font-size: 28rpx;
-  border-radius: 25rpx;
+  -webkit-border-radius: 25rpx;
+          border-radius: 25rpx;
   display: inline-block;
 }
 .app-order-details .app-buttons .app-red.data-v-aabab434 {

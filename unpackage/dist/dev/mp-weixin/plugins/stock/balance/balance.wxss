@@ -48,12 +48,14 @@ page.data-v-44c15d63 {
 }
 .balance-item.data-v-44c15d63 {
   background-color: #fff;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   font-size: 28rpx;
   color: #999999;
   margin: 24rpx 24rpx 12rpx;
   width: 702rpx;
-  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
 }
 .balance-item .balance-date.data-v-44c15d63 {
   padding: 0 32rpx;

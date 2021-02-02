@@ -69,7 +69,8 @@ page.data-v-4ff77ee9 {
   width: 702rpx;
   background-color: #fff;
   padding: 0 32rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
 }
 .cell .cell-item.data-v-4ff77ee9 {
   border-top: 2rpx solid #e2e2e2;
@@ -92,7 +93,8 @@ page.data-v-4ff77ee9 {
   line-height: 80rpx;
   text-align: center;
   margin: 40rpx auto 0;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   background-color: #ff4544;
   color: #fff;
   font-size: 32rpx;

@@ -46,8 +46,10 @@ page.data-v-359f2bed {
   background: rgba(255, 255, 255, 0.5);
   font-size: 0;
   padding: 20rpx;
-  border-radius: 999rpx;
-  box-shadow: 0 1rpx 3rpx rgba(0, 0, 0, 0.2);
+  -webkit-border-radius: 999rpx;
+          border-radius: 999rpx;
+  -webkit-box-shadow: 0 1rpx 3rpx rgba(0, 0, 0, 0.2);
+          box-shadow: 0 1rpx 3rpx rgba(0, 0, 0, 0.2);
   z-index: 100;
 }
 .cart image.data-v-359f2bed {
@@ -60,8 +62,10 @@ page.data-v-359f2bed {
   position: absolute;
   right: 0;
   bottom: 80rpx;
-  border-top-left-radius: 40rpx;
-  border-bottom-left-radius: 40rpx;
+  -webkit-border-top-left-radius: 40rpx;
+          border-top-left-radius: 40rpx;
+  -webkit-border-bottom-left-radius: 40rpx;
+          border-bottom-left-radius: 40rpx;
   background-color: rgba(0, 0, 0, 0.4);
   z-index: 100;
 }

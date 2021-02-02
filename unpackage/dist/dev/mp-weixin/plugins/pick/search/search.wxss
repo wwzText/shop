@@ -51,7 +51,8 @@ page.data-v-16a9455e {
   height: 64rpx;
   width: 620rpx;
   background-color: #ffffff;
-  border-radius: 36rpx;
+  -webkit-border-radius: 36rpx;
+          border-radius: 36rpx;
   padding: 0 36rpx;
 }
 .search-text.data-v-16a9455e {
@@ -71,7 +72,8 @@ page.data-v-16a9455e {
 .item .out-dialog.data-v-16a9455e {
   width: 220rpx;
   height: 220rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   position: absolute;
   top: 24rpx;
   left: 24rpx;
@@ -81,12 +83,14 @@ page.data-v-16a9455e {
 .item .out-dialog image.data-v-16a9455e {
   width: 220rpx;
   height: 220rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .image.data-v-16a9455e {
   width: 220rpx;
   height: 220rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   -webkit-flex-shrink: 0;
           flex-shrink: 0;
 }
@@ -148,13 +152,15 @@ page.data-v-16a9455e {
   line-height: 56rpx;
   width: 130rpx;
   font-size: 28rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   text-align: center;
   color: #ffffff;
 }
 .history.data-v-16a9455e {
   padding: 36rpx 24rpx;
-  border-radius: 16rpx 16rpx 0 0;
+  -webkit-border-radius: 16rpx 16rpx 0 0;
+          border-radius: 16rpx 16rpx 0 0;
   background-color: #ffffff;
   font-size: 28rpx;
   margin-top: 105rpx;
@@ -174,7 +180,8 @@ page.data-v-16a9455e {
   padding: 0 20rpx;
   margin-right: 20rpx;
   margin-bottom: 16rpx;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
 }
 .delete.data-v-16a9455e {
   width: 32rpx;
@@ -182,7 +189,8 @@ page.data-v-16a9455e {
   position: absolute;
   right: 122rpx;
   top: 36rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   z-index: 1500;
 }
 .goods-list .no-result.data-v-16a9455e {

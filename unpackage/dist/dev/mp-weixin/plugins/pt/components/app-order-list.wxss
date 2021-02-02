@@ -46,7 +46,8 @@ page.data-v-860d5f58 {
 }
 .app-order-list .app-item > view.data-v-860d5f58 {
   width: 750rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   padding: 0 24rpx;
 }
 .app-order-list .app-item .app-top.data-v-860d5f58 {
@@ -59,7 +60,8 @@ page.data-v-860d5f58 {
 .app-order-list .app-item .app-center.data-v-860d5f58 {
   height: 304rpx;
   padding-top: 32rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .app-order-list .app-item .app-center .app-center-top .app-image.data-v-860d5f58 {
   width: 156rpx;
@@ -104,7 +106,8 @@ page.data-v-860d5f58 {
 }
 .app-order-list .app-item .app-center .app-center-bottom.data-v-860d5f58 {
   padding-top: 64rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .app-order-list .app-item .app-center .app-center-bottom > text.data-v-860d5f58 {
   font-size: 28rpx;
@@ -123,7 +126,8 @@ page.data-v-860d5f58 {
   line-height: 56rpx;
   width: 160rpx;
   font-size: 24rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   text-align: center;
 }
 .app-order-list .app-item .app-bottom .app-red-button.data-v-860d5f58 {

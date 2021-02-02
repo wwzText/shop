@@ -73,7 +73,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var appDetails = function appDetails() {Promise.all(/*! require.ensure | pages/coupon/details/app-details */[__webpack_require__.e("common/vendor"), __webpack_require__.e("pages/coupon/details/app-details")]).then((function () {return resolve(__webpack_require__(/*! ./app-details.vue */ 2205));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var appDetails = function appDetails() {Promise.all(/*! require.ensure | pages/coupon/details/app-details */[__webpack_require__.e("common/vendor"), __webpack_require__.e("pages/coupon/details/app-details")]).then((function () {return resolve(__webpack_require__(/*! ./app-details.vue */ 2197));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
 
 
 

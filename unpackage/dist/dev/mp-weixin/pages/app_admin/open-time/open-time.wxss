@@ -76,7 +76,8 @@ page.data-v-e92c49ec {
 .add-attr .add-attr-btn.data-v-e92c49ec {
   height: 72rpx;
   width: 320rpx;
-  border-radius: 36rpx;
+  -webkit-border-radius: 36rpx;
+          border-radius: 36rpx;
   border: 1rpx solid #446dfd;
   margin: 0 auto;
   color: #446dfd;
@@ -103,7 +104,8 @@ page.data-v-e92c49ec {
   line-height: 80rpx;
   height: 80rpx;
   margin: 20rpx auto;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   background-color: #446dfd;
   color: #fff;
   font-size: 32rpx;
@@ -130,7 +132,8 @@ page.data-v-e92c49ec {
 }
 .time-bg .time-dialog.data-v-e92c49ec {
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background-color: #fff;
   z-index: 20;
@@ -159,7 +162,8 @@ page.data-v-e92c49ec {
   height: 68rpx;
   line-height: 68rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 2rpx solid;
   font-size: 28rpx;
   margin-bottom: 16rpx;

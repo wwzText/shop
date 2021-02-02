@@ -36,10 +36,12 @@ page {
   padding-bottom: env(safe-area-inset-bottom);
 }
 .round-active {
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .round-border {
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
 }
 .app-default {
   position: relative;

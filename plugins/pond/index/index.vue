@@ -29,7 +29,7 @@
                                 <view class="name">{{ v.name }}</view>
                             </view>
                             <view class="start-btn" @click="startGame">
-                                <image class="pond-start1" src="../../../static/image/pond-button.png" load-lazy></image>
+                                <image class="pond-start1" src="./../image/pond-button.png" load-lazy></image>
                                 <block v-if="setting.deplete_integral_num > 0">
                                     <view class="pond-start2" :animation="animationData">
                                         <image src="./../image/pond-register.png" load-lazy></image>
@@ -40,7 +40,7 @@
                                         </view>
                                     </view>
                                 </block>
-                                <image v-else class="pond-start3" src="../../../static/image/pond-start.png"
+                                <image v-else class="pond-start3" src="./../image/pond-start.png"
                                        :animation="animationData" load-lazy></image>
                             </view>
                         </view>

@@ -99,8 +99,10 @@ page.data-v-f4bbe388 {
   width: 140rpx;
   height: 140rpx;
   margin-right: 24rpx;
-  border-radius: 999rpx;
-  box-shadow: 0 0 1rpx rgba(0, 0, 0, 0.25);
+  -webkit-border-radius: 999rpx;
+          border-radius: 999rpx;
+  -webkit-box-shadow: 0 0 1rpx rgba(0, 0, 0, 0.25);
+          box-shadow: 0 0 1rpx rgba(0, 0, 0, 0.25);
 }
 .list .item .name.data-v-f4bbe388 {
   white-space: nowrap;

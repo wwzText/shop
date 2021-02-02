@@ -36,7 +36,8 @@ page.data-v-51534dbc {
   padding-bottom: env(safe-area-inset-bottom);
 }
 .login.data-v-51534dbc {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   position: fixed;
   top: 0;
   left: 0;

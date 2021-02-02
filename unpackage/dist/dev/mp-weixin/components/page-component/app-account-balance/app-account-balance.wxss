@@ -38,18 +38,22 @@ page.data-v-ea039b88 {
 .app-account-balance.no-margin.data-v-ea039b88 {
   width: 100%;
   margin: 0 auto;
-  box-shadow: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
 }
 .app-account-balance.no-round.data-v-ea039b88 {
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
 }
 .app-account-balance.data-v-ea039b88 {
   width: 702rpx;
   height: 100rpx;
   background: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 24rpx auto;
-  box-shadow: 0 0 8rpx rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0 0 8rpx rgba(0, 0, 0, 0.05);
+          box-shadow: 0 0 8rpx rgba(0, 0, 0, 0.05);
 }
 .data-col.data-v-ea039b88 {
   width: 100%;

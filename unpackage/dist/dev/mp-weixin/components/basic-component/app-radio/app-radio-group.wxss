@@ -55,7 +55,8 @@ page.data-v-625b1f36 {
   line-height: 54rpx;
   border: 2rpx solid;
   padding: 0 24rpx;
-  border-radius: 1000rpx;
+  -webkit-border-radius: 1000rpx;
+          border-radius: 1000rpx;
   font-size: 28rpx;
 }
 .background.data-v-625b1f36 {

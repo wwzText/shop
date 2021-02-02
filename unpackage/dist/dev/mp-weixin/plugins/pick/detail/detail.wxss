@@ -91,7 +91,8 @@ page.data-v-aa9e9584 {
   padding: 0 24rpx;
 }
 .rule .tag.data-v-aa9e9584 {
-  border-radius: 13rpx;
+  -webkit-border-radius: 13rpx;
+          border-radius: 13rpx;
   font-size: 19rpx;
   line-height: 29rpx;
   background-color: #ff4544;

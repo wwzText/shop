@@ -65,7 +65,8 @@ page.data-v-199c9a2f {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: white;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin-top: 60rpx;
   margin-bottom: 24rpx;
 }
@@ -95,14 +96,16 @@ page.data-v-199c9a2f {
   height: 100rpx;
 }
 .share-qr-code-poster .app-bottom .app-button.data-v-199c9a2f button {
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   border: none;
 }
 .share-qr-code-poster .app-center.data-v-199c9a2f {
   width: calc(100% - 80rpx);
   padding-top: 100rpx;
   padding-bottom: 77rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   background-color: white;
   position: absolute;
   top: 50%;
@@ -124,7 +127,8 @@ page.data-v-199c9a2f {
   width: 440rpx;
   height: 783rpx;
   position: relative;
-  box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
+  -webkit-box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
+          box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
 }
 .share-qr-code-poster .app-center .app-image-iframe .text.data-v-199c9a2f {
   text-align: center;
@@ -156,7 +160,8 @@ page.data-v-199c9a2f {
   height: 100rpx;
 }
 .app-bottom .app-button.data-v-199c9a2f button {
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   border: none;
 }
 .nav.data-v-199c9a2f {
@@ -191,8 +196,10 @@ page.data-v-199c9a2f {
   height: 48rpx;
   width: 90rpx;
   line-height: 48rpx;
-  border-top-left-radius: 24rpx;
-  border-bottom-left-radius: 24rpx;
+  -webkit-border-top-left-radius: 24rpx;
+          border-top-left-radius: 24rpx;
+  -webkit-border-bottom-left-radius: 24rpx;
+          border-bottom-left-radius: 24rpx;
   background-color: rgba(0, 0, 0, 0.2);
 }
 .today-top.data-v-199c9a2f {
@@ -241,7 +248,8 @@ page.data-v-199c9a2f {
   padding: 48rpx 0 35rpx;
 }
 .step-btn.data-v-199c9a2f:active {
-  border-radius: 140rpx;
+  -webkit-border-radius: 140rpx;
+          border-radius: 140rpx;
   background-color: rgba(0, 0, 0, 0.5);
 }
 .step-num.data-v-199c9a2f {
@@ -268,11 +276,14 @@ page.data-v-199c9a2f {
   margin-right: 10rpx;
 }
 .invite.data-v-199c9a2f {
+  background: -webkit-gradient(linear, left top, right top, from(#ff9d1e), to(#ffb81e));
   background: -webkit-linear-gradient(left, #ff9d1e, #ffb81e);
   background: linear-gradient(to right, #ff9d1e, #ffb81e);
   height: 80rpx;
-  border-radius: 40rpx;
-  box-shadow: 0 0 20rpx #ffb71e;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
+  -webkit-box-shadow: 0 0 20rpx #ffb71e;
+          box-shadow: 0 0 20rpx #ffb71e;
   text-shadow: 0 0 6rpx #ffb81e;
   line-height: 80rpx;
   color: white;
@@ -307,15 +318,18 @@ page.data-v-199c9a2f {
   font-size: 24rpx;
   background-color: #ffebd2;
   color: #ff9d1e;
-  border-top-right-radius: 40rpx;
-  border-bottom-right-radius: 40rpx;
+  -webkit-border-top-right-radius: 40rpx;
+          border-top-right-radius: 40rpx;
+  -webkit-border-bottom-right-radius: 40rpx;
+          border-bottom-right-radius: 40rpx;
   float: left;
   margin-right: 24rpx;
 }
 .friend-list image.data-v-199c9a2f {
   height: 80rpx;
   width: 80rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin: 0 10rpx;
 }
 .look-more.data-v-199c9a2f {
@@ -327,7 +341,8 @@ page.data-v-199c9a2f {
   background-color: #f2f2f2;
   color: #999;
   font-size: 22rpx;
-  border-radius: 36rpx;
+  -webkit-border-radius: 36rpx;
+          border-radius: 36rpx;
   position: relative;
 }
 .look-more image.data-v-199c9a2f {
@@ -383,7 +398,8 @@ page.data-v-199c9a2f {
   padding: 40rpx 0 40rpx 32rpx;
   margin: 0 24rpx;
   background-color: white;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .dare-banner.data-v-199c9a2f {
   color: #666;
@@ -410,7 +426,8 @@ page.data-v-199c9a2f {
 .join-over.data-v-199c9a2f {
   height: 56rpx;
   width: 280rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #fff;
   color: #ff9d1e;
   border: 1px solid #ff9d1e;
@@ -421,7 +438,8 @@ page.data-v-199c9a2f {
 .submit-over.data-v-199c9a2f {
   height: 56rpx;
   width: 210rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #fff;
   color: #ff9d1e;
   border: 1px solid #ff9d1e;
@@ -512,7 +530,8 @@ page.data-v-199c9a2f {
 .join.data-v-199c9a2f {
   height: 56rpx;
   width: 200rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #ff9d1e;
   color: #fff;
   font-size: 26rpx;
@@ -556,7 +575,8 @@ page.data-v-199c9a2f {
   margin: 14rpx 14rpx 0 0;
   position: relative;
   display: block;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   position: relative;
 }
 .good-item .out-dialog.data-v-199c9a2f {
@@ -575,14 +595,18 @@ page.data-v-199c9a2f {
   height: 344rpx;
   width: 344rpx;
   display: block;
-  border-top-left-radius: 16rpx;
-  border-top-right-radius: 16rpx;
+  -webkit-border-top-left-radius: 16rpx;
+          border-top-left-radius: 16rpx;
+  -webkit-border-top-right-radius: 16rpx;
+          border-top-right-radius: 16rpx;
 }
 .good-info.data-v-199c9a2f {
   padding: 12rpx 24rpx 24rpx 24rpx;
   background-color: white;
-  border-bottom-left-radius: 16rpx;
-  border-bottom-right-radius: 16rpx;
+  -webkit-border-bottom-left-radius: 16rpx;
+          border-bottom-left-radius: 16rpx;
+  -webkit-border-bottom-right-radius: 16rpx;
+          border-bottom-right-radius: 16rpx;
 }
 .good-name.data-v-199c9a2f {
   color: #353535;
@@ -602,7 +626,8 @@ page.data-v-199c9a2f {
 .good-exchange.data-v-199c9a2f {
   width: 296rpx;
   height: 48rpx;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   color: white;
   font-size: 28rpx;
   line-height: 48rpx;
@@ -626,7 +651,8 @@ page.data-v-199c9a2f {
   height: 250rpx;
   text-align: center;
   background-color: #fff;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   padding-top: 65rpx;
   font-size: 28rpx;
   position: relative;

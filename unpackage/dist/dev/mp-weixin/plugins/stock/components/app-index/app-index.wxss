@@ -55,11 +55,13 @@ page.data-v-01c948ba {
   font-size: 28rpx;
   color: #ffe5be;
   background-color: rgba(0, 0, 0, 0.3);
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
 }
 .app-stock-user .user-info image.data-v-01c948ba {
   width: 56rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   height: 56rpx;
   margin-right: 16rpx;
   display: block;
@@ -69,8 +71,10 @@ page.data-v-01c948ba {
   font-size: 22rpx;
   color: #fff;
   background-color: #ff4544;
-  border-radius: 16rpx;
-  border-bottom-left-radius: 0;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
+  -webkit-border-bottom-left-radius: 0;
+          border-bottom-left-radius: 0;
   position: absolute;
   right: -40rpx;
   top: -20rpx;
@@ -102,7 +106,8 @@ page.data-v-01c948ba {
 }
 .app-stock-user .cash-btn.data-v-01c948ba {
   padding: 0 42rpx;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   display: inline-block;
   height: 64rpx;
   line-height: 64rpx;
@@ -112,6 +117,7 @@ page.data-v-01c948ba {
   position: absolute;
   right: 56rpx;
   top: 232rpx;
+  background: -webkit-gradient(linear, left top, right top, from(#d59635), to(#f8bb60));
   background: -webkit-linear-gradient(left, #d59635, #f8bb60);
   background: linear-gradient(left, #d59635, #f8bb60);
 }
@@ -126,8 +132,10 @@ page.data-v-01c948ba {
   z-index: 2;
   width: 702rpx;
   height: 124rpx;
-  border-radius: 16rpx;
-  box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
+  -webkit-box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
+          box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
   padding: 0 32rpx;
   color: #999999;
   font-size: 26rpx;
@@ -141,10 +149,12 @@ page.data-v-01c948ba {
 .app-stock-menu.data-v-01c948ba {
   margin: 24rpx;
   margin-top: -20rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #fff;
   padding: 48rpx 27rpx 50rpx;
-  box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
+          box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
 }
 .app-stock-menu .menu-item.data-v-01c948ba {
   width: 216rpx;

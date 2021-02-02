@@ -89,7 +89,8 @@ page.data-v-7d363545 {
 }
 .detail-btn.data-v-7d363545 {
   border: 1rpx solid #bbbbbb;
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
   padding: 10rpx 30rpx;
 }
 

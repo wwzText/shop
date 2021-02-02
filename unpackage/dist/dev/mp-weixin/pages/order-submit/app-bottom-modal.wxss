@@ -56,8 +56,10 @@ page.data-v-77d55326 {
   transition: 300ms;
   -webkit-transition-timing-function: ease;
           transition-timing-function: ease;
-  border-radius: 16rpx 16rpx 0 0;
-  box-shadow: 0 0 24rpx rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 16rpx 16rpx 0 0;
+          border-radius: 16rpx 16rpx 0 0;
+  -webkit-box-shadow: 0 0 24rpx rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 24rpx rgba(0, 0, 0, 0.1);
 }
 .order-submit-picker .container .title.data-v-77d55326 {
   padding: 28rpx 32rpx;

@@ -163,7 +163,8 @@ page.data-v-148002ff {
   height: 30rpx;
   line-height: 30rpx;
   padding: 0 15rpx;
-  border-radius: 15rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
   font-size: 22rpx;
   display: inline-block;
   margin-bottom: 20rpx;

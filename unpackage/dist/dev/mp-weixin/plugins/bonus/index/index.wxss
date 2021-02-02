@@ -86,7 +86,8 @@ input.data-v-b2341bd0 {
   line-height: 80rpx;
   width: 702rpx;
   margin: 0 auto;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   background-color: #ff4544;
   color: #fff;
   font-size: 32rpx;
@@ -159,13 +160,15 @@ input.data-v-b2341bd0 {
 .progress.data-v-b2341bd0 {
   width: 600rpx;
   background-color: #f0f0f0;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   height: 40rpx;
   margin: 40rpx auto 0;
   position: relative;
 }
 .progress view.data-v-b2341bd0 {
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   height: 40rpx;
   position: absolute;
   top: 0;
@@ -212,9 +215,11 @@ input.data-v-b2341bd0 {
   margin: 24rpx;
   width: 702rpx;
   padding: 40rpx;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff7757), to(#ff6362));
   background: -webkit-linear-gradient(top, #ff7757, #ff6362);
   background: linear-gradient(to bottom, #ff7757, #ff6362);
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   font-size: 36rpx;
   color: #fff;
 }
@@ -222,7 +227,8 @@ input.data-v-b2341bd0 {
   height: 80rpx;
   width: 80rpx;
   margin-right: 28rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   border: 2rpx solid #fff;
 }
 .user-info .user-name.data-v-b2341bd0 {
@@ -269,7 +275,8 @@ input.data-v-b2341bd0 {
   background-color: #fff;
   font-size: 28rpx;
   color: #999;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   width: 702rpx;
   margin: 0 24rpx 16rpx;
 }
@@ -302,7 +309,8 @@ input.data-v-b2341bd0 {
   height: 48rpx;
   width: 96rpx;
   line-height: 46rpx;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   border: 1rpx solid #ff4544;
   color: #ff4544;
   font-size: 24rpx;
@@ -316,8 +324,10 @@ input.data-v-b2341bd0 {
 }
 .order-item.data-v-b2341bd0 {
   margin-bottom: 0;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
+  -webkit-border-bottom-left-radius: 0;
+          border-bottom-left-radius: 0;
+  -webkit-border-bottom-right-radius: 0;
+          border-bottom-right-radius: 0;
 }
 .order-icon.data-v-b2341bd0 {
   height: 40rpx;
@@ -333,8 +343,10 @@ input.data-v-b2341bd0 {
   margin-top: 40rpx;
 }
 .member-item.data-v-b2341bd0 {
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
+  -webkit-border-top-left-radius: 0;
+          border-top-left-radius: 0;
+  -webkit-border-top-right-radius: 0;
+          border-top-right-radius: 0;
 }
 .member-item > image.data-v-b2341bd0 {
   height: 40rpx;
@@ -365,7 +377,8 @@ input.data-v-b2341bd0 {
   z-index: 99;
   background-color: #fff;
   width: 80%;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   margin: 100rpx auto;
 }
 .protocol-name.data-v-b2341bd0 {
@@ -387,8 +400,10 @@ input.data-v-b2341bd0 {
   background-color: #ff4544;
   color: #fff;
   font-size: 30rpx;
-  border-bottom-right-radius: 20rpx;
-  border-bottom-left-radius: 20rpx;
+  -webkit-border-bottom-right-radius: 20rpx;
+          border-bottom-right-radius: 20rpx;
+  -webkit-border-bottom-left-radius: 20rpx;
+          border-bottom-left-radius: 20rpx;
 }
 .protocol image.data-v-b2341bd0 {
   height: 200rpx;

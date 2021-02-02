@@ -49,14 +49,16 @@ page.data-v-3b49b0fa {
 .cash-type-item .cash-type-box .radio-single.data-v-3b49b0fa {
   width: 40rpx;
   height: 40rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   background-color: white;
   border: 1rpx solid #e2e2e2;
 }
 .cash-type-item .cash-type-box .radio-single-active.data-v-3b49b0fa {
   width: 40rpx;
   height: 40rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   background-repeat: repeat;
   background-size: 100% 100%;
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAApVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+4/eNVAAAANnRSTlMA/ekE8GBXPBgH9UAinYQtGuTe1Pfbyb21pKFxUk9MJvKrlYt/dmlENx4L7bGXZlsyEw+5fGqc+0FSAAABf0lEQVQ4y4XU13aCQBSF4T0OKB0BewE19q5Jzvs/WgYNMFK/O9b6YRjKAckWwUrtWJoWmardX5BMDn075Ejxud0vDVtOFzma0yqGIxMlOuN8eOEo57CPcI1KVyaFDmr8sjScoJaThMMjavHxOzzt0MDyX6GNRlMmQs9Cs0CEI1Rqz/Dvi8DaqGIyaut4sRT4Oip0DCI64G2IMSrsFNHdkie3xbbqeqJTbtkhzIou/sDmSLmIyvchuoW8TQvp16qvJ7q8bk/uRPbIHhWdj9n1ejPINCT75yMiWj6T+zNUfOjini59jn+IB3CPu/xriJDtjK9E+d2NPKLi63LhILMU5aCfrisLMYBkQi8hClYwXGT0uOxdUaD7YBdIuE2kokhloODz1PUUJYYEYhs0Mk8ipL6FBnzw/l1tjno/yQCYotaulYTKDDVcj5Kwttz78jTrbVEhbOUG6VcXJZ4bozCagzYK5kHZsDcGGw0SbTpUSAolzBure/egaZa7V5ceI8kfDGlVHv5Qx4QAAAAASUVORK5CYII=);

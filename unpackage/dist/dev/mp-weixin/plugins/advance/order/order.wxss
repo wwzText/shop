@@ -85,7 +85,8 @@ page.data-v-33ef4db3 {
   width: 570rpx;
   height: 56rpx;
   background-color: white;
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
   margin-left: 28rpx;
 }
 .order .top .top-input .input > image.data-v-33ef4db3 {
@@ -135,7 +136,8 @@ page.data-v-33ef4db3 {
 .order .item .item-center .image.data-v-33ef4db3 {
   width: 220rpx;
   height: 220rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .order .item .item-center .content.data-v-33ef4db3 {
   width: 482rpx;
@@ -189,7 +191,8 @@ page.data-v-33ef4db3 {
   font-size: 28rpx;
   color: #ffffff;
   padding: 0 24rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   margin-top: 32rpx;
 }
 .order-empty.data-v-33ef4db3 {
@@ -230,7 +233,8 @@ page.data-v-33ef4db3 {
 .search .input.data-v-33ef4db3 {
   height: 64rpx;
   width: 620rpx;
-  border-radius: 50rpx;
+  -webkit-border-radius: 50rpx;
+          border-radius: 50rpx;
   background-color: #ffffff;
   padding-left: 32rpx;
   font-size: 26rpx;

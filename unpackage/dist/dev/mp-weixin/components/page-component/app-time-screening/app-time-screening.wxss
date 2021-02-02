@@ -46,7 +46,8 @@ page.data-v-a94c76cc {
 }
 .time-bg .time-dialog.data-v-a94c76cc {
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background-color: #fff;
   z-index: 20;
@@ -67,7 +68,8 @@ page.data-v-a94c76cc {
   height: 68rpx;
   line-height: 68rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 2rpx solid;
   font-size: 28rpx;
   margin-bottom: 16rpx;

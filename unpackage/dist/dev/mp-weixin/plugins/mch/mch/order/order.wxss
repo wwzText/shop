@@ -68,14 +68,18 @@ page.data-v-5e16aec6 {
   display: block;
 }
 .tab-item.tab-left.data-v-5e16aec6 {
-  border-top-left-radius: 28rpx;
-  border-bottom-left-radius: 28rpx;
+  -webkit-border-top-left-radius: 28rpx;
+          border-top-left-radius: 28rpx;
+  -webkit-border-bottom-left-radius: 28rpx;
+          border-bottom-left-radius: 28rpx;
   border: 1rpx solid #ff4544;
   border-right: 0;
 }
 .tab-item.tab-right.data-v-5e16aec6 {
-  border-top-right-radius: 28rpx;
-  border-bottom-right-radius: 28rpx;
+  -webkit-border-top-right-radius: 28rpx;
+          border-top-right-radius: 28rpx;
+  -webkit-border-bottom-right-radius: 28rpx;
+          border-bottom-right-radius: 28rpx;
   border: 1rpx solid #ff4544;
   border-left: 0;
 }
@@ -97,7 +101,8 @@ page.data-v-5e16aec6 {
 .search.data-v-5e16aec6 {
   height: 56rpx;
   line-height: 56rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #fff;
   color: #b2b2b2;
   width: 528rpx;
@@ -150,7 +155,8 @@ page.data-v-5e16aec6 {
   background-color: #fff;
   padding: 24rpx;
   margin: 20rpx 24rpx 0;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   display: block;
 }
 .order-info.data-v-5e16aec6 {
@@ -196,7 +202,8 @@ page.data-v-5e16aec6 {
   width: 160rpx;
   float: left;
   margin-right: 20rpx;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
 }
 .goods .goods-attr.data-v-5e16aec6 {
   font-size: 24rpx;
@@ -239,7 +246,8 @@ page.data-v-5e16aec6 {
   -webkit-align-items: center;
           align-items: center;
   padding: 0 24rpx;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   border: 1rpx solid #bbb;
   color: #353535;
   font-size: 24rpx;
@@ -295,7 +303,8 @@ page.data-v-5e16aec6 {
 .search-input input.data-v-5e16aec6 {
   padding-left: 62rpx;
   background-color: #fff;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   height: 64rpx;
   font-size: 26rpx;
   color: #353535;
@@ -322,7 +331,8 @@ page.data-v-5e16aec6 {
   padding: 0 20rpx;
   background-color: #f7f7f7;
   color: #333;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   font-size: 28rpx;
   margin-left: 20rpx;
   margin-bottom: 20rpx;
@@ -339,7 +349,8 @@ page.data-v-5e16aec6 {
 }
 .dialog.data-v-5e16aec6 {
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background-color: #fff;
   z-index: 20;
@@ -356,7 +367,8 @@ page.data-v-5e16aec6 {
   height: 68rpx;
   line-height: 68rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 2rpx solid #ddd;
   color: #666;
   font-size: 28rpx;
@@ -367,7 +379,8 @@ page.data-v-5e16aec6 {
   height: 68rpx;
   line-height: 66rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 1rpx solid #ddd;
   color: #666;
   background-color: #fff;
@@ -417,7 +430,8 @@ page.data-v-5e16aec6 {
   width: 492rpx;
   padding: 24rpx 32rpx;
   font-size: 28rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   border: 1rpx solid #e2e2e2;
   text-align: left;
   margin: 32rpx auto;
@@ -440,7 +454,8 @@ page.data-v-5e16aec6 {
   width: 298rpx;
   height: 64rpx;
   margin-left: 24rpx;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   padding-left: 62rpx;
   background-color: #f7f7f7;
 }
@@ -526,7 +541,8 @@ page.data-v-5e16aec6 {
 .refund-price.data-v-5e16aec6 {
   width: 160rpx;
   border: 1rpx solid #e2e2e2;
-  border-radius: 5rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
   font-size: 32rpx;
   padding: 0 5rpx;
 }

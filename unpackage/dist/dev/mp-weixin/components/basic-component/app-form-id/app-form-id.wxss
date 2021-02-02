@@ -51,7 +51,8 @@ button.data-v-6cbfa376 {
   padding: 0 0;
   background: transparent;
   border: none;
-  border-radius: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   overflow: inherit;
   font-size: inherit;
   color: inherit;

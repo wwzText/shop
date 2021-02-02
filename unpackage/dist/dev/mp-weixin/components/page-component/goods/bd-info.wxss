@@ -2,7 +2,8 @@
 .bd-info {
     width: 702rpx;
     background-color: #ffffff;
-    border-radius: 15rpx;
+    -webkit-border-radius: 15rpx;
+            border-radius: 15rpx;
     padding: 20rpx;
     margin: 24rpx 24rpx 24rpx 24rpx;
 }

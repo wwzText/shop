@@ -45,7 +45,8 @@ page.data-v-1ed99b1c {
   width: 100%;
   height: 58rpx;
   background-color: #ffffff;
-  border-radius: 29rpx;
+  -webkit-border-radius: 29rpx;
+          border-radius: 29rpx;
 }
 .input text.data-v-1ed99b1c {
   font-size: 26rpx;

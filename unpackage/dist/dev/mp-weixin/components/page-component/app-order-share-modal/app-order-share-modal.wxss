@@ -46,7 +46,8 @@ page.data-v-4eb168f8 {
 .app-order-share-modal .modal.data-v-4eb168f8 {
   background-color: #ffffff;
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   text-align: center;
 }
 .app-order-share-modal .modal .title.data-v-4eb168f8 {

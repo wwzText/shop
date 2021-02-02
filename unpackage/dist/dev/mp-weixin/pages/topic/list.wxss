@@ -46,7 +46,8 @@ page.data-v-6a7d3892 {
   white-space: nowrap;
   padding: 0 32rpx;
   border-bottom: 1rpx solid #e2e2e2;
-  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.06);
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.06);
+          box-shadow: 0 1px 5px rgba(0, 0, 0, 0.06);
 }
 .auto-item.data-v-6a7d3892 {
   display: inline-block;

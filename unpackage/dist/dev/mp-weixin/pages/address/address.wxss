@@ -43,7 +43,8 @@ page.data-v-db675620 {
   width: 750rpx;
   height: 88rpx;
   padding: 16rpx 24rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   background-color: #efeff4;
   top: 0px;
   position: fixed;
@@ -54,7 +55,8 @@ page.data-v-db675620 {
   width: 702rpx;
   height: 56rpx;
   position: absolute;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #ffffff;
 }
 .search .prompt > image.data-v-db675620 {
@@ -69,10 +71,12 @@ page.data-v-db675620 {
 .search input.data-v-db675620 {
   width: 702rpx;
   height: 56rpx;
-  border-radius: 28rpx;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
   background-color: #ffffff;
   padding: 0 70rpx 0 30rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   font-size: 26rpx;
 }
 .search .search-clear.data-v-db675620 {

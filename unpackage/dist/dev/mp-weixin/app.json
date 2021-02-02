@@ -393,18 +393,6 @@
       ]
     },
     {
-      "root": "pages/live",
-      "pages": [
-        "index"
-      ],
-      "plugins": {
-        "live-player-plugin": {
-          "version": "1.2.1",
-          "provider": "wx2b03c6e691cd7370"
-        }
-      }
-    },
-    {
       "root": "plugins/composition",
       "pages": [
         "index/index",
@@ -565,5 +553,5 @@
     "app-member-price": "/components/page-component/app-member-mark/app-member-price",
     "app-sup-vip": "/components/page-component/app-sup-vip/app-sup-vip"
   },
-  "sitemapLocation": "sitemap24.json"
+  "sitemapLocation": "sitemap51.json"
 }

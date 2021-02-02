@@ -46,7 +46,8 @@ page.data-v-0b799036 {
   line-height: 62rpx;
   font-size: 24rpx;
   color: #353535;
-  border-radius: 38rpx;
+  -webkit-border-radius: 38rpx;
+          border-radius: 38rpx;
   border: 1rpx solid #bbbbbb;
 }
 .u-bottom-fixed.data-v-0b799036 {

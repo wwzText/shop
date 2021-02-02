@@ -44,7 +44,8 @@ page.data-v-5a62b750 {
   -webkit-align-items: center;
           align-items: center;
   padding: 0 16rpx;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   border: 2rpx solid #bbb;
   color: #353535;
   font-size: 24rpx;
@@ -65,7 +66,8 @@ page.data-v-5a62b750 {
 }
 .bg .dialog.data-v-5a62b750 {
   width: 620rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background-color: #fff;
   z-index: 20;
@@ -107,7 +109,8 @@ page.data-v-5a62b750 {
   width: 492rpx;
   padding: 24rpx 32rpx;
   font-size: 28rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   border: 2rpx solid #e2e2e2;
   text-align: left;
   margin: 32rpx auto;
@@ -119,7 +122,8 @@ page.data-v-5a62b750 {
   color: #353535;
 }
 .bg .dialog .remark-input input.data-v-5a62b750 {
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #F7F7F7;
   height: 80rpx;
   line-height: 80rpx;
@@ -149,7 +153,8 @@ page.data-v-5a62b750 {
   width: 298rpx;
   height: 64rpx;
   margin-left: 24rpx;
-  border-radius: 32rpx;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
   padding-left: 62rpx;
   background-color: #f7f7f7;
 }
@@ -258,7 +263,8 @@ page.data-v-5a62b750 {
 .bg .dialog .refund-price.data-v-5a62b750 {
   width: 160rpx;
   border: 2rpx solid #e2e2e2;
-  border-radius: 5rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
   font-size: 32rpx;
   padding: 0 5rpx;
 }

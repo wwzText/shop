@@ -63,7 +63,8 @@ page.data-v-46f595fa {
   width: 702rpx;
   height: 88rpx;
   line-height: 88rpx;
-  border-radius: 44rpx;
+  -webkit-border-radius: 44rpx;
+          border-radius: 44rpx;
   text-align: center;
   color: #fff;
   font-size: 32rpx;

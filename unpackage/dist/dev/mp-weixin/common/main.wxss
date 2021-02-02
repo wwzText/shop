@@ -798,122 +798,152 @@ page {
   background: linear-gradient(140deg, #ff4544, #ffdada);
 }
 .a.a-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(rgba(255, 69, 68, 0.5)));
   background: -webkit-linear-gradient(left, #ff4544, rgba(255, 69, 68, 0.5));
   background: linear-gradient(to right, #ff4544, rgba(255, 69, 68, 0.5));
 }
 .b.b-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#fcc600), to(rgba(252, 198, 0, 0.5)));
   background: -webkit-linear-gradient(left, #fcc600, rgba(252, 198, 0, 0.5));
   background: linear-gradient(to right, #fcc600, rgba(252, 198, 0, 0.5));
 }
 .c.c-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#ff547b), to(rgba(255, 84, 123, 0.5)));
   background: -webkit-linear-gradient(left, #ff547b, rgba(255, 84, 123, 0.5));
   background: linear-gradient(to right, #ff547b, rgba(255, 84, 123, 0.5));
 }
 .d.d-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#ddb766), to(rgba(221, 183, 102, 0.5)));
   background: -webkit-linear-gradient(left, #ddb766, rgba(221, 183, 102, 0.5));
   background: linear-gradient(to right, #ddb766, rgba(221, 183, 102, 0.5));
 }
 .e.e-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#7783ea), to(rgba(119, 131, 234, 0.5)));
   background: -webkit-linear-gradient(left, #7783ea, rgba(119, 131, 234, 0.5));
   background: linear-gradient(to right, #7783ea, rgba(119, 131, 234, 0.5));
 }
 .f.f-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(rgba(255, 69, 68, 0.5)));
   background: -webkit-linear-gradient(left, #ff4544, rgba(255, 69, 68, 0.5));
   background: linear-gradient(to right, #ff4544, rgba(255, 69, 68, 0.5));
 }
 .g.g-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#63be72), to(rgba(99, 190, 114, 0.5)));
   background: -webkit-linear-gradient(left, #63be72, rgba(99, 190, 114, 0.5));
   background: linear-gradient(to right, #63be72, rgba(99, 190, 114, 0.5));
 }
 .h.h-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#4a90e2), to(rgba(74, 144, 226, 0.5)));
   background: -webkit-linear-gradient(left, #4a90e2, rgba(74, 144, 226, 0.5));
   background: linear-gradient(to right, #4a90e2, rgba(74, 144, 226, 0.5));
 }
 .i.i-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#333333), to(rgba(51, 51, 51, 0.5)));
   background: -webkit-linear-gradient(left, #333333, rgba(51, 51, 51, 0.5));
   background: linear-gradient(to right, #333333, rgba(51, 51, 51, 0.5));
 }
 .j.j-m-gradient-l {
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(rgba(255, 69, 68, 0.5)));
   background: -webkit-linear-gradient(left, #ff4544, rgba(255, 69, 68, 0.5));
   background: linear-gradient(to right, #ff4544, rgba(255, 69, 68, 0.5));
 }
 .a.a-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(rgba(255, 69, 68, 0.7)));
   background: -webkit-linear-gradient(left, #ff4544, rgba(255, 69, 68, 0.7));
   background: linear-gradient(to right, #ff4544, rgba(255, 69, 68, 0.7));
 }
 .b.b-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#fcc600), to(rgba(252, 198, 0, 0.7)));
   background: -webkit-linear-gradient(left, #fcc600, rgba(252, 198, 0, 0.7));
   background: linear-gradient(to right, #fcc600, rgba(252, 198, 0, 0.7));
 }
 .c.c-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#ff547b), to(rgba(255, 84, 123, 0.7)));
   background: -webkit-linear-gradient(left, #ff547b, rgba(255, 84, 123, 0.7));
   background: linear-gradient(to right, #ff547b, rgba(255, 84, 123, 0.7));
 }
 .d.d-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#ddb766), to(rgba(221, 183, 102, 0.7)));
   background: -webkit-linear-gradient(left, #ddb766, rgba(221, 183, 102, 0.7));
   background: linear-gradient(to right, #ddb766, rgba(221, 183, 102, 0.7));
 }
 .e.e-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#7783ea), to(rgba(119, 131, 234, 0.7)));
   background: -webkit-linear-gradient(left, #7783ea, rgba(119, 131, 234, 0.7));
   background: linear-gradient(to right, #7783ea, rgba(119, 131, 234, 0.7));
 }
 .f.f-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(rgba(255, 69, 68, 0.7)));
   background: -webkit-linear-gradient(left, #ff4544, rgba(255, 69, 68, 0.7));
   background: linear-gradient(to right, #ff4544, rgba(255, 69, 68, 0.7));
 }
 .g.g-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#63be72), to(rgba(99, 190, 114, 0.7)));
   background: -webkit-linear-gradient(left, #63be72, rgba(99, 190, 114, 0.7));
   background: linear-gradient(to right, #63be72, rgba(99, 190, 114, 0.7));
 }
 .h.h-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#4a90e2), to(rgba(74, 144, 226, 0.7)));
   background: -webkit-linear-gradient(left, #4a90e2, rgba(74, 144, 226, 0.7));
   background: linear-gradient(to right, #4a90e2, rgba(74, 144, 226, 0.7));
 }
 .i.i-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#333333), to(rgba(51, 51, 51, 0.7)));
   background: -webkit-linear-gradient(left, #333333, rgba(51, 51, 51, 0.7));
   background: linear-gradient(to right, #333333, rgba(51, 51, 51, 0.7));
 }
 .j.j-m-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#ff4544), to(rgba(255, 69, 68, 0.7)));
   background: -webkit-linear-gradient(left, #ff4544, rgba(255, 69, 68, 0.7));
   background: linear-gradient(to right, #ff4544, rgba(255, 69, 68, 0.7));
 }
 .a.a-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#f39800), to(rgba(243, 152, 0, 0.7)));
   background: -webkit-linear-gradient(left, #f39800, rgba(243, 152, 0, 0.7));
   background: linear-gradient(to right, #f39800, rgba(243, 152, 0, 0.7));
 }
 .b.b-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#555555), to(rgba(85, 85, 85, 0.7)));
   background: -webkit-linear-gradient(left, #555555, rgba(85, 85, 85, 0.7));
   background: linear-gradient(to right, #555555, rgba(85, 85, 85, 0.7));
 }
 .c.c-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#ffe6e8), to(rgba(255, 230, 232, 0.7)));
   background: -webkit-linear-gradient(left, #ffe6e8, rgba(255, 230, 232, 0.7));
   background: linear-gradient(to right, #ffe6e8, rgba(255, 230, 232, 0.7));
 }
 .d.d-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#f0ebd8), to(rgba(240, 235, 216, 0.7)));
   background: -webkit-linear-gradient(left, #f0ebd8, rgba(240, 235, 216, 0.7));
   background: linear-gradient(to right, #f0ebd8, rgba(240, 235, 216, 0.7));
 }
 .e.e-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#e9ebff), to(rgba(233, 235, 255, 0.7)));
   background: -webkit-linear-gradient(left, #e9ebff, rgba(233, 235, 255, 0.7));
   background: linear-gradient(to right, #e9ebff, rgba(233, 235, 255, 0.7));
 }
 .f.f-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#555555), to(rgba(85, 85, 85, 0.7)));
   background: -webkit-linear-gradient(left, #555555, rgba(85, 85, 85, 0.7));
   background: linear-gradient(to right, #555555, rgba(85, 85, 85, 0.7));
 }
 .g.g-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#e1f4e3), to(rgba(225, 244, 227, 0.7)));
   background: -webkit-linear-gradient(left, #e1f4e3, rgba(225, 244, 227, 0.7));
   background: linear-gradient(to right, #e1f4e3, rgba(225, 244, 227, 0.7));
 }
 .h.h-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#dbe9f9), to(rgba(219, 233, 249, 0.7)));
   background: -webkit-linear-gradient(left, #dbe9f9, rgba(219, 233, 249, 0.7));
   background: linear-gradient(to right, #dbe9f9, rgba(219, 233, 249, 0.7));
 }
 .i.i-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#dedede), to(rgba(222, 222, 222, 0.7)));
   background: -webkit-linear-gradient(left, #dedede, rgba(222, 222, 222, 0.7));
   background: linear-gradient(to right, #dedede, rgba(222, 222, 222, 0.7));
 }
 .j.j-s-gradient-o {
+  background: -webkit-gradient(linear, left top, right top, from(#ffdada), to(rgba(255, 218, 218, 0.7)));
   background: -webkit-linear-gradient(left, #ffdada, rgba(255, 218, 218, 0.7));
   background: linear-gradient(to right, #ffdada, rgba(255, 218, 218, 0.7));
 }
@@ -1178,33 +1208,38 @@ button::after {
 }
 .wxParse .table .table {
   border-collapse: collapse;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   /* 内边框 */
   border: 1px solid #dadada;
   width: 100%;
 }
 .wxParse .tbody {
   border-collapse: collapse;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   /* 内边框 */
   border: 1px solid #dadada;
 }
 .wxParse .thead, .wxParse .tfoot, .wxParse .th {
   border-collapse: collapse;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   background: #ececec;
   font-weight: 40;
 }
 .wxParse .tr {
   border-collapse: collapse;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   /* border: 2px solid #F0AD4E; */
   overflow: auto;
 }
 .wxParse .th,
 .wxParse .td {
   border-collapse: collapse;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   border: 2rpx solid #dadada;
   overflow: auto;
 }
@@ -1237,6 +1272,7 @@ button::after {
   border-color: #dfa245;
 }
 .streamer-gold-gift-figure-rule {
+  background: -webkit-gradient(linear, left top, left bottom, from(#dfa245), to(#f0c482));
   background: -webkit-linear-gradient(top, #dfa245, #f0c482);
   background: linear-gradient(to bottom, #dfa245, #f0c482);
 }
@@ -1244,7 +1280,8 @@ button::after {
   border-bottom-color: #dfa245;
 }
 .streamer-gold-gift-shadow {
-  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
+  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
+          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
 }
 /* 浪漫粉 */
 .romantic-powder-gift-color {
@@ -1266,6 +1303,7 @@ button::after {
   border-color: #ff547b;
 }
 .romantic-powder-gift-figure-rule {
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff547b), to(#ff96ae));
   background: -webkit-linear-gradient(top, #ff547b, #ff96ae);
   background: linear-gradient(to bottom, #ff547b, #ff96ae);
 }
@@ -1273,7 +1311,8 @@ button::after {
   border-bottom-color: #ff547b;
 }
 .romantic-powder-gift-shadow {
-  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
+  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
+          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
 }
 /* 品味红 */
 .taste-red-gift-color {
@@ -1295,6 +1334,7 @@ button::after {
   border-color: #ff4544;
 }
 .taste-red-gift-figure-rule {
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff4544), to(#ff8888));
   background: -webkit-linear-gradient(top, #ff4544, #ff8888);
   background: linear-gradient(to bottom, #ff4544, #ff8888);
 }
@@ -1302,7 +1342,8 @@ button::after {
   border-bottom-color: #ff4544;
 }
 .taste-red-gift-shadow {
-  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
+  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
+          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
 }
 /* 优雅紫 */
 .elegant-purple-gift-color {
@@ -1324,6 +1365,7 @@ button::after {
   border-color: #7783ea;
 }
 .elegant-purple-gift-figure-rule {
+  background: -webkit-gradient(linear, left top, left bottom, from(#7783ea), to(#a1aaf6));
   background: -webkit-linear-gradient(top, #7783ea, #a1aaf6);
   background: linear-gradient(to bottom, #7783ea, #a1aaf6);
 }
@@ -1331,7 +1373,8 @@ button::after {
   border-bottom-color: #7783ea;
 }
 .elegant-purple-gift-shadow {
-  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
+  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
+          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
 }
 /* 清醒绿 */
 .fresh-green-gift-color {
@@ -1353,6 +1396,7 @@ button::after {
   border-color: #63be72;
 }
 .fresh-green-gift-figure-rule {
+  background: -webkit-gradient(linear, left top, left bottom, from(#63be72), to(#89db96));
   background: -webkit-linear-gradient(top, #63be72, #89db96);
   background: linear-gradient(to bottom, #63be72, #89db96);
 }
@@ -1360,7 +1404,8 @@ button::after {
   border-bottom-color: #63be72;
 }
 .fresh-green-gift-shadow {
-  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
+  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
+          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
 }
 /* 商务蓝 */
 .business-blue-gift-color {
@@ -1382,6 +1427,7 @@ button::after {
   border-color: #4a90e2;
 }
 .business-blue-gift-figure-rule {
+  background: -webkit-gradient(linear, left top, left bottom, from(#4a90e2), to(#82b4ef));
   background: -webkit-linear-gradient(top, #4a90e2, #82b4ef);
   background: linear-gradient(to bottom, #4a90e2, #82b4ef);
 }
@@ -1389,7 +1435,8 @@ button::after {
   border-bottom-color: #4a90e2;
 }
 .business-blue-gift-shadow {
-  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
+  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
+          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
 }
 /* start--去除webkit的默认样式--start */
 .u-fix-ios-appearance {
@@ -1469,7 +1516,8 @@ button::after {
   left: 0;
   top: 0;
   pointer-events: none;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   -webkit-transform-origin: 0 0;
   transform-origin: 0 0;
   width: 199.8%;
@@ -1538,7 +1586,8 @@ button::after {
 }
 /* end--去除button的所有默认样式--end */
 page, block, view, scroll-view, swiper, movable-view, icon, text, progress, button, checkbox, form, input, label, picker, picker-view, radio, slider, switch, textarea, navigator, audio, image, video, map, canvas, contact-button, cover-image, cover-view {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .u-goods-detail {
   background-image: url(data:image/png;base64,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);
@@ -1547,7 +1596,8 @@ page, block, view, scroll-view, swiper, movable-view, icon, text, progress, butt
   min-height: 100vh;
 }
 .u-border-box {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 @charset "UTF-8";

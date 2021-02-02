@@ -51,7 +51,8 @@ page.data-v-e405a46c {
   font-size: 32rpx;
   background-color: #fff;
   color: #353535;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   height: 160rpx;
 }
 .to-more.data-v-e405a46c {
@@ -68,7 +69,8 @@ page.data-v-e405a46c {
   color: #25ae5f;
   font-size: 32rpx;
   margin: 24rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .express-box .top-box.data-v-e405a46c {
   background-color: #fff;
@@ -85,7 +87,8 @@ page.data-v-e405a46c {
 .logistics-box.data-v-e405a46c {
   padding: 20rpx 25rpx;
   margin: 0 24rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #fff;
   margin-top: 25rpx;
 }

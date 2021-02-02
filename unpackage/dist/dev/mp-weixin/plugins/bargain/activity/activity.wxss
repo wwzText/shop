@@ -46,6 +46,7 @@ page.data-v-55c586f6 {
   margin-right: 18rpx;
 }
 .page.data-v-55c586f6 {
+  background: -webkit-gradient(linear, left top, left bottom, from(#ee3763), to(#fdac42));
   background: -webkit-linear-gradient(top, #ee3763, #fdac42);
   background: linear-gradient(to bottom, #ee3763, #fdac42);
   padding-bottom: 100rpx;
@@ -66,7 +67,8 @@ page.data-v-55c586f6 {
   width: 136rpx;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.2);
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   font-size: 12px;
   color: #fff;
 }
@@ -80,7 +82,8 @@ page.data-v-55c586f6 {
   background-color: #fff;
   margin: 0 20rpx;
   position: relative;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   text-align: center;
   font-size: 16px;
   color: #353535;
@@ -94,7 +97,8 @@ page.data-v-55c586f6 {
   right: 0;
   width: 118rpx;
   height: 118rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin: 0 auto;
   border: 1rpx solid #fff;
 }
@@ -139,7 +143,8 @@ page.data-v-55c586f6 {
   width: 46rpx;
   margin: 0;
   background-color: #666;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
 }
 .goods .price.data-v-55c586f6 {
   font-size: 16px;
@@ -158,7 +163,8 @@ page.data-v-55c586f6 {
   color: #ff5c5c;
   padding: 0 20rpx;
   display: inline-block;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   height: 40rpx;
   line-height: 40rpx;
   background-color: #fff;
@@ -214,13 +220,16 @@ page.data-v-55c586f6 {
   left: 2rpx;
   height: 24rpx;
   background-color: #ff9f9f;
-  border-radius: 12rpx;
+  -webkit-border-radius: 12rpx;
+          border-radius: 12rpx;
   z-index: 5;
   max-width: 676rpx;
 }
 .progress .line.small-line.data-v-55c586f6 {
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
+  -webkit-border-top-right-radius: 0;
+          border-top-right-radius: 0;
+  -webkit-border-bottom-right-radius: 0;
+          border-bottom-right-radius: 0;
 }
 .before-price.data-v-55c586f6, .after-price.data-v-55c586f6 {
   font-size: 12px;
@@ -244,7 +253,8 @@ page.data-v-55c586f6 {
   width: 328rpx;
   padding: 0;
   margin: 0;
-  border-radius: 41rpx;
+  -webkit-border-radius: 41rpx;
+          border-radius: 41rpx;
 }
 .button-view image.data-v-55c586f6 {
   height: 82rpx;
@@ -254,7 +264,8 @@ page.data-v-55c586f6 {
   background-color: rgba(255, 255, 255, 0.3);
   margin: 0 20rpx;
   padding: 40rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   position: relative;
 }
 .log-line.data-v-55c586f6 {
@@ -289,7 +300,8 @@ page.data-v-55c586f6 {
 .log-item .log-user image.data-v-55c586f6 {
   height: 80rpx;
   width: 80rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin-right: 24rpx;
   float: left;
 }
@@ -373,8 +385,10 @@ page.data-v-55c586f6 {
   margin: 0 auto;
   width: 638rpx;
   text-align: center;
-  border-bottom-left-radius: 16rpx;
-  border-bottom-right-radius: 16rpx;
+  -webkit-border-bottom-left-radius: 16rpx;
+          border-bottom-left-radius: 16rpx;
+  -webkit-border-bottom-right-radius: 16rpx;
+          border-bottom-right-radius: 16rpx;
 }
 .dialog image.data-v-55c586f6 {
   margin-top: 45rpx;
@@ -411,7 +425,8 @@ page.data-v-55c586f6 {
   margin: 0 auto;
   width: 638rpx;
   height: 535rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   background-color: #fff;
 }
 .bargain-gif.data-v-55c586f6 {
@@ -454,7 +469,8 @@ page.data-v-55c586f6 {
   margin: 0 auto;
   z-index: 21;
   background-color: #fff;
-  border-radius: 20rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
   text-align: center;
   font-size: 30rpx;
 }

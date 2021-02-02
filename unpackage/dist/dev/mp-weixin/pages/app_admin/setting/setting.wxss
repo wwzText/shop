@@ -57,17 +57,20 @@ page.data-v-0af728ec {
   position: relative;
   height: 200rpx;
   width: 702rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   background-color: #fff;
   text-align: center;
   z-index: 2;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   padding-top: 1rpx;
 }
 .setting .head .logo.data-v-0af728ec {
   width: 140rpx;
   height: 140rpx;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   background-color: white;
   border: 4rpx solid white;
   position: absolute;
@@ -101,7 +104,8 @@ page.data-v-0af728ec {
 }
 .setting .switch.data-v-0af728ec {
   width: 702rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   margin: 20rpx 24rpx;
   background-color: white;
 }
@@ -155,11 +159,13 @@ page.data-v-0af728ec {
 .setting .switch > view.switch-item > view > view .switch-view.data-v-0af728ec {
   width: 88rpx;
   height: 48rpx;
-  border-radius: 24rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
   background-color: #dddddd;
 }
 .setting .switch > view.switch-item > view > view .switch-view .click.data-v-0af728ec {
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   background-color: white;
   width: 38rpx;
   height: 38rpx;
@@ -179,13 +185,15 @@ page.data-v-0af728ec {
   height: 300rpx;
   background-color: white;
   margin: 0 24rpx;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
 }
 .setting .switch-time .switch-time-item.data-v-0af728ec {
   width: 702rpx;
   height: 100rpx;
   padding: 0 32rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .setting .switch-time .switch-time-item > image.data-v-0af728ec {
   width: 40rpx;
@@ -216,10 +224,12 @@ page.data-v-0af728ec {
   width: 702rpx;
   height: 142rpx;
   padding: 0 24rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 20rpx 24rpx;
   background-color: white;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
 }
 .setting .online-payment .online-payment-content.data-v-0af728ec {
   width: 702rpx;
@@ -252,9 +262,11 @@ page.data-v-0af728ec {
   width: 702rpx;
   height: 200rpx;
   padding: 0 24rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   background-color: white;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   margin: 0 24rpx;
 }
 .setting .shipping-return .shipping-return-item.data-v-0af728ec {
@@ -287,9 +299,11 @@ page.data-v-0af728ec {
   width: 702rpx;
   height: 200rpx;
   padding: 0 24rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   background-color: white;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   margin: 20rpx 24rpx;
 }
 .setting .integral .integral-item.data-v-0af728ec {
@@ -335,7 +349,8 @@ page.data-v-0af728ec {
   background-color: white;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .model .content .title.data-v-0af728ec {
   margin: 40rpx 0;
@@ -347,8 +362,10 @@ page.data-v-0af728ec {
   height: 80rpx;
   line-height: 80rpx;
   background-color: #f7f7f7;
-  border-radius: 16rpx;
-  box-sizing: border-box;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   padding: 0 28rpx;
   margin: 0 28rpx;
   text-align: left;
@@ -368,10 +385,12 @@ page.data-v-0af728ec {
   height: 80rpx;
   line-height: 80rpx;
   background-color: #f7f7f7;
-  border-radius: 8rpx;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
   width: 288rpx;
   padding: 0 28rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   text-align: left;
 }
 .model .content .content-text .intergral-change .intergral-input input.data-v-0af728ec {
@@ -388,10 +407,12 @@ page.data-v-0af728ec {
   background-color: rgba(236, 240, 255, 0.3);
 }
 .model .content .content-text .pay-change .pay-view.data-v-0af728ec {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   width: 556rpx;
   height: 100rpx;
-  border-radius: 50rpx;
+  -webkit-border-radius: 50rpx;
+          border-radius: 50rpx;
   border: 1rpx solid #e2e2e2;
   padding: 0 50rpx;
   margin-bottom: 24rpx;
@@ -473,7 +494,8 @@ page.data-v-0af728ec {
   height: 68rpx;
   line-height: 68rpx;
   text-align: center;
-  border-radius: 34rpx;
+  -webkit-border-radius: 34rpx;
+          border-radius: 34rpx;
   border: 2rpx solid;
   font-size: 28rpx;
   margin-bottom: 16rpx;
@@ -484,7 +506,8 @@ page.data-v-0af728ec {
 }
 .model .content .content-text .i-modal-body.data-v-0af728ec {
   padding: 17rpx 32rpx 32rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   max-height: 1000rpx;
 }
 .model .content .content-text .i-modal-body .intergral-change.data-v-0af728ec {
@@ -495,16 +518,19 @@ page.data-v-0af728ec {
 }
 .model .content .content-text .i-modal-body .intergral-change > view.data-v-0af728ec {
   padding-left: 16rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .model .content .content-text .i-modal-body .intergral-change .intergral-input.data-v-0af728ec {
   height: 80rpx;
   line-height: 80rpx;
   background-color: #f7f7f7;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   width: 288rpx;
   padding: 0 28rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   text-align: left;
 }
 .model .content .content-text .textarea-area.data-v-0af728ec {
@@ -512,13 +538,15 @@ page.data-v-0af728ec {
   width: 556rpx;
   margin: 24rpx auto;
   border: 1rpx solid #e2e2e2;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .model .content .content-text .textarea-area .textarea.data-v-0af728ec {
   height: 100%;
   width: 556rpx;
   padding: 24rpx 32rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   font-size: 28rpx;
   text-align: left;
 }
@@ -551,7 +579,8 @@ page.data-v-0af728ec {
   font-size: 20rpx;
   color: #9096ad;
   padding-top: 14rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .u-bottom-fixed.data-v-0af728ec {
   position: fixed;

@@ -43,7 +43,8 @@ page.data-v-ad95a7e6 {
   background: #fff;
 }
 .app-submit-checkbox.round.data-v-ad95a7e6 {
-  border-radius: 10000rpx;
+  -webkit-border-radius: 10000rpx;
+          border-radius: 10000rpx;
 }
 .app-submit-checkbox.active.data-v-ad95a7e6 {
   border: none;

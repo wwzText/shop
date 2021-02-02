@@ -36,8 +36,10 @@ page.data-v-4858c111 {
   padding-bottom: env(safe-area-inset-bottom);
 }
 .app-input.data-v-4858c111 {
-  border-radius: 10rpx;
-  box-sizing: border-box;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   outline: none;
   height: 80rpx;
   width: 100%;
@@ -57,7 +59,8 @@ page.data-v-4858c111 {
   cursor: not-allowed;
 }
 .is-round.data-v-4858c111 {
-  border-radius: 50rpx;
+  -webkit-border-radius: 50rpx;
+          border-radius: 50rpx;
 }
 .app-view.data-v-4858c111 {
   position: relative;

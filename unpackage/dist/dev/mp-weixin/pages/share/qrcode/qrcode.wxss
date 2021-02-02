@@ -58,7 +58,8 @@ page.data-v-b0b4fed4 {
   height: 80rpx;
   font-size: 32rpx;
   color: #fff;
-  border-radius: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
   background: #ff4544;
 }
 

@@ -40,7 +40,8 @@ page.data-v-c201c4be {
   height: 90rpx;
   background-color: white;
   padding: 0 24rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .rule .app-left.data-v-c201c4be {
   font-size: 26rpx;

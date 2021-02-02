@@ -49,7 +49,8 @@ page.data-v-7bd788c6 {
   height: 209rpx;
   color: #ffffff;
   font-size: 28rpx;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
   margin: 0 auto;
   background: rgba(0, 0, 0, 0.8);
 }
@@ -96,15 +97,19 @@ page.data-v-7bd788c6 {
   color: #666666;
 }
 .fixed .share-head-margin .share-head .goods.data-v-7bd788c6 {
-  border-top-left-radius: 30rpx;
-  border-bottom-left-radius: 30rpx;
+  -webkit-border-top-left-radius: 30rpx;
+          border-top-left-radius: 30rpx;
+  -webkit-border-bottom-left-radius: 30rpx;
+          border-bottom-left-radius: 30rpx;
   border-top: 1px solid #446dfd;
   border-bottom: 1px solid #446dfd;
   border-left: 1px solid #446dfd;
 }
 .fixed .share-head-margin .share-head .dynamic.data-v-7bd788c6 {
-  border-top-right-radius: 30rpx;
-  border-bottom-right-radius: 30rpx;
+  -webkit-border-top-right-radius: 30rpx;
+          border-top-right-radius: 30rpx;
+  -webkit-border-bottom-right-radius: 30rpx;
+          border-bottom-right-radius: 30rpx;
   border-top: 1px solid #446dfd;
   border-bottom: 1px solid #446dfd;
   border-right: 1px solid #446dfd;
@@ -202,7 +207,8 @@ page.data-v-7bd788c6 {
   color: #446dfd;
   font-size: 26rpx;
   border: 1px solid #446dfd;
-  border-radius: 6rpx;
+  -webkit-border-radius: 6rpx;
+          border-radius: 6rpx;
   height: 50rpx;
   width: 135rpx;
   margin-left: auto;

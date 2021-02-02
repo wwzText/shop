@@ -57,7 +57,8 @@ page.data-v-1ae2dca9 {
   height: 100rpx;
   width: 100rpx;
   border: 5rpx solid #FFFFFF;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   margin-right: 16rpx;
 }
 .app-goods-poster-four .box .user view.data-v-1ae2dca9 {
@@ -65,14 +66,16 @@ page.data-v-1ae2dca9 {
   background: #f1f1f1;
   padding: 0 24rpx;
   font-size: 24rpx;
-  border-radius: 30rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
 }
 .app-goods-poster-four .box .goods.data-v-1ae2dca9 {
   height: 1150rpx;
   width: 702rpx;
   background: #ffffff;
   margin: 0 auto;
-  border-radius: 16rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
 }
 .app-goods-poster-four .box .goods .goods-head.data-v-1ae2dca9 {
   padding: 28rpx;

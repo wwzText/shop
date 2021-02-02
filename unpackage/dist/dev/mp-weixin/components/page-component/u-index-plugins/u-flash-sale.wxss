@@ -97,7 +97,8 @@ page.data-v-78131e7a {
   display: inline-block;
   font-size: 19rpx;
   color: #ffffff;
-  border-radius: 7rpx;
+  -webkit-border-radius: 7rpx;
+          border-radius: 7rpx;
   padding: 0 5rpx;
   height: 25rpx;
   line-height: 25rpx;
@@ -111,7 +112,8 @@ page.data-v-78131e7a {
   background-color: #4c4c4c;
   color: #ffffff;
   font-size: 20rpx;
-  border-radius: 4rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
 }
 .time-box .maohao.data-v-78131e7a {
   width: 20rpx;
