@@ -93,8 +93,7 @@ page.data-v-d1191032 {
   height: 272rpx;
   border: 1rpx solid #cfcfcf;
   margin-top: 17rpx;
-  -webkit-border-radius: 14rpx;
-          border-radius: 14rpx;
+  border-radius: 14rpx;
   background-color: #ffffff;
 }
 .model .f-scroll .f-item.data-v-d1191032:last-child {
@@ -123,8 +122,7 @@ page.data-v-d1191032 {
   padding: 0;
   border: none;
   margin: 0;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   background-color: #ffffff;
   font-size: 26rpx;
   text-align: center;
@@ -172,8 +170,7 @@ page.data-v-d1191032 {
 }
 .box.data-v-d1191032 {
   border: 1rpx solid;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   position: relative;
   display: inline-block;
   padding: 2rpx 12rpx;
@@ -184,8 +181,7 @@ page.data-v-d1191032 {
 .box .left.data-v-d1191032, .box .right.data-v-d1191032 {
   width: 10rpx;
   height: 10rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   position: absolute;
   z-index: 1;
   top: 50%;

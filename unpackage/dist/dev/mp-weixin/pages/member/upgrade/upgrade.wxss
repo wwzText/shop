@@ -45,10 +45,8 @@ page.data-v-d1f88526 {
   margin-top: 20rpx;
   height: 330rpx;
   width: 640rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
-  -webkit-box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.3);
-          box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.3);
+  border-radius: 16rpx;
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.3);
 }
 .nav .to-recharge.data-v-d1f88526 {
   position: absolute;
@@ -67,8 +65,7 @@ page.data-v-d1f88526 {
   line-height: 68rpx;
   width: 240rpx;
   border: 1rpx solid #b4914f;
-  -webkit-border-radius: 36rpx;
-          border-radius: 36rpx;
+  border-radius: 36rpx;
   font-size: 32rpx;
   color: #b4914f;
   background-color: #f8f2e2;
@@ -142,8 +139,7 @@ page.data-v-d1f88526 {
   line-height: 80rpx;
   width: 640rpx;
   background-color: #b4914f;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   font-size: 32rpx;
   color: #ffffff;
 }

@@ -3,8 +3,7 @@
     width: 702rpx;
     margin: 24rpx 24rpx 0 24rpx;
     background-color: #ffffff;
-    -webkit-border-radius: 15rpx;
-            border-radius: 15rpx;
+    border-radius: 15rpx;
 }
 .bd-nothing.data-v-4210a15e {
     padding: 20rpx;
@@ -39,8 +38,7 @@
 .bd-avatar.data-v-4210a15e {
     width: 56rpx;
     height: 56rpx;
-    -webkit-border-radius: 50%;
-            border-radius: 50%;
+    border-radius: 50%;
 }
 .bd-nickname.data-v-4210a15e {
     font-size: 26rpx;

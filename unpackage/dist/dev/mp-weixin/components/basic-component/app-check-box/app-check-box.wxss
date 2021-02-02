@@ -44,8 +44,7 @@ page.data-v-4dc4b7ee {
   border: 1rpx solid #cdcdcd;
 }
 .app-radius.data-v-4dc4b7ee {
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .app-mask.data-v-4dc4b7ee {
   width: 32rpx;

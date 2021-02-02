@@ -48,8 +48,7 @@ page.data-v-365f26d5 {
   padding: 0 24rpx;
   margin: 0 24rpx;
   margin-bottom: 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   font-size: 26rpx;
 }
 .order-item-box .view-1.data-v-365f26d5 {

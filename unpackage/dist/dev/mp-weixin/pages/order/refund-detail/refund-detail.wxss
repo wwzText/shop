@@ -70,8 +70,7 @@ page.data-v-d5e7d85a {
   padding: 20rpx;
 }
 .refund-detail-box .btn-box .btn.data-v-d5e7d85a {
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   height: 80rpx;
   width: 100%;
   background-color: #ff4544;
@@ -158,8 +157,7 @@ page.data-v-d5e7d85a {
 }
 .detail-btn.data-v-d5e7d85a {
   border: 1px solid #bbbbbb;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   padding: 10rpx 30rpx;
   margin-left: 15rpx;
 }
@@ -191,8 +189,7 @@ page.data-v-d5e7d85a {
   line-height: 48rpx;
   text-align: center;
   border: 1rpx solid #446dfd;
-  -webkit-border-radius: 24rpx;
-          border-radius: 24rpx;
+  border-radius: 24rpx;
   position: absolute;
   top: 20rpx;
   right: 24rpx;

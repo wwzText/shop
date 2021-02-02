@@ -37,8 +37,7 @@ page.data-v-fb76bef6 {
 }
 .top-box.data-v-fb76bef6 {
   background-color: #ffffff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   margin: 20rpx 24rpx;
   padding: 24rpx;
 }
@@ -60,8 +59,7 @@ page.data-v-fb76bef6 {
   margin: 24rpx;
   background-color: #ffffff;
   padding: 30rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .city-box .status-label.data-v-fb76bef6 {
   font-weight: 800;

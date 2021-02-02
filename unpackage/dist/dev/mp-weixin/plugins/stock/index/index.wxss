@@ -155,8 +155,7 @@ page.data-v-7950fb0f {
   line-height: 80rpx;
   width: 702rpx;
   margin: 0 auto;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   background-color: #ff4544;
   color: #fff;
   font-size: 32rpx;
@@ -186,8 +185,7 @@ page.data-v-7950fb0f {
   z-index: 99;
   background-color: #fff;
   width: 80%;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .modal .protocol .protocol-name.data-v-7950fb0f {
   text-align: center;
@@ -208,10 +206,8 @@ page.data-v-7950fb0f {
   background-color: #ff4544;
   color: #fff;
   font-size: 30rpx;
-  -webkit-border-bottom-right-radius: 20rpx;
-          border-bottom-right-radius: 20rpx;
-  -webkit-border-bottom-left-radius: 20rpx;
-          border-bottom-left-radius: 20rpx;
+  border-bottom-right-radius: 20rpx;
+  border-bottom-left-radius: 20rpx;
 }
 .modal .protocol image.data-v-7950fb0f {
   height: 200rpx;

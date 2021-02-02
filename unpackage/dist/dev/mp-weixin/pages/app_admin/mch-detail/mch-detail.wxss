@@ -39,24 +39,20 @@ page.data-v-add6c7b0 {
   width: 750rpx;
   background-color: #f7f7f7;
   padding: 0 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .mch-detail .title.data-v-add6c7b0 {
   font-size: 28rpx;
   color: #999999;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 32rpx 0 24rpx 0;
 }
 .mch-detail .information.data-v-add6c7b0 {
   width: 702rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
   padding: 32rpx 24rpx 32rpx 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .mch-detail .information .line.data-v-add6c7b0 {
   width: 646rpx;
@@ -90,8 +86,7 @@ page.data-v-add6c7b0 {
 .mch-detail .information .line .expression .image.data-v-add6c7b0 {
   width: 150rpx;
   height: 150rpx;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   margin: 0 10rpx 10rpx 0;
 }
 .mch-detail .information .line .break-word.data-v-add6c7b0 {
@@ -110,8 +105,7 @@ page.data-v-add6c7b0 {
   height: 80rpx;
   line-height: 80rpx;
   text-align: center;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   font-size: 28rpx;
 }
 .mch-detail .button .fail.data-v-add6c7b0 {
@@ -172,18 +166,15 @@ page.data-v-add6c7b0 {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
 }
 .mch-detail .model .refuse .content.data-v-add6c7b0 {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   border: 1rpx solid #e2e2e2;
   height: 300rpx;
   padding: 24rpx 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .mch-detail .model .refuse .textarea.data-v-add6c7b0 {
   width: 492rpx;
@@ -198,8 +189,7 @@ page.data-v-add6c7b0 {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
 }
 .mch-detail .model .by .content.data-v-add6c7b0 {

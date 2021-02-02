@@ -57,8 +57,7 @@ page.data-v-388eaba3 {
 .app-dialog .container.data-v-388eaba3 {
   z-index: 2;
   background: #fff;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   overflow: hidden;
   width: 100%;
 }
@@ -83,8 +82,7 @@ page.data-v-388eaba3 {
 .app-dialog .container .body.data-v-388eaba3 {
   padding: 22rpx 32rpx;
   border: 1rpx solid #e2e2e2;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   margin-bottom: 32rpx;
   height: 517rpx;
   word-break: break-all;

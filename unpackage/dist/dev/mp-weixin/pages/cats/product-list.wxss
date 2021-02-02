@@ -37,8 +37,7 @@ page.data-v-67827605 {
 }
 .cover-pic.data-v-67827605 {
   position: relative;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   margin-right: 20rpx;
 }
 .out-dialog.data-v-67827605 {
@@ -62,8 +61,7 @@ page.data-v-67827605 {
 .cover-pic.data-v-67827605 {
   width: 150rpx;
   height: 150rpx;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   margin-right: 20rpx;
   position: relative;
 }
@@ -108,8 +106,7 @@ page.data-v-67827605 {
 .cart-box.data-v-67827605 {
   width: 56rpx;
   height: 56rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   position: relative;
   overflow: hidden;
   -webkit-transform: rotateZ(360deg);

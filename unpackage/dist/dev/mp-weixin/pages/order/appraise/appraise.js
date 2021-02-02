@@ -130,7 +130,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var AppUploadImage = function AppUploadImage() {__webpack_require__.e(/*! require.ensure | components/basic-component/app-upload-image/app-upload-image */ "components/basic-component/app-upload-image/app-upload-image").then((function () {return resolve(__webpack_require__(/*! ../../../components/basic-component/app-upload-image/app-upload-image.vue */ 2979));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var AppUploadImage = function AppUploadImage() {__webpack_require__.e(/*! require.ensure | components/basic-component/app-upload-image/app-upload-image */ "components/basic-component/app-upload-image/app-upload-image").then((function () {return resolve(__webpack_require__(/*! ../../../components/basic-component/app-upload-image/app-upload-image.vue */ 2987));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
 
 
 

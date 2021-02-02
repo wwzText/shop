@@ -83,8 +83,7 @@ page.data-v-cfa6616e {
   text-align: center;
   font-size: 26rpx;
   padding: 40rpx 40rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   position: absolute;
   top: 160rpx;
 }
@@ -142,11 +141,9 @@ page.data-v-cfa6616e {
   width: 702rpx;
   font-size: 34rpx;
   color: #fffefe;
-  background: -webkit-gradient(linear, left top, right top, from(#ff9d1e), to(#ffb71e));
   background: -webkit-linear-gradient(left, #ff9d1e, #ffb71e);
   background: linear-gradient(to right, #ff9d1e, #ffb71e);
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
 }
 button.data-v-cfa6616e::after {
   border: none;

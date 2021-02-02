@@ -64,8 +64,7 @@ page.data-v-1d773676 {
   background: #666666;
   color: #FFFFFF;
   text-align: center;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   line-height: 38rpx;
 }
 .bargain-list .bargain-time .mark.data-v-1d773676 {

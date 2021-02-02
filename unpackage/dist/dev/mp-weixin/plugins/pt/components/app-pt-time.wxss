@@ -80,8 +80,7 @@ page.data-v-a7fabf22 {
   min-width: 40rpx;
   height: 36rpx;
   line-height: 36rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   background-color: white;
   text-align: center;
   font-size: 19rpx;

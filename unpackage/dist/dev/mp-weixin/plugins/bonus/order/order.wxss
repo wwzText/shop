@@ -51,8 +51,7 @@ page.data-v-361fb3e0 {
 .search-content.data-v-361fb3e0 {
   background-color: #fff;
   height: 56rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
 }
 .search-content image.data-v-361fb3e0 {
   height: 24rpx;
@@ -71,8 +70,7 @@ page.data-v-361fb3e0 {
 }
 .order-item.data-v-361fb3e0 {
   margin: 16rpx 24rpx 0;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
   padding: 28rpx 24rpx;
   font-size: 28rpx;
@@ -92,8 +90,7 @@ page.data-v-361fb3e0 {
 .goods-img.data-v-361fb3e0 {
   height: 80rpx;
   width: 80rpx;
-  -webkit-border-radius: 10rpx;
-          border-radius: 10rpx;
+  border-radius: 10rpx;
   margin-right: 24rpx;
 }
 .bonus-info.data-v-361fb3e0 {
@@ -116,8 +113,7 @@ page.data-v-361fb3e0 {
 .search-input input.data-v-361fb3e0 {
   padding-left: 66rpx;
   background-color: #fff;
-  -webkit-border-radius: 32rpx;
-          border-radius: 32rpx;
+  border-radius: 32rpx;
   height: 56rpx;
   font-size: 26rpx;
   color: #353535;

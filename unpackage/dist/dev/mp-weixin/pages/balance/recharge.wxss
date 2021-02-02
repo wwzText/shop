@@ -124,8 +124,7 @@ page.data-v-682d97f3 {
   margin: 24rpx 12rpx 0 12rpx;
   padding: 0 24rpx;
   border: 1px solid #cccccc;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .recharge .select .box .price.data-v-682d97f3 {
   font-size: 32rpx;
@@ -138,8 +137,7 @@ page.data-v-682d97f3 {
 }
 .recharge .select .box .member-info.data-v-682d97f3 {
   border: 1rpx solid #999999;
-  -webkit-border-radius: 24rpx;
-          border-radius: 24rpx;
+  border-radius: 24rpx;
   height: 30rpx;
   width: 60rpx;
   font-size: 18rpx;
@@ -159,8 +157,7 @@ page.data-v-682d97f3 {
 }
 .recharge .input.data-v-682d97f3 {
   margin-top: 40rpx;
-  -webkit-border-radius: 14rpx;
-          border-radius: 14rpx;
+  border-radius: 14rpx;
 }
 .recharge .input input.data-v-682d97f3 {
   color: #666666;

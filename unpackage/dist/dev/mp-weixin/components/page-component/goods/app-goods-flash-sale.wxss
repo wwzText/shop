@@ -45,8 +45,7 @@ page.data-v-f6c8a776 {
   position: relative;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .f-back.data-v-f6c8a776 {
   width: 100%;
@@ -60,8 +59,7 @@ page.data-v-f6c8a776 {
   color: #fff;
   text-align: center;
   line-height: 34rpx;
-  -webkit-border-radius: 17rpx;
-          border-radius: 17rpx;
+  border-radius: 17rpx;
   margin: 0 20rpx;
 }
 .f-title.data-v-f6c8a776 {

@@ -50,8 +50,7 @@ page.data-v-35baea2a {
 .search-area .search.data-v-35baea2a {
   height: 64rpx;
   line-height: 64rpx;
-  -webkit-border-radius: 32rpx;
-          border-radius: 32rpx;
+  border-radius: 32rpx;
   background-color: #fff;
   color: #b2b2b2;
   font-size: 26rpx;
@@ -101,11 +100,9 @@ page.data-v-35baea2a {
   padding: 0 24rpx;
   margin: 0 24rpx;
   margin-bottom: 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   font-size: 26rpx;
-  -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.06);
-          box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.06);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.06);
 }
 .order-item-box .view-1.data-v-35baea2a {
   width: 100%;
@@ -156,8 +153,7 @@ page.data-v-35baea2a {
   background: #fff;
   left: 94rpx;
   z-index: 999;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
 }
 .qrcode-box .img.data-v-35baea2a {
   margin-top: 30rpx;
@@ -179,8 +175,7 @@ page.data-v-35baea2a {
   font-size: 26rpx;
   padding: 0 30rpx;
   border: 1rpx solid #e2e2e2;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   margin-left: 16rpx;
 }
 .action-button-box.data-v-35baea2a {

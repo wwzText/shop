@@ -114,8 +114,7 @@ page.data-v-2d0c424c {
   height: 80rpx;
   line-height: 80rpx;
   width: 90%;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   background-color: #ff4544;
   text-align: center;
   font-size: 16px;
@@ -141,8 +140,7 @@ page.data-v-2d0c424c {
   top: 25%;
   left: 0;
   right: 0;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .close.data-v-2d0c424c {
   height: 30rpx;
@@ -177,8 +175,7 @@ page.data-v-2d0c424c {
   padding-top: 150rpx;
   font-size: 18px;
   color: #353535;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .success-head.data-v-2d0c424c {
   height: 332rpx;
@@ -190,8 +187,7 @@ page.data-v-2d0c424c {
 .to-card.data-v-2d0c424c, .to-use.data-v-2d0c424c {
   margin-top: 44rpx;
   height: 64rpx;
-  -webkit-border-radius: 32rpx;
-          border-radius: 32rpx;
+  border-radius: 32rpx;
   line-height: 64rpx;
   width: 228rpx;
   font-size: 16px;
@@ -221,8 +217,7 @@ page.data-v-2d0c424c {
   margin: 0 auto;
   z-index: 221;
   background-color: #fff;
-  -webkit-border-radius: 10px;
-          border-radius: 10px;
+  border-radius: 10px;
   text-align: center;
   font-size: 30rpx;
 }

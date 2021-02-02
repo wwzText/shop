@@ -38,8 +38,7 @@ page.data-v-9305bac2 {
 .app-order.data-v-9305bac2 {
   width: 750rpx;
   background-color: #f7f7f7;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding-top: 80rpx;
 }
 

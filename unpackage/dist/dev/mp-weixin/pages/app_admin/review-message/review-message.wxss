@@ -38,8 +38,7 @@ page.data-v-af69de30 {
 .review-message.data-v-af69de30 {
   width: 750rpx;
   background-color: #f7f7f7;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding-top: 1rpx;
 }
 .review-message .bar.data-v-af69de30 {
@@ -73,11 +72,8 @@ page.data-v-af69de30 {
   font-size: 12rpx;
   color: #fff;
   padding: 0 6rpx;
-  -webkit-border-top-left-radius: 10rpx;
-          border-top-left-radius: 10rpx;
-  -webkit-border-bottom-right-radius: 10rpx;
-          border-bottom-right-radius: 10rpx;
-  background-image: -webkit-gradient(linear, left top, right top, from(#335aff), to(#2076e7));
+  border-top-left-radius: 10rpx;
+  border-bottom-right-radius: 10rpx;
   background-image: -webkit-linear-gradient(left, #335aff, #2076e7);
   background-image: linear-gradient(to right, #335aff, #2076e7);
 }
@@ -104,12 +100,10 @@ page.data-v-af69de30 {
   z-index: 1000;
   background-color: #efeff4;
   padding: 15rpx 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .review-message .search input.data-v-af69de30 {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 0 70rpx 0 30rpx;
   font-size: 26rpx;
 }
@@ -125,8 +119,7 @@ page.data-v-af69de30 {
   width: 702rpx;
   height: 58rpx;
   background-color: white;
-  -webkit-border-radius: 22rpx;
-          border-radius: 22rpx;
+  border-radius: 22rpx;
 }
 .review-message .search .search-view .image.data-v-af69de30 {
   width: 20rpx;
@@ -145,20 +138,17 @@ page.data-v-af69de30 {
 }
 .review-message .content.data-v-af69de30 {
   width: 750rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 1rpx 24rpx;
   margin-top: 88rpx;
 }
 .review-message .content .content-item.data-v-af69de30 {
   width: 702rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
   margin-top: 24rpx;
   padding: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .review-message .content .content-item .content-content.data-v-af69de30 {
   width: 654rpx;
@@ -167,8 +157,7 @@ page.data-v-af69de30 {
 .review-message .content .content-item .content-content .content-image.data-v-af69de30 {
   width: 100rpx;
   height: 100rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   margin-right: 24rpx;
 }
 .review-message .content .content-item .content-content .content-name.data-v-af69de30 {
@@ -191,12 +180,10 @@ page.data-v-af69de30 {
 .review-message .content .content-item .content-buttons > view.data-v-af69de30 {
   height: 60rpx;
   line-height: 60rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 0 32rpx;
   font-size: 28rpx;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   border-width: 1rpx;
   border-style: solid;
 }
@@ -212,11 +199,9 @@ page.data-v-af69de30 {
 .review-message .content .check-content.data-v-af69de30 {
   width: 702rpx;
   height: 148rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 24rpx;
   margin-top: 24rpx;
 }
@@ -227,8 +212,7 @@ page.data-v-af69de30 {
 .review-message .content .check-content .check-nei .check-avatar.data-v-af69de30 {
   width: 100rpx;
   height: 100rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   margin-right: 24rpx;
 }
 .review-message .content .check-content .check-nei .check-content-content.data-v-af69de30 {
@@ -315,8 +299,7 @@ page.data-v-af69de30 {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
 }
 .review-message .model .form .form-content.data-v-af69de30 {
@@ -349,17 +332,14 @@ page.data-v-af69de30 {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
 }
 .review-message .model .refuse .content.data-v-af69de30 {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   border: 1rpx solid #e2e2e2;
   height: 300rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 24rpx 32rpx;
 }
 .review-message .model .refuse .textarea.data-v-af69de30 {
@@ -375,8 +355,7 @@ page.data-v-af69de30 {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
 }
 .review-message .model .by .content.data-v-af69de30 {

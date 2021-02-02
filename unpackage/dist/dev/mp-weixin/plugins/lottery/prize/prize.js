@@ -130,7 +130,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var commonButtom = function commonButtom() {Promise.all(/*! require.ensure | plugins/lottery/common-buttom */[__webpack_require__.e("common/vendor"), __webpack_require__.e("plugins/lottery/common-buttom")]).then((function () {return resolve(__webpack_require__(/*! ../common-buttom.vue */ 2706));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var commonButtom = function commonButtom() {Promise.all(/*! require.ensure | plugins/lottery/common-buttom */[__webpack_require__.e("common/vendor"), __webpack_require__.e("plugins/lottery/common-buttom")]).then((function () {return resolve(__webpack_require__(/*! ../common-buttom.vue */ 2714));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
 
 
 

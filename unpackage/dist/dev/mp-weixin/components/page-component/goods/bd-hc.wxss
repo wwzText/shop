@@ -37,8 +37,7 @@ page.data-v-d3eb8ad0 {
 }
 .bd-hc.data-v-d3eb8ad0 {
   width: 702rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   padding: 20rpx 20rpx 0 20rpx;
   background-color: #ffffff;
   overflow: hidden;
@@ -55,8 +54,7 @@ page.data-v-d3eb8ad0 {
 .bd-give.data-v-d3eb8ad0 {
   padding: 2rpx 4rpx;
   border: 1rpx solid;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   font-size: 22rpx;
   margin-right: 12rpx;
 }
@@ -86,8 +84,7 @@ page.data-v-d3eb8ad0 {
   height: 88rpx;
   display: block;
   margin-right: 68rpx;
-  -webkit-border-radius: 88rpx;
-          border-radius: 88rpx;
+  border-radius: 88rpx;
 }
 .card-content .card .name.data-v-d3eb8ad0 {
   width: 478rpx;
@@ -142,8 +139,7 @@ page.data-v-d3eb8ad0 {
   height: 88rpx;
   display: block;
   margin-right: 68rpx;
-  -webkit-border-radius: 88rpx;
-          border-radius: 88rpx;
+  border-radius: 88rpx;
 }
 .coupon-content .coupon .name.data-v-d3eb8ad0 {
   width: 478rpx;
@@ -170,8 +166,7 @@ page.data-v-d3eb8ad0 {
   height: 105rpx;
   background-color: #ffffff;
   position: relative;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
 }
 .f-image.data-v-d3eb8ad0 {
   width: 78rpx;

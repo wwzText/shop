@@ -54,8 +54,7 @@ page.data-v-003ebbba {
   line-height: 56rpx;
   padding: 0 16rpx;
   background-color: #fff;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   border: 1rpx solid;
   font-size: 28rpx;
   width: auto;

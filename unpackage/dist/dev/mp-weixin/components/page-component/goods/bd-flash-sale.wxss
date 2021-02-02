@@ -44,8 +44,7 @@ page.data-v-7b099421 {
   position: relative;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .f-back.data-v-7b099421 {
   width: 100%;
@@ -59,8 +58,7 @@ page.data-v-7b099421 {
   color: #fff;
   text-align: center;
   line-height: 34rpx;
-  -webkit-border-radius: 17rpx;
-          border-radius: 17rpx;
+  border-radius: 17rpx;
   margin: 0 20rpx;
 }
 .f-title.data-v-7b099421 {

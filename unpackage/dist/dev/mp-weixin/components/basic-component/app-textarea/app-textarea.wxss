@@ -62,8 +62,7 @@ page.data-v-543995da {
   border: 1rpx solid #ccc;
   z-index: 1;
   padding: 24rpx;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
 }
 .b .c.data-v-543995da {
   position: fixed;

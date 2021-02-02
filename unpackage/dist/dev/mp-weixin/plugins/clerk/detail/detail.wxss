@@ -63,8 +63,7 @@ page.data-v-1dc63f88 {
   font-size: 26rpx;
   color: #353535;
   background-color: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   position: relative;
   padding: 28rpx 24rpx 28rpx 92rpx;
 }
@@ -82,8 +81,7 @@ page.data-v-1dc63f88 {
   margin: 24rpx 38rpx;
   padding: 28rpx 24rpx;
   background-color: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .goods.data-v-1dc63f88 {
   height: 160rpx;
@@ -93,8 +91,7 @@ page.data-v-1dc63f88 {
 .goods image.data-v-1dc63f88 {
   height: 160rpx;
   width: 160rpx;
-  -webkit-border-radius: 10rpx;
-          border-radius: 10rpx;
+  border-radius: 10rpx;
   float: left;
   margin-right: 20rpx;
 }
@@ -175,16 +172,14 @@ page.data-v-1dc63f88 {
   color: #fff;
   height: 88rpx;
   line-height: 88rpx;
-  -webkit-border-radius: 44rpx;
-          border-radius: 44rpx;
+  border-radius: 44rpx;
   background-color: #ff4544;
   text-align: center;
 }
 .card-info.data-v-1dc63f88 {
   width: 90%;
   margin: 0 auto;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   background-color: #fff;
   position: relative;
   padding: 40rpx 24rpx;
@@ -194,8 +189,7 @@ page.data-v-1dc63f88 {
   height: 88rpx;
   width: 88rpx;
   margin-right: 20rpx;
-  -webkit-border-radius: 44rpx;
-          border-radius: 44rpx;
+  border-radius: 44rpx;
 }
 .card-name.data-v-1dc63f88 {
   font-size: 32rpx;
@@ -235,8 +229,7 @@ page.data-v-1dc63f88 {
   margin: 0 auto;
   z-index: 21;
   background-color: #fff;
-  -webkit-border-radius: 10px;
-          border-radius: 10px;
+  border-radius: 10px;
   text-align: center;
   font-size: 30rpx;
 }
@@ -290,8 +283,7 @@ page.data-v-1dc63f88 {
   -webkit-justify-content: center;
           justify-content: center;
   background: #ffebeb;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
 }
 .history-button .icon.data-v-1dc63f88 {
   width: 12rpx;

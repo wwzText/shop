@@ -44,18 +44,14 @@ page.data-v-44f39400 {
   width: 50%;
 }
 .vip-price .vip-left.data-v-44f39400 {
-  -webkit-border-top-left-radius: 13rpx;
-          border-top-left-radius: 13rpx;
-  -webkit-border-bottom-left-radius: 13rpx;
-          border-bottom-left-radius: 13rpx;
+  border-top-left-radius: 13rpx;
+  border-bottom-left-radius: 13rpx;
   background-color: #4e4040;
   position: relative;
 }
 .vip-price .vip-right.data-v-44f39400 {
-  -webkit-border-top-right-radius: 13rpx;
-          border-top-right-radius: 13rpx;
-  -webkit-border-bottom-right-radius: 13rpx;
-          border-bottom-right-radius: 13rpx;
+  border-top-right-radius: 13rpx;
+  border-bottom-right-radius: 13rpx;
   background: -webkit-linear-gradient(45deg, #edc9a8, #fdebde);
   background: linear-gradient(45deg, #edc9a8, #fdebde);
   font-size: 22rpx;

@@ -64,10 +64,8 @@ page.data-v-7aa9389f {
   color: #fff;
   background-color: rgba(0, 0, 0, 0.3);
   font-size: 24rpx;
-  -webkit-border-top-left-radius: 24rpx;
-          border-top-left-radius: 24rpx;
-  -webkit-border-bottom-left-radius: 24rpx;
-          border-bottom-left-radius: 24rpx;
+  border-top-left-radius: 24rpx;
+  border-bottom-left-radius: 24rpx;
   border: 2rpx solid #fff;
   border-right: 0;
 }
@@ -103,8 +101,7 @@ page.data-v-7aa9389f {
 }
 .reward.data-v-7aa9389f {
   margin: 0 24rpx;
-  -webkit-border-radius: 14rpx;
-          border-radius: 14rpx;
+  border-radius: 14rpx;
   padding: 0 40rpx;
   background-color: #fff;
 }
@@ -143,8 +140,7 @@ page.data-v-7aa9389f {
   top: 47rpx;
 }
 .reward-btn button.data-v-7aa9389f {
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   width: 150rpx;
   height: 56rpx;
   line-height: 56rpx;
@@ -161,8 +157,7 @@ page.data-v-7aa9389f {
 .day.data-v-7aa9389f {
   margin: 24rpx;
   background-color: #fff;
-  -webkit-border-radius: 14rpx;
-          border-radius: 14rpx;
+  border-radius: 14rpx;
   z-index: 99;
   padding: 40rpx 25rpx;
   padding-top: 0;
@@ -242,8 +237,7 @@ page.data-v-7aa9389f {
   width: 630rpx;
   margin: 0 auto;
   background-color: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   z-index: 1000;
   padding-bottom: 64rpx;
 }
@@ -281,8 +275,7 @@ page.data-v-7aa9389f {
   font-size: 32rpx;
   color: #fff;
   background-color: #ff4544;
-  -webkit-border-radius: 36rpx;
-          border-radius: 36rpx;
+  border-radius: 36rpx;
   margin: 0 auto;
 }
 .success-btn.data-v-7aa9389f::after {
@@ -341,9 +334,7 @@ page.data-v-7aa9389f {
   color: #ff4544;
   font-size: 32rpx;
   line-height: 72rpx;
-  -webkit-border-radius: 36rpx;
-          border-radius: 36rpx;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ffe8bc), to(#ffcb7c));
+  border-radius: 36rpx;
   background: -webkit-linear-gradient(top, #ffe8bc, #ffcb7c);
   background: linear-gradient(to bottom, #ffe8bc, #ffcb7c);
 }
@@ -376,7 +367,6 @@ page.data-v-7aa9389f {
   color: #ffcb7c;
 }
 .other.data-v-7aa9389f {
-  background: -webkit-gradient(linear, left top, left bottom, from(#2a3a7c), to(#5b7ac7));
   background: -webkit-linear-gradient(top, #2a3a7c, #5b7ac7);
   background: linear-gradient(to bottom, #2a3a7c, #5b7ac7);
   padding-bottom: 40rpx;

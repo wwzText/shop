@@ -57,8 +57,7 @@ page.data-v-302ac848 {
 }
 .cash .search.data-v-302ac848 {
   height: 88rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   background-color: #efeff4;
   padding: 15rpx 24rpx;
   position: fixed;
@@ -81,20 +80,17 @@ page.data-v-302ac848 {
 }
 .cash .search .input.data-v-302ac848 {
   padding: 0 70rpx 0 30rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   height: 58rpx;
   width: 702rpx;
-  -webkit-border-radius: 29rpx;
-          border-radius: 29rpx;
+  border-radius: 29rpx;
   background-color: white;
   font-size: 26rpx;
 }
 .cash .search .view.data-v-302ac848 {
   height: 58rpx;
   width: 702rpx;
-  -webkit-border-radius: 29rpx;
-          border-radius: 29rpx;
+  border-radius: 29rpx;
   background-color: white;
   font-size: 26rpx;
   color: #999999;
@@ -135,11 +131,8 @@ page.data-v-302ac848 {
   font-size: 12rpx;
   color: #fff;
   padding: 0 6rpx;
-  -webkit-border-top-left-radius: 10rpx;
-          border-top-left-radius: 10rpx;
-  -webkit-border-bottom-right-radius: 10rpx;
-          border-bottom-right-radius: 10rpx;
-  background-image: -webkit-gradient(linear, left top, right top, from(#335aff), to(#2076e7));
+  border-top-left-radius: 10rpx;
+  border-bottom-right-radius: 10rpx;
   background-image: -webkit-linear-gradient(left, #335aff, #2076e7);
   background-image: linear-gradient(to right, #335aff, #2076e7);
 }
@@ -165,8 +158,7 @@ page.data-v-302ac848 {
 }
 .cash .reply.data-v-302ac848 {
   width: 750rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 24rpx 0;
   background-color: #f7f7f7;
   z-index: 2;
@@ -176,8 +168,7 @@ page.data-v-302ac848 {
   background-color: #f7f7f7;
 }
 .cash .reply .reply-item.data-v-302ac848 {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   width: 160rpx;
   height: 56rpx;
   line-height: 54rpx;
@@ -191,16 +182,12 @@ page.data-v-302ac848 {
   color: #ffffff;
 }
 .cash .reply .unreviewed.data-v-302ac848 {
-  -webkit-border-top-left-radius: 28rpx;
-          border-top-left-radius: 28rpx;
-  -webkit-border-bottom-left-radius: 28rpx;
-          border-bottom-left-radius: 28rpx;
+  border-top-left-radius: 28rpx;
+  border-bottom-left-radius: 28rpx;
 }
 .cash .reply .unpaid.data-v-302ac848 {
-  -webkit-border-top-right-radius: 28rpx;
-          border-top-right-radius: 28rpx;
-  -webkit-border-bottom-right-radius: 28rpx;
-          border-bottom-right-radius: 28rpx;
+  border-top-right-radius: 28rpx;
+  border-bottom-right-radius: 28rpx;
 }
 .cash .content-margin-search.data-v-302ac848 {
   margin-top: 192rpx;
@@ -211,17 +198,14 @@ page.data-v-302ac848 {
 .cash .content.data-v-302ac848 {
   width: 750rpx;
   padding: 0 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .cash .content .content-item.data-v-302ac848 {
   width: 702rpx;
   padding: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   background-color: white;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   margin-bottom: 24rpx;
 }
 .cash .content .content-item .image.data-v-302ac848 {
@@ -231,8 +215,7 @@ page.data-v-302ac848 {
 .cash .content .content-item .image image.data-v-302ac848 {
   width: 100rpx;
   height: 100rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
 }
 .cash .content .content-item .app-content.data-v-302ac848 {
   width: 530rpx;
@@ -265,10 +248,8 @@ page.data-v-302ac848 {
   height: 60rpx;
   line-height: 60rpx;
   padding: 0 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  box-sizing: border-box;
+  border-radius: 30rpx;
   font-size: 28rpx;
 }
 .cash .content .content-item .app-content .button-men .ordinary.data-v-302ac848 {
@@ -282,8 +263,7 @@ page.data-v-302ac848 {
 }
 .cash .dialog.data-v-302ac848 {
   width: 620rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
   position: absolute;
   top: 50%;
@@ -331,8 +311,7 @@ page.data-v-302ac848 {
 }
 .cash .model .model-content.data-v-302ac848 {
   width: 620rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: white;
   position: absolute;
   top: 50%;
@@ -350,8 +329,7 @@ page.data-v-302ac848 {
 .cash .model .model-content .center.data-v-302ac848 {
   width: 620rpx;
   padding: 0 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .cash .model .model-content .center .free.data-v-302ac848 {
   max-height: 1000rpx;
@@ -367,11 +345,9 @@ page.data-v-302ac848 {
   height: 252rpx;
   width: 100%;
   padding: 24rpx 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   font-size: 28rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   border: 1rpx solid #e2e2e2;
   text-align: left;
 }
@@ -391,8 +367,7 @@ page.data-v-302ac848 {
 }
 .cash .model .model-content .center .i-modal-body-free.data-v-302ac848 {
   padding: 17rpx 32rpx 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   max-height: 1000rpx;
   margin-bottom: 30rpx;
   font-size: 28rpx;

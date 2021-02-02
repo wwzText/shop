@@ -67,6 +67,7 @@
                 self.$hideLoading();
                 if (e.code === 0) {
                     self.list = e.data.coupon_list;
+					console.log(self.list)
                 } else {
                     uni.showToast({icon: 'none', title: e.msg});
                 }

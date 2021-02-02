@@ -75,8 +75,7 @@ page.data-v-481151e6 {
   width: 21rpx;
   background-repeat: no-repeat;
   margin-left: 24rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .poster-goods .setting .line .label text.data-v-481151e6 {
   line-height: 1;
@@ -88,8 +87,7 @@ page.data-v-481151e6 {
   height: 56rpx;
   width: 120rpx;
   background: #f7f7f7;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   margin: 0 14rpx;
 }
 .poster-goods .setting .line .style-input .type-pure.data-v-481151e6 {
@@ -102,7 +100,6 @@ page.data-v-481151e6 {
   height: 32rpx;
   width: 32rpx;
   margin-right: 10rpx;
-  background: -webkit-gradient(linear, left top, left bottom, from(#d8d8d8), to(#FFFFFF));
   background: -webkit-linear-gradient(#d8d8d8, #FFFFFF);
   background: linear-gradient(#d8d8d8, #FFFFFF);
 }
@@ -121,13 +118,11 @@ page.data-v-481151e6 {
   top: -19rpx;
   right: -19rpx;
   z-index: 10;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .poster-goods .setting .line-input.data-v-481151e6 {
   position: relative;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   margin: 0 14rpx 14rpx;
   background: #f7f7f7;
   width: 140rpx;
@@ -147,16 +142,14 @@ page.data-v-481151e6 {
   display: inline-block;
   height: 60rpx;
   width: 60rpx;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   border: 1px solid #e5e5e5;
   margin-right: 26rpx;
   margin-top: 19rpx;
 }
 .poster-goods .button.data-v-481151e6 {
   font-size: 32rpx;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   height: 68rpx;
   margin: 34rpx auto 0;
   color: #ffffff;

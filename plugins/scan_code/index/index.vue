@@ -216,6 +216,7 @@
             //总价
             calcPrice: function () {
                 const self = this;
+				console.log(self.list)
                 self.price_modal = false;
                 self.$showLoading({text: '加载中'});
 

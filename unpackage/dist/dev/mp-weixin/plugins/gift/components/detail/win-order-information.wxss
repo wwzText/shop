@@ -61,7 +61,6 @@ page.data-v-5f1a3bd5 {
   border-color: #dfa245;
 }
 .streamer-gold-gift-figure-rule.data-v-5f1a3bd5 {
-  background: -webkit-gradient(linear, left top, left bottom, from(#dfa245), to(#f0c482));
   background: -webkit-linear-gradient(top, #dfa245, #f0c482);
   background: linear-gradient(to bottom, #dfa245, #f0c482);
 }
@@ -69,8 +68,7 @@ page.data-v-5f1a3bd5 {
   border-bottom-color: #dfa245;
 }
 .streamer-gold-gift-shadow.data-v-5f1a3bd5 {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
 }
 /* 浪漫粉 */
 .romantic-powder-gift-color.data-v-5f1a3bd5 {
@@ -92,7 +90,6 @@ page.data-v-5f1a3bd5 {
   border-color: #ff547b;
 }
 .romantic-powder-gift-figure-rule.data-v-5f1a3bd5 {
-  background: -webkit-gradient(linear, left top, left bottom, from(#ff547b), to(#ff96ae));
   background: -webkit-linear-gradient(top, #ff547b, #ff96ae);
   background: linear-gradient(to bottom, #ff547b, #ff96ae);
 }
@@ -100,8 +97,7 @@ page.data-v-5f1a3bd5 {
   border-bottom-color: #ff547b;
 }
 .romantic-powder-gift-shadow.data-v-5f1a3bd5 {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
 }
 /* 品味红 */
 .taste-red-gift-color.data-v-5f1a3bd5 {
@@ -123,7 +119,6 @@ page.data-v-5f1a3bd5 {
   border-color: #ff4544;
 }
 .taste-red-gift-figure-rule.data-v-5f1a3bd5 {
-  background: -webkit-gradient(linear, left top, left bottom, from(#ff4544), to(#ff8888));
   background: -webkit-linear-gradient(top, #ff4544, #ff8888);
   background: linear-gradient(to bottom, #ff4544, #ff8888);
 }
@@ -131,8 +126,7 @@ page.data-v-5f1a3bd5 {
   border-bottom-color: #ff4544;
 }
 .taste-red-gift-shadow.data-v-5f1a3bd5 {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
 }
 /* 优雅紫 */
 .elegant-purple-gift-color.data-v-5f1a3bd5 {
@@ -154,7 +148,6 @@ page.data-v-5f1a3bd5 {
   border-color: #7783ea;
 }
 .elegant-purple-gift-figure-rule.data-v-5f1a3bd5 {
-  background: -webkit-gradient(linear, left top, left bottom, from(#7783ea), to(#a1aaf6));
   background: -webkit-linear-gradient(top, #7783ea, #a1aaf6);
   background: linear-gradient(to bottom, #7783ea, #a1aaf6);
 }
@@ -162,8 +155,7 @@ page.data-v-5f1a3bd5 {
   border-bottom-color: #7783ea;
 }
 .elegant-purple-gift-shadow.data-v-5f1a3bd5 {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
 }
 /* 清醒绿 */
 .fresh-green-gift-color.data-v-5f1a3bd5 {
@@ -185,7 +177,6 @@ page.data-v-5f1a3bd5 {
   border-color: #63be72;
 }
 .fresh-green-gift-figure-rule.data-v-5f1a3bd5 {
-  background: -webkit-gradient(linear, left top, left bottom, from(#63be72), to(#89db96));
   background: -webkit-linear-gradient(top, #63be72, #89db96);
   background: linear-gradient(to bottom, #63be72, #89db96);
 }
@@ -193,8 +184,7 @@ page.data-v-5f1a3bd5 {
   border-bottom-color: #63be72;
 }
 .fresh-green-gift-shadow.data-v-5f1a3bd5 {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
 }
 /* 商务蓝 */
 .business-blue-gift-color.data-v-5f1a3bd5 {
@@ -216,7 +206,6 @@ page.data-v-5f1a3bd5 {
   border-color: #4a90e2;
 }
 .business-blue-gift-figure-rule.data-v-5f1a3bd5 {
-  background: -webkit-gradient(linear, left top, left bottom, from(#4a90e2), to(#82b4ef));
   background: -webkit-linear-gradient(top, #4a90e2, #82b4ef);
   background: linear-gradient(to bottom, #4a90e2, #82b4ef);
 }
@@ -224,8 +213,7 @@ page.data-v-5f1a3bd5 {
   border-bottom-color: #4a90e2;
 }
 .business-blue-gift-shadow.data-v-5f1a3bd5 {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
 }
 /*订单信息*/
 .order-information.data-v-5f1a3bd5 {
@@ -235,8 +223,7 @@ page.data-v-5f1a3bd5 {
 }
 .order-information .information.data-v-5f1a3bd5 {
   background-color: #ffffff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   padding: 28rpx 24rpx 12rpx 24rpx;
   /*订单号 下单时间*/
   /*订单状态*/

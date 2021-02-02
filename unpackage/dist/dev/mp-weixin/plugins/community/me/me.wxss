@@ -46,8 +46,7 @@ page.data-v-e72b4188 {
   height: 130rpx;
   margin-right: 25rpx;
   display: block;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .title .user-info.data-v-e72b4188 {
   color: #fff;
@@ -64,8 +63,7 @@ page.data-v-e72b4188 {
 .title .user-info .user .middleman.data-v-e72b4188 {
   height: 36rpx;
   background-color: #353535;
-  -webkit-border-radius: 18rpx;
-          border-radius: 18rpx;
+  border-radius: 18rpx;
   padding: 0 12rpx 0 6rpx;
   font-size: 22rpx;
 }
@@ -85,17 +83,14 @@ page.data-v-e72b4188 {
 .money-info.data-v-e72b4188 {
   width: 702rpx;
   margin: 0 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
   position: relative;
   z-index: 10;
 }
 .money-info .menu.data-v-e72b4188 {
-  -webkit-border-bottom-left-radius: 0;
-          border-bottom-left-radius: 0;
-  -webkit-border-bottom-right-radius: 0;
-          border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 .money-info .menu .menu-item.data-v-e72b4188 {
   height: 115rpx;
@@ -124,8 +119,7 @@ page.data-v-e72b4188 {
   display: block;
 }
 .menu.data-v-e72b4188 {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
   width: 702rpx;
   margin: 15rpx 24rpx 0;

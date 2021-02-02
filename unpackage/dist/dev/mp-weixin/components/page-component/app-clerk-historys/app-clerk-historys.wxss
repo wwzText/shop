@@ -50,10 +50,8 @@ page.data-v-d4a6c20c {
   width: 100%;
   max-height: 920rpx;
   overflow: hidden;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
   background: #f7f7f7;
 }
 .app-clerk-historys .history-box .top-box.data-v-d4a6c20c {

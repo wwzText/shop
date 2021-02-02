@@ -52,8 +52,7 @@ page.data-v-3135b668 {
   width: 702rpx;
   height: 80rpx;
   line-height: 80rpx;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   padding: 0;
   text-align: center;
   margin: 40rpx auto;
@@ -126,8 +125,7 @@ page.data-v-3135b668 {
   line-height: 48rpx;
   text-align: center;
   border: 1rpx solid #ff4544;
-  -webkit-border-radius: 24rpx;
-          border-radius: 24rpx;
+  border-radius: 24rpx;
   position: absolute;
   top: 20rpx;
   right: 24rpx;

@@ -90,15 +90,13 @@ page.data-v-fee9326e {
   text-align: center;
   color: #cdcdcd;
   background: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .search.data-v-fee9326e {
   width: 750rpx;
   height: 88rpx;
   padding: 16rpx 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   background-color: #efeff4;
   position: fixed;
   top: 0;
@@ -109,8 +107,7 @@ page.data-v-fee9326e {
   width: 702rpx;
   height: 56rpx;
   position: absolute;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   background-color: #ffffff;
 }
 .search .prompt > image.data-v-fee9326e {
@@ -125,12 +122,10 @@ page.data-v-fee9326e {
 .search input.data-v-fee9326e {
   width: 702rpx;
   height: 56rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   background-color: #ffffff;
   padding: 0 70rpx 0 30rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   font-size: 26rpx;
 }
 .search .search-clear.data-v-fee9326e {
@@ -148,8 +143,7 @@ page.data-v-fee9326e {
 .list .item.data-v-fee9326e {
   font-size: 28rpx;
   background: #fff;
-  -webkit-border-radius: 24rpx;
-          border-radius: 24rpx;
+  border-radius: 24rpx;
   margin-bottom: 24rpx;
 }
 .list .item .left.data-v-fee9326e {

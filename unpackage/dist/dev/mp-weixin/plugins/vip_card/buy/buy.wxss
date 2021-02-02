@@ -53,11 +53,9 @@ page.data-v-61ca88fd {
   margin-top: -284rpx;
   z-index: 5;
   background-color: #fff;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   padding-bottom: 40rpx;
-  -webkit-box-shadow: 0 0 8rpx #efefef;
-          box-shadow: 0 0 8rpx #efefef;
+  box-shadow: 0 0 8rpx #efefef;
 }
 .list .title.data-v-61ca88fd {
   width: 100%;
@@ -139,8 +137,7 @@ page.data-v-61ca88fd {
   line-height: 80rpx;
   font-size: 32rpx;
   text-align: center;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   color: #342e25;
   background-color: #F3BE94;
 }
@@ -170,10 +167,8 @@ page.data-v-61ca88fd {
   background-color: #fff;
   padding-bottom: 55rpx;
   padding-top: 30rpx;
-  -webkit-border-bottom-left-radius: 20rpx;
-          border-bottom-left-radius: 20rpx;
-  -webkit-border-bottom-right-radius: 20rpx;
-          border-bottom-right-radius: 20rpx;
+  border-bottom-left-radius: 20rpx;
+  border-bottom-right-radius: 20rpx;
   margin-top: -8rpx;
 }
 .dialog .gift .gift-list .dialog-btn.data-v-61ca88fd {
@@ -181,10 +176,8 @@ page.data-v-61ca88fd {
   height: 89rpx;
   line-height: 89rpx;
   margin: 30rpx auto 0;
-  -webkit-border-radius: 45rpx;
-          border-radius: 45rpx;
+  border-radius: 45rpx;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(#fbdec7), to(#f3bf95));
   background: -webkit-linear-gradient(left, #fbdec7, #f3bf95);
   background: linear-gradient(to right, #fbdec7, #f3bf95);
   color: #fcfcfc;
@@ -197,8 +190,7 @@ page.data-v-61ca88fd {
   height: 112rpx;
   line-height: 112rpx;
   width: 532rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   border: 2rpx solid #e2e2e2;
   margin: 0 auto 20rpx;
 }
@@ -217,11 +209,9 @@ page.data-v-61ca88fd {
   top: 15rpx;
 }
 .buy-form.data-v-61ca88fd {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   overflow: hidden;
-  -webkit-box-shadow: 0 0 5rpx rgba(0, 0, 0, 0.025);
-          box-shadow: 0 0 5rpx rgba(0, 0, 0, 0.025);
+  box-shadow: 0 0 5rpx rgba(0, 0, 0, 0.025);
   margin: 20rpx 24rpx 0 24rpx;
 }
 

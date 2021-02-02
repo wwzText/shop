@@ -201,6 +201,7 @@ var _vuex = __webpack_require__(/*! vuex */ 12);function ownKeys(object, enumera
       self.$hideLoading();
       if (e.code === 0) {
         self.list = e.data.coupon_list;
+        console.log(self.list);
       } else {
         uni.showToast({ icon: 'none', title: e.msg });
       }

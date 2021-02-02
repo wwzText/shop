@@ -109,8 +109,7 @@ page.data-v-a2917dfc {
   height: 46rpx;
   line-height: 46rpx;
   width: 148rpx;
-  -webkit-border-radius: 24rpx;
-          border-radius: 24rpx;
+  border-radius: 24rpx;
   color: #FF4544;
   border: 1px solid #ff4544;
   background: #FFFFFF;

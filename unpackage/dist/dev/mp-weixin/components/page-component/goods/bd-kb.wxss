@@ -37,8 +37,7 @@ page.data-v-c9caa618 {
 }
 .bd-kb.data-v-c9caa618 {
   width: 702rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   padding: 20rpx;
   background-color: #ffffff;
   margin: 24rpx 24rpx 24rpx 24rpx;

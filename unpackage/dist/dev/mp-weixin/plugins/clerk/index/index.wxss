@@ -86,10 +86,8 @@ page.data-v-22d14364 {
   position: absolute;
   height: 1300rpx;
   width: 1300rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
-  -webkit-box-shadow: 0 0 40rpx #efefef;
-          box-shadow: 0 0 40rpx #efefef;
+  border-radius: 50%;
+  box-shadow: 0 0 40rpx #efefef;
 }
 .list.data-v-22d14364 {
   margin: 204rpx auto;

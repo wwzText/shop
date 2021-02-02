@@ -48,8 +48,7 @@ page.data-v-4cedc0c6 {
 .close-pic.data-v-4cedc0c6 {
   margin-right: 20rpx;
   margin-bottom: 16rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .close-pic image.data-v-4cedc0c6 {
   height: 60rpx;
@@ -58,8 +57,7 @@ page.data-v-4cedc0c6 {
 }
 .hot.data-v-4cedc0c6 {
   background-color: #fafafa;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .hot .hot-center.data-v-4cedc0c6 {
   padding: 32rpx 24rpx;
@@ -71,11 +69,9 @@ page.data-v-4cedc0c6 {
 }
 .hot .hot-center .top-list.data-v-4cedc0c6 {
   margin-top: 32rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   padding: 22rpx 0;
-  -webkit-box-shadow: 0 0 12rpx 0 #e0e0e0;
-          box-shadow: 0 0 12rpx 0 #e0e0e0;
+  box-shadow: 0 0 12rpx 0 #e0e0e0;
 }
 .hot .hot-center .top-list .item.data-v-4cedc0c6 {
   height: 110rpx;
@@ -97,8 +93,7 @@ page.data-v-4cedc0c6 {
   height: 90rpx;
   width: 90rpx;
   display: block;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
 }
 .hot .hot-center .top-list .item .goods-name.data-v-4cedc0c6 {
   color: #333333;
@@ -120,8 +115,7 @@ page.data-v-4cedc0c6 {
 }
 .top .input.data-v-4cedc0c6 {
   background-color: #ffffff;
-  -webkit-border-radius: 50rpx 0 0 50rpx;
-          border-radius: 50rpx 0 0 50rpx;
+  border-radius: 50rpx 0 0 50rpx;
   padding: 0 32rpx;
   font-size: 28rpx;
   height: 64rpx;
@@ -133,15 +127,13 @@ page.data-v-4cedc0c6 {
   width: 64rpx;
   height: 64rpx;
   background-color: #ffffff;
-  -webkit-border-radius: 0 50rpx 50rpx 0;
-          border-radius: 0 50rpx 50rpx 0;
+  border-radius: 0 50rpx 50rpx 0;
   margin-right: 20rpx;
 }
 .top .box .search-close.data-v-4cedc0c6 {
   width: 32rpx;
   height: 32rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   margin: 16rpx;
 }
 .top .radio.data-v-4cedc0c6 {
@@ -155,8 +147,7 @@ page.data-v-4cedc0c6 {
 }
 .history.data-v-4cedc0c6 {
   padding: 36rpx 24rpx;
-  -webkit-border-radius: 16rpx 16rpx 0 0;
-          border-radius: 16rpx 16rpx 0 0;
+  border-radius: 16rpx 16rpx 0 0;
   background-color: #ffffff;
   font-size: 28rpx;
 }
@@ -175,8 +166,7 @@ page.data-v-4cedc0c6 {
   padding: 0 20rpx;
   margin-right: 20rpx;
   margin-bottom: 16rpx;
-  -webkit-border-radius: 32rpx;
-          border-radius: 32rpx;
+  border-radius: 32rpx;
 }
 .goods-list .no-result.data-v-4cedc0c6 {
   height: 156rpx;

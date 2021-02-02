@@ -41,8 +41,7 @@ page.data-v-a35624ee {
   margin: 46rpx auto 48rpx;
   background-color: whtie;
   display: block;
-  -webkit-box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.15);
-          box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.15);
 }
 .poster image.data-v-a35624ee {
   height: 750rpx;
@@ -101,8 +100,7 @@ page.data-v-a35624ee {
   color: white;
   font-size: 32rpx;
   background-color: #ff4544;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   line-height: 80rpx;
 }
 .share-tip.data-v-a35624ee {

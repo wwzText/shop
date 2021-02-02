@@ -96,8 +96,7 @@ page.data-v-52fa1ba0 {
   display: inline-block;
   font-size: 19rpx;
   color: #ffffff;
-  -webkit-border-radius: 7rpx;
-          border-radius: 7rpx;
+  border-radius: 7rpx;
   padding: 0rpx 5rpx;
 }
 

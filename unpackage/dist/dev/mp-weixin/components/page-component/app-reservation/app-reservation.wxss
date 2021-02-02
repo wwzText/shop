@@ -51,10 +51,8 @@ page.data-v-60ff8adc {
   margin-left: 24rpx;
   margin-right: 24rpx;
   height: 200rpx;
-  -webkit-border-bottom-right-radius: 20rpx;
-          border-bottom-right-radius: 20rpx;
-  -webkit-border-top-right-radius: 20rpx;
-          border-top-right-radius: 20rpx;
+  border-bottom-right-radius: 20rpx;
+  border-top-right-radius: 20rpx;
   position: relative;
   padding-right: 24rpx;
   border: 1rpx solid transparent;
@@ -77,10 +75,8 @@ page.data-v-60ff8adc {
 .app-list-mode .app-item .app-content.data-v-60ff8adc {
   width: 446rpx;
   height: 200rpx;
-  -webkit-border-bottom-right-radius: 20rpx;
-          border-bottom-right-radius: 20rpx;
-  -webkit-border-top-right-radius: 20rpx;
-          border-top-right-radius: 20rpx;
+  border-bottom-right-radius: 20rpx;
+  border-top-right-radius: 20rpx;
 }
 .app-list-mode .app-item .app-content .app-name.data-v-60ff8adc {
   word-break: break-all;
@@ -131,14 +127,12 @@ page.data-v-60ff8adc {
 .app-list-mode .app-item .app-content .app-price-button .app-fillet-fill.data-v-60ff8adc {
   background-color: #ff4544;
   color: white;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .app-list-mode .app-item .app-content .app-price-button .app-rounded-line.data-v-60ff8adc {
   background-color: white;
   color: #ff4544;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .app-one-per-line.data-v-60ff8adc {
   width: 750rpx;
@@ -149,10 +143,8 @@ page.data-v-60ff8adc {
   position: relative;
   border: 1rpx solid transparent;
   margin-top: 24rpx;
-  -webkit-border-bottom-right-radius: 10rpx;
-          border-bottom-right-radius: 10rpx;
-  -webkit-border-bottom-left-radius: 10rpx;
-          border-bottom-left-radius: 10rpx;
+  border-bottom-right-radius: 10rpx;
+  border-bottom-left-radius: 10rpx;
   overflow: hidden;
 }
 .app-one-per-line .app-item .app-icon.data-v-60ff8adc {
@@ -207,8 +199,7 @@ page.data-v-60ff8adc {
   font-size: 26rpx;
   line-height: 48rpx;
   margin: 0;
-  -webkit-border-radius: 0;
-          border-radius: 0;
+  border-radius: 0;
   border: 1rpx solid #ff4544;
 }
 .app-one-per-line .app-item .app-price-button .app-button.data-v-60ff8adc:after {
@@ -225,14 +216,12 @@ page.data-v-60ff8adc {
 .app-one-per-line .app-item .app-price-button .app-fillet-fill.data-v-60ff8adc {
   background-color: #ff4544;
   color: white;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .app-one-per-line .app-item .app-price-button .app-rounded-line.data-v-60ff8adc {
   background-color: white;
   color: #ff4544;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .app-two-per-line.data-v-60ff8adc {
   width: 750rpx;
@@ -241,10 +230,8 @@ page.data-v-60ff8adc {
 .app-two-per-line .app-item.data-v-60ff8adc {
   width: 346rpx;
   height: 534rpx;
-  -webkit-border-bottom-left-radius: 10rpx;
-          border-bottom-left-radius: 10rpx;
-  -webkit-border-bottom-right-radius: 10rpx;
-          border-bottom-right-radius: 10rpx;
+  border-bottom-left-radius: 10rpx;
+  border-bottom-right-radius: 10rpx;
   border: 1rpx solid transparent;
   overflow: hidden;
   position: relative;
@@ -296,8 +283,7 @@ page.data-v-60ff8adc {
 .app-two-per-line .app-item .app-group-price-button .app-group-price .app-fight-group.data-v-60ff8adc {
   display: inline-block;
   height: 30rpx;
-  -webkit-border-radius: 10rpx;
-          border-radius: 10rpx;
+  border-radius: 10rpx;
   border: 1rpx solid #ff4544;
   font-size: 20rpx;
   line-height: 30rpx;
@@ -319,8 +305,7 @@ page.data-v-60ff8adc {
   height: 48rpx;
   font-size: 26rpx;
   line-height: 48rpx;
-  -webkit-border-radius: 0;
-          border-radius: 0;
+  border-radius: 0;
   border: 1rpx solid #ff4544;
   position: absolute;
   right: 24rpx;
@@ -339,14 +324,12 @@ page.data-v-60ff8adc {
 .app-two-per-line .app-item .app-group-price-button .app-fillet-fill.data-v-60ff8adc {
   background-color: #ff4544;
   color: white;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .app-two-per-line .app-item .app-group-price-button .app-rounded-line.data-v-60ff8adc {
   background-color: white;
   color: #ff4544;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .app-two-per-line .app-item-margin.data-v-60ff8adc {
   margin-right: 10rpx;

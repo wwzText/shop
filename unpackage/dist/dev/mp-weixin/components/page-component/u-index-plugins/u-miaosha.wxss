@@ -109,8 +109,7 @@ page.data-v-009b9073 {
   height: 34rpx;
   font-size: 20rpx;
   color: #ffffff;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   background-color: #4c4c4c;
 }
 

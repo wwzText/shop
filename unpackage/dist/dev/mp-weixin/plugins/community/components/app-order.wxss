@@ -36,8 +36,7 @@ page.data-v-d37d00a8 {
   padding-bottom: env(safe-area-inset-bottom);
 }
 .item.data-v-d37d00a8 {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
   width: 702rpx;
   margin: 24rpx;
@@ -84,14 +83,12 @@ page.data-v-d37d00a8 {
   margin-right: 20rpx;
   width: 56rpx;
   height: 56rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .item .info .user-info .avatar image.data-v-d37d00a8 {
   width: 56rpx;
   height: 56rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .item .info .user-info .user.data-v-d37d00a8 {
   color: #353535;
@@ -120,8 +117,7 @@ page.data-v-d37d00a8 {
   width: 160rpx;
   float: left;
   margin-right: 20rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
 }
 .item .goods .goods-attr.data-v-d37d00a8 {
   font-size: 24rpx;
@@ -162,8 +158,7 @@ page.data-v-d37d00a8 {
 .item .pick-btn.data-v-d37d00a8 {
   height: 48rpx;
   line-height: 46rpx;
-  -webkit-border-radius: 24rpx;
-          border-radius: 24rpx;
+  border-radius: 24rpx;
   border: 2rpx solid;
   font-size: 24rpx;
   display: inline-block;
@@ -187,8 +182,7 @@ page.data-v-d37d00a8 {
   left: 50%;
   margin-left: -240rpx;
   background-color: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   z-index: 233;
   font-size: 28rpx;
   color: #353535;

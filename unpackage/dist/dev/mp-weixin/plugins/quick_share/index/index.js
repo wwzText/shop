@@ -156,7 +156,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var appGoodsPreviewPoster = function appGoodsPreviewPoster() {__webpack_require__.e(/*! require.ensure | components/page-component/goods/app-goods-preview-poster */ "components/page-component/goods/app-goods-preview-poster").then((function () {return resolve(__webpack_require__(/*! ../../../components/page-component/goods/app-goods-preview-poster */ 2190));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var appGoodsPreviewPoster = function appGoodsPreviewPoster() {__webpack_require__.e(/*! require.ensure | components/page-component/goods/app-goods-preview-poster */ "components/page-component/goods/app-goods-preview-poster").then((function () {return resolve(__webpack_require__(/*! ../../../components/page-component/goods/app-goods-preview-poster */ 2198));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
 
 
 

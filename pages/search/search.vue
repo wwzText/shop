@@ -47,7 +47,7 @@
                                         <view v-if="item.mark && temp_index === 1"
                                               class="box-grow-0 close-pic cross-center"
                                               @click="selectAllList">
-                                            <image src="./image/icon_open.png"></image>
+                                            <image src="/static/image/icon_open.png"></image>
                                         </view>
                                     </view>
                                 </view>
@@ -56,14 +56,14 @@
                     </view>
                     <!-- 热搜 -->
                     <view class="hot-center" v-if="getSetting.is_show_hot_goods == 1">
-                        <image class="top-image" src="./image/icon_top.png"></image>
+                        <image class="top-image" src="/static/image/icon_top.png"></image>
                         <view class="top-list" v-if="hotGoodsList && hotGoodsList.length">
                             <view v-for="(goods,index) in hotGoodsList" :key="index"
                                   class="item cross-center dir-left-nowrap"
                                   @click="goodsNav(goods.url)">
                                 <view class="box-grow-0 main-center first">
-                                    <image v-if="goods.sort < 4" :src="goods.sort === 1 ? './image/list_icon_first.png' :
-                                    goods.sort === 2 ? './image/list_icon_second.png' : './image/list_cion_third.png'"></image>
+                                    <image v-if="goods.sort < 4" :src="goods.sort === 1 ? '/static/image/list_icon_first.png' :
+                                    goods.sort === 2 ? '/static/image/list_icon_second.png' : '/static/image/list_cion_third.png'"></image>
                                     <view v-if="goods.sort > 3">{{goods.sort}}</view>
                                 </view>
                                 <view class="goods-image box-grow-0">

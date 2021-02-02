@@ -52,8 +52,7 @@ page.data-v-f8799546 {
   margin-bottom: 20rpx;
 }
 .no-tip .to-composition.data-v-f8799546 {
-  -webkit-border-radius: 33rpx;
-          border-radius: 33rpx;
+  border-radius: 33rpx;
   width: 246rpx;
   text-align: center;
   height: 66rpx;
@@ -71,8 +70,7 @@ page.data-v-f8799546 {
 .list .item.data-v-f8799546 {
   margin-top: 20rpx;
   padding: 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
 }
 .dialog-bg.data-v-f8799546 {
@@ -89,8 +87,7 @@ page.data-v-f8799546 {
   margin: 260rpx auto 0;
   background-color: #fff;
   padding-top: 40rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .dialog-bg .dialog .dialog-title.data-v-f8799546 {
   text-align: center;
@@ -109,13 +106,11 @@ page.data-v-f8799546 {
 .dialog-bg .dialog .dialog-goods-list .dialog-goods.data-v-f8799546 {
   width: 80rpx;
   height: 80rpx;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   margin: 10rpx;
 }
 .dialog-bg .dialog .dialog-goods-list .dialog-goods image.data-v-f8799546 {
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   width: 80rpx;
   height: 80rpx;
 }
@@ -150,8 +145,7 @@ page.data-v-f8799546 {
 .bottom .submit-btn.data-v-f8799546 {
   width: 222rpx;
   height: 78rpx;
-  -webkit-border-radius: 39rpx;
-          border-radius: 39rpx;
+  border-radius: 39rpx;
   color: #fff;
   font-size: 32rpx;
   line-height: 78rpx;

@@ -71,8 +71,7 @@ page.data-v-562c3170 {
   width: 750rpx;
   height: 88rpx;
   padding: 16rpx 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   background-color: #efeff4;
   position: fixed;
   top: 100rpx;
@@ -83,8 +82,7 @@ page.data-v-562c3170 {
   width: 702rpx;
   height: 56rpx;
   position: absolute;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   background-color: #ffffff;
 }
 .admin .search .prompt > image.data-v-562c3170 {
@@ -99,12 +97,10 @@ page.data-v-562c3170 {
 .admin .search input.data-v-562c3170 {
   width: 702rpx;
   height: 56rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   background-color: #ffffff;
   padding: 0 70rpx 0 30rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   font-size: 26rpx;
 }
 .admin .search .search-clear.data-v-562c3170 {
@@ -170,8 +166,7 @@ page.data-v-562c3170 {
   background-color: #f7f7f7;
   padding-left: 24rpx;
   padding-right: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   margin-top: 292rpx;
 }
 .admin .content .no-people.data-v-562c3170 {
@@ -193,11 +188,9 @@ page.data-v-562c3170 {
 .admin .content .all-item.data-v-562c3170 {
   width: 702rpx;
   background-color: white;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   padding: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   margin-top: 24rpx;
 }
 .admin .content .all-item .avatar-name.data-v-562c3170 {
@@ -206,8 +199,7 @@ page.data-v-562c3170 {
 .admin .content .all-item .avatar-name .avatar.data-v-562c3170 {
   height: 100rpx;
   width: 100rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   -webkit-flex-shrink: 0;
           flex-shrink: 0;
 }
@@ -244,8 +236,7 @@ page.data-v-562c3170 {
   height: 36rpx;
   line-height: 36rpx;
   padding: 0 8rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   background-color: #efeff4;
   margin-right: 16rpx;
   font-size: 22rpx;
@@ -284,8 +275,7 @@ page.data-v-562c3170 {
   border-style: solid;
   border-color: transparent;
   border-width: 1rpx;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   font-size: 28rpx;
 }
 .admin .content .all-item .button .deduction.data-v-562c3170 {
@@ -301,11 +291,9 @@ page.data-v-562c3170 {
   width: 702rpx;
   margin-top: 24rpx;
   background-color: white;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   padding: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .admin .content .auditor-item .avatar-name.data-v-562c3170 {
   width: 654rpx;
@@ -314,8 +302,7 @@ page.data-v-562c3170 {
 .admin .content .auditor-item .avatar.data-v-562c3170 {
   width: 100rpx;
   height: 100rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
 }
 .admin .content .auditor-item .name-content.data-v-562c3170 {
   height: 100rpx;
@@ -352,8 +339,7 @@ page.data-v-562c3170 {
   font-size: 22rpx;
   color: #999999;
   padding: 0 8rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   height: 36rpx;
   background-color: #efeff4;
 }
@@ -372,12 +358,10 @@ page.data-v-562c3170 {
   line-height: 60rpx;
   background-color: white;
   font-size: 28rpx;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   text-align: center;
   padding: 0 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   border-width: 1rpx;
   border-style: solid;
 }
@@ -393,18 +377,15 @@ page.data-v-562c3170 {
 .admin .content .distributor-item.data-v-562c3170 {
   width: 702rpx;
   background-color: white;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   padding: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   margin-top: 24rpx;
 }
 .admin .content .distributor-item .avatar.data-v-562c3170 {
   width: 148rpx;
   height: 148rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   margin-right: 24rpx;
 }
 .admin .content .distributor-item .content-text.data-v-562c3170 {
@@ -435,8 +416,7 @@ page.data-v-562c3170 {
   color: #999999;
   font-size: 22rpx;
   padding: 0 8rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   background-color: #efeff4;
   margin-right: 16rpx;
 }
@@ -467,8 +447,7 @@ page.data-v-562c3170 {
           transform: translate(-50%, -50%);
   width: 620rpx;
   background-color: white;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .admin .recharge-key-face .key-face-item .nav.data-v-562c3170 {
   text-align: center;
@@ -492,33 +471,28 @@ page.data-v-562c3170 {
 }
 .admin .recharge-key-face .key-face-item .input.data-v-562c3170 {
   padding: 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .admin .recharge-key-face .key-face-item .input > input.data-v-562c3170 {
   height: 80rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #f7f7f7;
   color: #353535;
   font-size: 28rpx;
   padding-left: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .admin .recharge-key-face .key-face-item .input .remark-input.data-v-562c3170 {
   margin-top: 20rpx;
 }
 .admin .recharge-key-face .key-face-item .input > textarea.data-v-562c3170 {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   border: 2rpx solid #e2e2e2;
   color: #353535;
   font-size: 28rpx;
   width: 100%;
   padding: 16rpx 20rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .admin .recharge-key-face .key-face-item .button.data-v-562c3170 {
   height: 88rpx;
@@ -572,8 +546,7 @@ page.data-v-562c3170 {
   width: 750rpx;
   background-color: #ffffff;
   padding-top: 20rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -581,8 +554,7 @@ page.data-v-562c3170 {
 .admin .modify-store .modify-store-item .picker-header.data-v-562c3170 {
   width: 750rpx;
   padding: 0 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   color: #446dfd;
   font-size: 32rpx;
 }
@@ -627,11 +599,9 @@ page.data-v-562c3170 {
           transform: translate(-50%, -50%);
   width: 620rpx;
   background-color: white;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   padding-top: 40rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .admin .release-prompt .prompt-item .header.data-v-562c3170 {
   font-size: 32rpx;
@@ -684,8 +654,7 @@ page.data-v-562c3170 {
   z-index: 1001;
   margin: 0 auto;
   width: 620rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
 }
 .dialog .dialog-item .error-info.data-v-562c3170 {
@@ -729,10 +698,8 @@ page.data-v-562c3170 {
   width: 100%;
   height: 400rpx;
   z-index: 1001;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
   background-color: #fff;
   text-align: center;
   font-size: 32rpx;
@@ -755,8 +722,7 @@ page.data-v-562c3170 {
           transform: translate(-50%, -50%);
   width: 620rpx;
   background-color: white;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .dialog .key-face-item .nav.data-v-562c3170 {
   text-align: center;
@@ -780,19 +746,16 @@ page.data-v-562c3170 {
 }
 .dialog .key-face-item .input.data-v-562c3170 {
   padding: 32rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .dialog .key-face-item .input > input.data-v-562c3170 {
   height: 80rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #f7f7f7;
   color: #353535;
   font-size: 28rpx;
   padding-left: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .dialog .key-face-item .input .remark-input.data-v-562c3170 {
   margin-top: 20rpx;

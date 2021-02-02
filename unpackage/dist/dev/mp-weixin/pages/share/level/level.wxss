@@ -55,8 +55,7 @@ page.data-v-39ab1760 {
 .app-level .list .item.data-v-39ab1760 {
   position: relative;
   background: #ffffff;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
   height: 130rpx;
   line-height: 130rpx;
   margin-bottom: 24rpx;
@@ -102,9 +101,7 @@ page.data-v-39ab1760 {
   margin: 50rpx 108rpx;
   font-size: 43rpx;
   color: #895c4c;
-  -webkit-border-radius: 50rpx;
-          border-radius: 50rpx;
-  background-image: -webkit-gradient(linear, left top, right top, from(#ffddad), to(#ffce98));
+  border-radius: 50rpx;
   background-image: -webkit-linear-gradient(left, #ffddad, #ffce98);
   background-image: linear-gradient(to right, #ffddad, #ffce98);
 }
@@ -134,8 +131,7 @@ page.data-v-39ab1760 {
   width: 272rpx;
   height: 60rpx;
   color: #ffffff;
-  -webkit-border-radius: 60rpx;
-          border-radius: 60rpx;
+  border-radius: 60rpx;
   text-align: center;
   line-height: 60rpx;
 }
@@ -148,8 +144,7 @@ page.data-v-39ab1760 {
 .app-level .dialog .rule.data-v-39ab1760 {
   width: 650rpx;
   background-color: #ffffff;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
   position: relative;
 }
 .app-level .dialog .rule .close.data-v-39ab1760 {
@@ -169,8 +164,7 @@ page.data-v-39ab1760 {
   height: 270rpx;
   overflow-y: auto;
   border: 1rpx solid #e2e2e2;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .app-level .dialog .rule .btn.data-v-39ab1760 {
   width: 100%;

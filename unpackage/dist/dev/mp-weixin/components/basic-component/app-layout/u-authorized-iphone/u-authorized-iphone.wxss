@@ -65,8 +65,7 @@ page.data-v-be71c17c {
   width: 500rpx;
   height: 80rpx;
   line-height: 80rpx;
-  -webkit-border-radius: 80rpx;
-          border-radius: 80rpx;
+  border-radius: 80rpx;
   color: #ffffff;
   font-size: 30rpx;
   margin-bottom: 40rpx;

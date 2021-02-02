@@ -44,8 +44,7 @@ page {
 .main-card,
 .child-card {
   padding: 56rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   margin: 24rpx;
 }
 .main-card {
@@ -55,8 +54,7 @@ page {
   height: 361rpx;
   font-size: 24rpx;
   margin-bottom: 30rpx;
-  -webkit-box-shadow: 0 0 24rpx rgba(0, 0, 0, 0.15);
-          box-shadow: 0 0 24rpx rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 24rpx rgba(0, 0, 0, 0.15);
 }
 .main-card .name {
   font-size: 40rpx;
@@ -93,8 +91,7 @@ page {
 .checkbox {
   width: 46rpx;
   height: 46rpx;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
   border-width: 2rpx;
   border-style: solid;
 }

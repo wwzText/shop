@@ -94,16 +94,14 @@ page.data-v-8aa93284 {
 .radio-single.data-v-8aa93284 {
   width: 40rpx;
   height: 40rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   background-color: white;
   border: 1rpx solid #e2e2e2;
 }
 .radio-single-active.data-v-8aa93284 {
   width: 40rpx;
   height: 40rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   background-repeat: repeat;
   background-size: 100% 100%;
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAEYUlEQVRYCc3BW6geAgDA8f937GxkLgmNSe4vNMmD3JaJpNyVIbe9CI9SXkQhl2fiTdiba0dRbkVKiqKUpNmSZka02UXG2c/Roc/ZdrbvlOH3G5jS3G2qvq7erT6oVlffVFubdkC1uDquOqtaWh1RLWyOBqY0ujXVO9UL1RvVb41mvLq4uqJaWh3fqIzmezyMxQghhBBCCCGEEEJYhAfwrRFkz17FMoQQQgghhBBCCCGEEMI5WGkPsntPYh+EEEIIIYQQQgghhBBCCOEBTJpFZncfQgghhBBCCCGEEEIIIYQQQrgVk3Yhu/YgQgghhBBCCCGEEEIIIYQQQgjhDkzaQXb2DEIIIYQQQgghhBBCCCGEEEIIIYT77SAzvY2FCCGEEEIIIYQQQgghhBBCCCGEEMax0t9k6EdciBBCCCGEEEIIIYQQQgghhBBCCCGEY/GlP401NFG92X9vTfVYtb0pA1OqtdV51ar+Pz6tThlr2ifVqv4dy6ur2rO3+gN+xXUIIYQQQgghhBBCCCGEEEII52O7addiX4QQQggnYGNYg/kIIYQQQgghhBBCCCGEEEJYiq1mOhohhBBCeGuser/a1t51QfVKtV9DN1Y/tHsvhtsQQgghhBBCCCGEEEIIIYSl2GBoA25ACCGEEEI4a171eXvPOdUL1UEN3VxNNJqNY9W37R3Lqpeqw5q2qbqmmmh0W8ORCCGEEEKYj3vxDBYghBBCCOFcbDD0C65FCCGEEEIIIRwZDkUIIYQQBnjU0AT2RwghhLAM6wz9jKsQQgghhBBCCOHwcDRCCCGEMI7XzPQ8DkYIIZyN7wxtxgqEEEIIIYQQQghHhdMQQgghhLAvJsz0Kg5BCKdjvaGtWI4QQgghhBBCCCGcGK5ACCGEEEKYhyfM9DoW4ySsNfQbrkEIIYQQQgghhBDCkvAQQgghhBBCCM+Z6UN8YWgLViCEEEIIIYQQQgghXBI+QgghhBBCCCE8a3aXIoQQQgghhBBCCCGEx8NmnIoQQgghhBDCfDxtpm24FSGEEEIIIYQQQgghLMCXYTueRAghhBBCCCGM4ylDtyCEEEIIIYQQQgghhHATJudVg+rc5u7X6o7qq+qn6un+WTdVY5k2ibsQQgghhBBCCGGAEEIIIYQQQgghhBBCOA8/mJKhVTgGIYQQQgghhBBCCCGEEEIIIYQQQgjjeN+fxho6vrqn2qf/1t3Vmf3Fzu5ECCGEEEIIIYQQQgghhBBCCCGEcCG+9zfZ2QZciRBCCCGEEEIIIYQQQgghhBBCWIKv7SC7thFXI4QQQgghhBBCCCGEEEIIIYQzsNouZHY/43aEEEIIIYQQQgghhBBCCCFcivVmkT17BIsRQgghhBBCCCGEEEIIB+FubLEbGc1nWI4QQgghhBBCCCGEEC7Hx0YwMKXRbKk+rV6uVlbrmptF1fXVZdVp1YGNYGBKczNZraveq16vPq82VZurbdWgWlAtrBZWJ1cXVWdWi6p5zcHvLGx3k/6FSLAAAAAASUVORK5CYII=);
@@ -192,8 +190,7 @@ page.data-v-8aa93284 {
   width: 140rpx;
   height: 64rpx;
   line-height: 64rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   border: 1rpx solid;
   position: absolute;
   right: 24rpx;
@@ -223,8 +220,7 @@ page.data-v-8aa93284 {
 .cart.data-v-8aa93284 {
   width: 160rpx;
   height: 160rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   background-color: #dedede;
   position: absolute;
   left: 50%;
@@ -247,8 +243,7 @@ page.data-v-8aa93284 {
 .radio-lapse.data-v-8aa93284 {
   height: 32rpx;
   width: 64rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #cdcdcd;
   font-size: 23rpx;
   color: #ffffff;

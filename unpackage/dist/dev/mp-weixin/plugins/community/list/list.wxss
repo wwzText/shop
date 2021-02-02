@@ -43,10 +43,8 @@ page.data-v-205e56bc {
   height: 115rpx;
   font-size: 22rpx;
   color: #fff;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
   padding-left: 63rpx;
 }
 .list .title .title-text.data-v-205e56bc {
@@ -100,8 +98,7 @@ page.data-v-205e56bc {
   margin-right: 38rpx;
   height: 120rpx;
   width: 120rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .list .goods-list .right-arrow.data-v-205e56bc {
   position: absolute;
@@ -117,17 +114,14 @@ page.data-v-205e56bc {
   color: #999;
   height: 60rpx;
   background-color: #fff;
-  -webkit-border-bottom-left-radius: 16rpx;
-          border-bottom-left-radius: 16rpx;
-  -webkit-border-bottom-right-radius: 16rpx;
-          border-bottom-right-radius: 16rpx;
+  border-bottom-left-radius: 16rpx;
+  border-bottom-right-radius: 16rpx;
 }
 .list .other .other-button.data-v-205e56bc {
   line-height: 58rpx;
   height: 58rpx;
   padding: 0 35rpx;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   border: 2rpx solid #e2e2e2;
   display: inline-block;
   font-size: 24rpx;
@@ -157,10 +151,8 @@ page.data-v-205e56bc {
   height: 54rpx;
   width: 702rpx;
   margin: 35rpx 24rpx;
-  -webkit-border-radius: 27rpx;
-          border-radius: 27rpx;
-  -webkit-box-shadow: rgba(186, 186, 186, 0.35) 0 4rpx 4rpx;
-          box-shadow: rgba(186, 186, 186, 0.35) 0 4rpx 4rpx;
+  border-radius: 27rpx;
+  box-shadow: rgba(186, 186, 186, 0.35) 0 4rpx 4rpx;
 }
 .nav-area .nav .active.data-v-205e56bc {
   position: absolute;
@@ -171,11 +163,9 @@ page.data-v-205e56bc {
   line-height: 68rpx;
   z-index: 10;
   background-color: #fff;
-  -webkit-border-radius: 27rpx;
-          border-radius: 27rpx;
+  border-radius: 27rpx;
   text-align: center;
-  -webkit-box-shadow: rgba(186, 186, 186, 0.35) 0 4rpx 4rpx;
-          box-shadow: rgba(186, 186, 186, 0.35) 0 4rpx 4rpx;
+  box-shadow: rgba(186, 186, 186, 0.35) 0 4rpx 4rpx;
 }
 .nav-area .nav .nav-item.data-v-205e56bc {
   width: 25%;

@@ -85,8 +85,7 @@ page.data-v-d4379c3c {
   height: 360rpx;
   width: 620rpx;
   background: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .permissions .order-title.data-v-d4379c3c {
   margin: 48rpx 0;

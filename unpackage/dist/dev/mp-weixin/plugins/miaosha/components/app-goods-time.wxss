@@ -77,8 +77,7 @@ page.data-v-c7f67da2 {
   height: 40rpx;
   line-height: 40rpx;
   background-color: white;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   color: #353535;
   text-align: center;
 }

@@ -47,10 +47,8 @@ page.data-v-3552a619 {
   margin: 0 25rpx;
   text-align: center;
   padding-top: 60rpx;
-  -webkit-border-top-left-radius: 25rpx;
-          border-top-left-radius: 25rpx;
-  -webkit-border-top-right-radius: 25rpx;
-          border-top-right-radius: 25rpx;
+  border-top-left-radius: 25rpx;
+  border-top-right-radius: 25rpx;
   color: #353535;
   font-size: 32rpx;
   position: relative;
@@ -78,8 +76,7 @@ page.data-v-3552a619 {
   width: 240rpx;
   margin: 35rpx auto 0;
   font-size: 30rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   border: 2rpx solid;
 }
 .btn.used.data-v-3552a619 {
@@ -104,10 +101,8 @@ page.data-v-3552a619 {
   margin: -2rpx 25rpx 0;
   font-size: 28rpx;
   padding: 25rpx 40rpx 65rpx;
-  -webkit-border-bottom-left-radius: 25rpx;
-          border-bottom-left-radius: 25rpx;
-  -webkit-border-bottom-right-radius: 25rpx;
-          border-bottom-right-radius: 25rpx;
+  border-bottom-left-radius: 25rpx;
+  border-bottom-right-radius: 25rpx;
 }
 .details .title.data-v-3552a619 {
   color: #b0b0b0;

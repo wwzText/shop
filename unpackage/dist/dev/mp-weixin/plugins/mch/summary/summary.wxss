@@ -50,8 +50,7 @@ page.data-v-31a6c39a {
   top: 55rpx;
   left: 0rpx;
   background: #ff4544;
-  -webkit-border-radius: 0 28rpx 28rpx 0;
-          border-radius: 0 28rpx 28rpx 0;
+  border-radius: 0 28rpx 28rpx 0;
   height: 56rpx;
 }
 .summary-head .home view.data-v-31a6c39a {
@@ -65,8 +64,7 @@ page.data-v-31a6c39a {
   margin: 12rpx;
 }
 .summary-head .cover-pic.data-v-31a6c39a {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   position: absolute;
   top: 130rpx;
   left: 305rpx;
@@ -86,8 +84,7 @@ page.data-v-31a6c39a {
   margin: 40rpx auto;
   color: #5292ed;
   font-size: 28rpx;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   border: 1rpx solid #5292ed;
 }
 .summary-info .summary-contact image.data-v-31a6c39a {
@@ -114,8 +111,7 @@ page.data-v-31a6c39a {
 .summary-info .tag .tv.data-v-31a6c39a {
   text-align: center;
   display: inline-block;
-  -webkit-border-radius: 22rpx;
-          border-radius: 22rpx;
+  border-radius: 22rpx;
   margin: 0 32rpx;
   padding: 0 20rpx;
   font-size: 26rpx;
