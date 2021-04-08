@@ -7,7 +7,7 @@
             :is_icon_super_vip="is_icon_super_vip"
         ></app-user-center-top>
 
-        <view class="u-foot-box main-center" v-if="userCenter.is_foot_bar_status == 1">
+        <view class="u-foot-box main-center" v-if="userCenter.account_bar && userCenter.is_foot_bar_status == 1">
             <view @click="router(item.name)" class="u-foot-item main-center" v-for="(item, key) in foot_bar" :key="key">
                 <image class="u-icon" :src="item.icon_url"></image>
                 <view class="u-foot-info">
@@ -23,7 +23,7 @@
         </view>
 
         <app-account-balance
-            v-if="userCenter.account_bar.status == 1"
+            v-if="userCenter.account_bar && userCenter.account_bar.status == 1"
             :margin="true"
             :round="true"
             :input-user-center="userCenter"
@@ -94,6 +94,11 @@
             AppMyOrder,
             AppVipCard,
         },
+		watch: {
+			userCenter(val) {
+				console.log(val)
+			}
+		},
         computed: {
             ...mapState({
                 copyright: state => state.mallConfig.copyright,

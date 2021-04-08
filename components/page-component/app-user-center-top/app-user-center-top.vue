@@ -54,8 +54,8 @@
         <!-- style 2 start -->
         <view class="style-2 box-grow-1" v-else-if="topStyle == '2'">
             <view class="avatar-container">
-                <image :src="avatar" :class="[userInfo.is_vip_card_user && is_icon_super_vip == '1' ? 'avatar is_vip' : 'avatar']"></image>
-                <image v-if="userInfo.is_vip_card_user  && is_icon_super_vip == '1'" src="/static/image/vip_icon.png" class="vip_icon"></image>
+                <image :src="avatar" :class="[userInfo&& userInfo.is_vip_card_user && is_icon_super_vip == '1' ? 'avatar is_vip' : 'avatar']"></image>
+                <image v-if="userInfo && userInfo.is_vip_card_user  && is_icon_super_vip == '1'" src="/static/image/vip_icon.png" class="vip_icon"></image>
             </view>
             <view class="info-container">
                 <template v-if="isLogin">

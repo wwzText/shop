@@ -33,11 +33,11 @@
     export default {
         name: "app-account-style",
         props: {
-            showCount: Number,
-            icon: String,
-            text: String,
-            value: Number,
-            page: String,
+            showCount: [Number, String],
+            icon: [Number, String],
+            text: [Number, String],
+            value: [Number, String],
+            page: [Number, String],
         }
     }
 </script>

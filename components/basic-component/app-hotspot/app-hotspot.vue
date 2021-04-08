@@ -14,7 +14,11 @@
             hotspot: {
                 type: Object,
                 default() {
-                    return {};
+                    return {
+						link: {
+							openType: ""
+						}
+					};
                 }
             }
         },
