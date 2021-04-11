@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "规则",
-  "usingComponents": {
-    "parse": "/components/basic-component/app-rich/parse"
-  }
-}

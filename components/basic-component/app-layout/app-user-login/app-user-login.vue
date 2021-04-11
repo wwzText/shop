@@ -89,9 +89,9 @@
                 }
             },
             getUserInfoClick(e) {
-                // #ifdef MP-TOUTIAO
+
                 this.getUserInfo(e);
-                // #endif
+
             },
             getUserInfo(e) {
                 this.$store.commit('user/showLoginModal', false);

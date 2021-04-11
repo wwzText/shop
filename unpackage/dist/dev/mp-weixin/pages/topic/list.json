@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "专题列表",
-  "usingComponents": {
-    "app-special-topic-list": "/components/page-component/app-special-topic/app-special-topic-list"
-  }
-}

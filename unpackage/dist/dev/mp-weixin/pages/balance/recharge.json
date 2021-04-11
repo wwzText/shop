@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "",
-  "usingComponents": {
-    "app-text": "/components/basic-component/app-rich/parse"
-  }
-}

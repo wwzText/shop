@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "提现申请",
-  "usingComponents": {
-    "app-cash-model": "/components/page-component/app-cash-model/app-cash-model"
-  }
-}
