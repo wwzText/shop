@@ -8,7 +8,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.createApp = createApp;exports.createComponent = createComponent;exports.createPage = createPage;exports.default = void 0;var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function ownKeys(object, enumerableOnly) {var keys = Object.keys(object);if (Object.getOwnPropertySymbols) {var symbols = Object.getOwnPropertySymbols(object);if (enumerableOnly) symbols = symbols.filter(function (sym) {return Object.getOwnPropertyDescriptor(object, sym).enumerable;});keys.push.apply(keys, symbols);}return keys;}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};if (i % 2) {ownKeys(Object(source), true).forEach(function (key) {_defineProperty(target, key, source[key]);});} else if (Object.getOwnPropertyDescriptors) {Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));} else {ownKeys(Object(source)).forEach(function (key) {Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));});}}return target;}function _slicedToArray(arr, i) {return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest();}function _nonIterableRest() {throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _iterableToArrayLimit(arr, i) {if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr))) return;var _arr = [];var _n = true;var _d = false;var _e = undefined;try {for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {_arr.push(_s.value);if (i && _arr.length === i) break;}} catch (err) {_d = true;_e = err;} finally {try {if (!_n && _i["return"] != null) _i["return"]();} finally {if (_d) throw _e;}}return _arr;}function _arrayWithHoles(arr) {if (Array.isArray(arr)) return arr;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}function _classCallCheck(instance, Constructor) {if (!(instance instanceof Constructor)) {throw new TypeError("Cannot call a class as a function");}}function _defineProperties(target, props) {for (var i = 0; i < props.length; i++) {var descriptor = props[i];descriptor.enumerable = descriptor.enumerable || false;descriptor.configurable = true;if ("value" in descriptor) descriptor.writable = true;Object.defineProperty(target, descriptor.key, descriptor);}}function _createClass(Constructor, protoProps, staticProps) {if (protoProps) _defineProperties(Constructor.prototype, protoProps);if (staticProps) _defineProperties(Constructor, staticProps);return Constructor;}function _toConsumableArray(arr) {return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();}function _nonIterableSpread() {throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _unsupportedIterableToArray(o, minLen) {if (!o) return;if (typeof o === "string") return _arrayLikeToArray(o, minLen);var n = Object.prototype.toString.call(o).slice(8, -1);if (n === "Object" && o.constructor) n = o.constructor.name;if (n === "Map" || n === "Set") return Array.from(o);if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen);}function _iterableToArray(iter) {if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter);}function _arrayWithoutHoles(arr) {if (Array.isArray(arr)) return _arrayLikeToArray(arr);}function _arrayLikeToArray(arr, len) {if (len == null || len > arr.length) len = arr.length;for (var i = 0, arr2 = new Array(len); i < len; i++) {arr2[i] = arr[i];}return arr2;}
+Object.defineProperty(exports, "__esModule", { value: true });exports.createApp = createApp;exports.createComponent = createComponent;exports.createPage = createPage;exports.default = void 0;var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 2));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function ownKeys(object, enumerableOnly) {var keys = Object.keys(object);if (Object.getOwnPropertySymbols) {var symbols = Object.getOwnPropertySymbols(object);if (enumerableOnly) symbols = symbols.filter(function (sym) {return Object.getOwnPropertyDescriptor(object, sym).enumerable;});keys.push.apply(keys, symbols);}return keys;}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};if (i % 2) {ownKeys(Object(source), true).forEach(function (key) {_defineProperty(target, key, source[key]);});} else if (Object.getOwnPropertyDescriptors) {Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));} else {ownKeys(Object(source)).forEach(function (key) {Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));});}}return target;}function _slicedToArray(arr, i) {return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest();}function _nonIterableRest() {throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _iterableToArrayLimit(arr, i) {if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr))) return;var _arr = [];var _n = true;var _d = false;var _e = undefined;try {for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {_arr.push(_s.value);if (i && _arr.length === i) break;}} catch (err) {_d = true;_e = err;} finally {try {if (!_n && _i["return"] != null) _i["return"]();} finally {if (_d) throw _e;}}return _arr;}function _arrayWithHoles(arr) {if (Array.isArray(arr)) return arr;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}function _toConsumableArray(arr) {return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();}function _nonIterableSpread() {throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}function _unsupportedIterableToArray(o, minLen) {if (!o) return;if (typeof o === "string") return _arrayLikeToArray(o, minLen);var n = Object.prototype.toString.call(o).slice(8, -1);if (n === "Object" && o.constructor) n = o.constructor.name;if (n === "Map" || n === "Set") return Array.from(o);if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen);}function _iterableToArray(iter) {if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter);}function _arrayWithoutHoles(arr) {if (Array.isArray(arr)) return _arrayLikeToArray(arr);}function _arrayLikeToArray(arr, len) {if (len == null || len > arr.length) len = arr.length;for (var i = 0, arr2 = new Array(len); i < len; i++) {arr2[i] = arr[i];}return arr2;}
 
 var _toString = Object.prototype.toString;
 var hasOwnProperty = Object.prototype.hasOwnProperty;
@@ -363,112 +363,7 @@ var baseApi = /*#__PURE__*/Object.freeze({
   upx2px: upx2px,
   addInterceptor: addInterceptor,
   removeInterceptor: removeInterceptor,
-  interceptors: interceptors });var
-
-
-EventChannel = /*#__PURE__*/function () {
-  function EventChannel(id, events) {var _this = this;_classCallCheck(this, EventChannel);
-    this.id = id;
-    this.listener = {};
-    this.emitCache = {};
-    if (events) {
-      Object.keys(events).forEach(function (name) {
-        _this.on(name, events[name]);
-      });
-    }
-  }_createClass(EventChannel, [{ key: "emit", value: function emit(
-
-    eventName) {for (var _len3 = arguments.length, args = new Array(_len3 > 1 ? _len3 - 1 : 0), _key3 = 1; _key3 < _len3; _key3++) {args[_key3 - 1] = arguments[_key3];}
-      var fns = this.listener[eventName];
-      if (!fns) {
-        return (this.emitCache[eventName] || (this.emitCache[eventName] = [])).push(args);
-      }
-      fns.forEach(function (opt) {
-        opt.fn.apply(opt.fn, args);
-      });
-      this.listener[eventName] = fns.filter(function (opt) {return opt.type !== 'once';});
-    } }, { key: "on", value: function on(
-
-    eventName, fn) {
-      this._addListener(eventName, 'on', fn);
-      this._clearCache(eventName);
-    } }, { key: "once", value: function once(
-
-    eventName, fn) {
-      this._addListener(eventName, 'once', fn);
-      this._clearCache(eventName);
-    } }, { key: "off", value: function off(
-
-    eventName, fn) {
-      var fns = this.listener[eventName];
-      if (!fns) {
-        return;
-      }
-      if (fn) {
-        for (var i = 0; i < fns.length;) {
-          if (fns[i].fn === fn) {
-            fns.splice(i, 1);
-            i--;
-          }
-          i++;
-        }
-      } else {
-        delete this.listener[eventName];
-      }
-    } }, { key: "_clearCache", value: function _clearCache(
-
-    eventName) {
-      var cacheArgs = this.emitCache[eventName];
-      if (cacheArgs) {
-        for (; cacheArgs.length > 0;) {
-          this.emit.apply(this, [eventName].concat(cacheArgs.shift()));
-        }
-      }
-    } }, { key: "_addListener", value: function _addListener(
-
-    eventName, type, fn) {
-      (this.listener[eventName] || (this.listener[eventName] = [])).push({
-        fn: fn,
-        type: type });
-
-    } }]);return EventChannel;}();
-
-
-var eventChannels = {};
-
-var eventChannelStack = [];
-
-var id = 0;
-
-function initEventChannel(events) {var cache = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
-  id++;
-  var eventChannel = new EventChannel(id, events);
-  if (cache) {
-    eventChannels[id] = eventChannel;
-    eventChannelStack.push(eventChannel);
-  }
-  return eventChannel;
-}
-
-function getEventChannel(id) {
-  if (id) {
-    var eventChannel = eventChannels[id];
-    delete eventChannels[id];
-    return eventChannel;
-  }
-  return eventChannelStack.shift();
-}
-
-var navigateTo = {
-  args: function args(fromArgs, toArgs) {
-    var id = initEventChannel(fromArgs.events).id;
-    if (fromArgs.url) {
-      fromArgs.url = fromArgs.url + (fromArgs.url.indexOf('?') === -1 ? '?' : '&') + '__id__=' + id;
-    }
-  },
-  returnValue: function returnValue(fromRes, toRes) {
-    fromRes.eventChannel = getEventChannel();
-  } };
+  interceptors: interceptors });
 
 
 function findExistsPageIndex(url) {
@@ -537,6 +432,8 @@ var previewImage = {
   } };
 
 
+// import navigateTo from 'uni-helpers/navigate-to'
+
 function addSafeAreaInsets(result) {
   if (result.safeArea) {
     var safeArea = result.safeArea;
@@ -550,7 +447,7 @@ function addSafeAreaInsets(result) {
 }
 var protocols = {
   redirectTo: redirectTo,
-  navigateTo: navigateTo,
+  // navigateTo,  // 由于在微信开发者工具的页面参数，会显示__id__参数，因此暂时关闭mp-weixin对于navigateTo的AOP
   previewImage: previewImage,
   getSystemInfo: {
     returnValue: addSafeAreaInsets },
@@ -771,7 +668,7 @@ function initTriggerEvent(mpInstance) {
     }
   }
   var oldTriggerEvent = mpInstance.triggerEvent;
-  mpInstance.triggerEvent = function (event) {for (var _len4 = arguments.length, args = new Array(_len4 > 1 ? _len4 - 1 : 0), _key4 = 1; _key4 < _len4; _key4++) {args[_key4 - 1] = arguments[_key4];}
+  mpInstance.triggerEvent = function (event) {for (var _len3 = arguments.length, args = new Array(_len3 > 1 ? _len3 - 1 : 0), _key3 = 1; _key3 < _len3; _key3++) {args[_key3 - 1] = arguments[_key3];}
     return oldTriggerEvent.apply(mpInstance, [customize(event)].concat(args));
   };
 }
@@ -784,7 +681,7 @@ function initHook(name, options) {
     };
   } else {
     options[name] = function () {
-      initTriggerEvent(this);for (var _len5 = arguments.length, args = new Array(_len5), _key5 = 0; _key5 < _len5; _key5++) {args[_key5] = arguments[_key5];}
+      initTriggerEvent(this);for (var _len4 = arguments.length, args = new Array(_len4), _key4 = 0; _key4 < _len4; _key4++) {args[_key4] = arguments[_key4];}
       return oldHook.apply(this, args);
     };
   }
@@ -1252,7 +1149,7 @@ function getContextVm(vm) {
   return $parent && $parent.$parent;
 }
 
-function handleEvent(event) {var _this2 = this;
+function handleEvent(event) {var _this = this;
   event = wrapper$1(event);
 
   // [['tap',[['handle',[1,2,a]],['handle1',[1,2,a]]]]]
@@ -1283,14 +1180,14 @@ function handleEvent(event) {var _this2 = this;
       eventsArray.forEach(function (eventArray) {
         var methodName = eventArray[0];
         if (methodName) {
-          var handlerCtx = _this2.$vm;
+          var handlerCtx = _this.$vm;
           if (handlerCtx.$options.generic) {// mp-weixin,mp-toutiao 抽象节点模拟 scoped slots
             handlerCtx = getContextVm(handlerCtx) || handlerCtx;
           }
           if (methodName === '$emit') {
             handlerCtx.$emit.apply(handlerCtx,
             processEventArgs(
-            _this2.$vm,
+            _this.$vm,
             event,
             eventArray[1],
             eventArray[2],
@@ -1310,7 +1207,7 @@ function handleEvent(event) {var _this2 = this;
             handler.once = true;
           }
           var params = processEventArgs(
-          _this2.$vm,
+          _this.$vm,
           event,
           eventArray[1],
           eventArray[2],
@@ -1454,16 +1351,28 @@ function initRelation(detail) {
   this.triggerEvent('__l', detail);
 }
 
+function selectAllComponents(mpInstance, selector, $refs) {
+  var components = mpInstance.selectAllComponents(selector);
+  components.forEach(function (component) {
+    var ref = component.dataset.ref;
+    $refs[ref] = component.$vm || component;
+    {
+      if (component.dataset.vueGeneric === 'scoped') {
+        component.selectAllComponents('.scoped-ref').forEach(function (scopedComponent) {
+          selectAllComponents(scopedComponent, selector, $refs);
+        });
+      }
+    }
+  });
+}
+
 function initRefs(vm) {
   var mpInstance = vm.$scope;
   Object.defineProperty(vm, '$refs', {
     get: function get() {
       var $refs = {};
-      var components = mpInstance.selectAllComponents('.vue-ref');
-      components.forEach(function (component) {
-        var ref = component.dataset.ref;
-        $refs[ref] = component.$vm || component;
-      });
+      selectAllComponents(mpInstance, '.vue-ref', $refs);
+      // TODO 暂不考虑 for 中的 scoped
       var forComponents = mpInstance.selectAllComponents('.vue-ref-in-for');
       forComponents.forEach(function (component) {
         var ref = component.dataset.ref;
@@ -1503,12 +1412,25 @@ function parseApp(vm) {
 
 }
 
+var eventChannels = {};
+
+var eventChannelStack = [];
+
+function getEventChannel(id) {
+  if (id) {
+    var eventChannel = eventChannels[id];
+    delete eventChannels[id];
+    return eventChannel;
+  }
+  return eventChannelStack.shift();
+}
+
 function createApp(vm) {
   _vue.default.prototype.getOpenerEventChannel = function () {
-    if (!this.__eventChannel__) {
-      this.__eventChannel__ = new EventChannel();
+    // 微信小程序使用自身getOpenerEventChannel
+    {
+      return this.$scope.getOpenerEventChannel();
     }
-    return this.__eventChannel__;
   };
   var callHook = _vue.default.prototype.__call_hook;
   _vue.default.prototype.__call_hook = function (hook, args) {
@@ -1936,9 +1858,9 @@ function normalizeComponent (
 /***/ }),
 
 /***/ 11:
-/*!**********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/index.js ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/index.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3100,9 +3022,9 @@ var index = {
 /***/ }),
 
 /***/ 126:
-/*!*************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/routeJump.js ***!
-  \*************************************************************/
+/*!************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/routeJump.js ***!
+  \************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3287,9 +3209,9 @@ jump;exports.default = _default;
 /***/ }),
 
 /***/ 13:
-/*!***********************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/mallConfig.js ***!
-  \***********************************************************************/
+/*!**********************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/mallConfig.js ***!
+  \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3407,9 +3329,9 @@ var actions = {
 /***/ }),
 
 /***/ 14:
-/*!*****************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/user.js ***!
-  \*****************************************************************/
+/*!****************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/user.js ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3522,9 +3444,9 @@ var actions = {
 /***/ }),
 
 /***/ 1462:
-/*!****************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/pages/order/order.js ***!
-  \****************************************************************/
+/*!***************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/pages/order/order.js ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3548,9 +3470,9 @@ var actions = {
 /***/ }),
 
 /***/ 15:
-/*!********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/user.js ***!
-  \********************************************************/
+/*!*******************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/user.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3698,9 +3620,9 @@ var userInfo = null;var _default =
 /***/ }),
 
 /***/ 16:
-/*!***********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/request.js ***!
-  \***********************************************************/
+/*!**********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/request.js ***!
+  \**********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10975,9 +10897,9 @@ internalMixin(Vue);
 /***/ }),
 
 /***/ 20:
-/*!**********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/formId.js ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/formId.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11014,9 +10936,9 @@ var push = function push(formId) {
 /***/ }),
 
 /***/ 2090:
-/*!**********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/tabbar.js ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/tabbar.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11043,9 +10965,9 @@ tabBar;exports.default = _default;
 /***/ }),
 
 /***/ 21:
-/*!*********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/utils.js ***!
-  \*********************************************************/
+/*!********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/utils.js ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11514,9 +11436,9 @@ var deepClone = function deepClone(obj) {
 /***/ }),
 
 /***/ 2187:
-/*!*************************************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/components/basic-component/app-rich/libs/html2json.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/components/basic-component/app-rich/libs/html2json.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11759,9 +11681,9 @@ html2json;exports.default = _default;
 /***/ }),
 
 /***/ 2188:
-/*!*************************************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/components/basic-component/app-rich/libs/wxDiscode.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/components/basic-component/app-rich/libs/wxDiscode.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11979,9 +11901,9 @@ function arrUrl(data, domain) {
 /***/ }),
 
 /***/ 2189:
-/*!**************************************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/components/basic-component/app-rich/libs/htmlparser.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/components/basic-component/app-rich/libs/htmlparser.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12116,9 +12038,9 @@ HTMLParser;exports.default = _default;
 /***/ }),
 
 /***/ 22:
-/*!*********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/cache.js ***!
-  \*********************************************************/
+/*!********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/cache.js ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12144,9 +12066,9 @@ var removeStorageSync = function removeStorageSync(key) {
 /***/ }),
 
 /***/ 227:
-/*!***********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/all-pay.js ***!
-  \***********************************************************/
+/*!**********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/all-pay.js ***!
+  \**********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12264,9 +12186,9 @@ allPay;exports.default = _default;
 /***/ }),
 
 /***/ 23:
-/*!**********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/apiUrl.js ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/apiUrl.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12982,9 +12904,9 @@ apiUrl;exports.default = _default;
 /***/ }),
 
 /***/ 24:
-/*!***************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/appOnLaunch.js ***!
-  \***************************************************************/
+/*!**************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/appOnLaunch.js ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13023,9 +12945,9 @@ appendApiUrl(_siteinfo.default);exports.default = _default;
 /***/ }),
 
 /***/ 25:
-/*!*******************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/siteinfo.js ***!
-  \*******************************************************/
+/*!******************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/siteinfo.js ***!
+  \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13040,9 +12962,9 @@ module.exports = siteinfo;
 /***/ }),
 
 /***/ 26:
-/*!*********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/event.js ***!
-  \*********************************************************/
+/*!********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/event.js ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13119,9 +13041,9 @@ module.exports = {
 /***/ }),
 
 /***/ 27:
-/*!*********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/const.js ***!
-  \*********************************************************/
+/*!********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/const.js ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13136,9 +13058,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /***/ }),
 
 /***/ 28:
-/*!********************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/globalConfiguration.js ***!
-  \********************************************************************************/
+/*!*******************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/globalConfiguration.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13288,9 +13210,9 @@ var actions = {
 /***/ }),
 
 /***/ 284:
-/*!**************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/pages/address/address-parse.js ***!
-  \**************************************************************************/
+/*!*************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/pages/address/address-parse.js ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13699,9 +13621,9 @@ AddressParse;exports.default = _default;
 /***/ }),
 
 /***/ 29:
-/*!******************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/index.js ***!
-  \******************************************************************/
+/*!*****************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/index.js ***!
+  \*****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13772,9 +13694,9 @@ module.exports = g;
 /***/ }),
 
 /***/ 30:
-/*!************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/orderSubmit.js ***!
-  \************************************************************************/
+/*!***********************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/orderSubmit.js ***!
+  \***********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13811,9 +13733,9 @@ var actions = {};var _default =
 /***/ }),
 
 /***/ 31:
-/*!***********************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/pagination.js ***!
-  \***********************************************************************/
+/*!**********************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/pagination.js ***!
+  \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13829,9 +13751,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /***/ }),
 
 /***/ 32:
-/*!********************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/loading.js ***!
-  \********************************************************************/
+/*!*******************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/loading.js ***!
+  \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13893,9 +13815,9 @@ var actions = {
 /***/ }),
 
 /***/ 33:
-/*!********************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/payment.js ***!
-  \********************************************************************/
+/*!*******************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/payment.js ***!
+  \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13977,9 +13899,9 @@ var actions = {
 /***/ }),
 
 /***/ 34:
-/*!*********************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/scanCode.js ***!
-  \*********************************************************************/
+/*!********************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/scanCode.js ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14006,9 +13928,9 @@ var actions = {};var _default =
 /***/ }),
 
 /***/ 35:
-/*!*****************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/page.js ***!
-  \*****************************************************************/
+/*!****************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/page.js ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14078,9 +14000,9 @@ var actions = {
 /***/ }),
 
 /***/ 3542:
-/*!****************************************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/components/page-component/app-check-in/check-in-award.js ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/components/page-component/app-check-in/check-in-award.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14143,9 +14065,9 @@ var _appOnLaunch = _interopRequireDefault(__webpack_require__(/*! ../../../core/
 /***/ }),
 
 /***/ 36:
-/*!***********************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/userCenter.js ***!
-  \***********************************************************************/
+/*!**********************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/userCenter.js ***!
+  \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14196,9 +14118,9 @@ var actions = {
 /***/ }),
 
 /***/ 37:
-/*!********************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/iphoneX.js ***!
-  \********************************************************************/
+/*!*******************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/iphoneX.js ***!
+  \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14281,9 +14203,9 @@ var actions = {
 /***/ }),
 
 /***/ 38:
-/*!*****************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/gift.js ***!
-  \*****************************************************************/
+/*!****************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/gift.js ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14374,9 +14296,9 @@ var actions = {
 /***/ }),
 
 /***/ 39:
-/*!*****************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/store/modules/cart.js ***!
-  \*****************************************************************/
+/*!****************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/store/modules/cart.js ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14426,9 +14348,9 @@ var actions = {
 /***/ }),
 
 /***/ 4:
-/*!******************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/pages.json ***!
-  \******************************************************/
+/*!*****************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/pages.json ***!
+  \*****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14437,9 +14359,9 @@ var actions = {
 /***/ }),
 
 /***/ 40:
-/*!******************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/version.js ***!
-  \******************************************************/
+/*!*****************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/version.js ***!
+  \*****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14448,9 +14370,9 @@ module.exports = '4.3.57';
 /***/ }),
 
 /***/ 41:
-/*!****************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/uni.scss ***!
-  \****************************************************/
+/*!***************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/uni.scss ***!
+  \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14461,9 +14383,9 @@ module.exports = '4.3.57';
 /***/ }),
 
 /***/ 42:
-/*!**********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/config.js ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/config.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14474,9 +14396,9 @@ var platform = 'wxapp';exports.platform = platform;
 /***/ }),
 
 /***/ 43:
-/*!**************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/mallConfig.js ***!
-  \**************************************************************/
+/*!*************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/mallConfig.js ***!
+  \*************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14556,9 +14478,9 @@ var getConfigFormServer = function getConfigFormServer(resolve, reject) {
 /***/ }),
 
 /***/ 44:
-/*!***************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/showLoading.js ***!
-  \***************************************************************/
+/*!**************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/showLoading.js ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14579,9 +14501,9 @@ showLoading;exports.default = _default;
 /***/ }),
 
 /***/ 45:
-/*!***************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/hideLoading.js ***!
-  \***************************************************************/
+/*!**************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/hideLoading.js ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14596,9 +14518,9 @@ hideLoading;exports.default = _default;
 /***/ }),
 
 /***/ 46:
-/*!************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/platDiff.js ***!
-  \************************************************************/
+/*!***********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/platDiff.js ***!
+  \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14707,9 +14629,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /***/ }),
 
 /***/ 47:
-/*!*******************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/lazyLoadingData.js ***!
-  \*******************************************************************/
+/*!******************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/lazyLoadingData.js ***!
+  \******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14739,9 +14661,9 @@ lazyLoadingData;exports.default = _default;
 /***/ }),
 
 /***/ 48:
-/*!********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/jump.js ***!
-  \********************************************************/
+/*!*******************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/jump.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14828,9 +14750,9 @@ jump;exports.default = _default;
 /***/ }),
 
 /***/ 49:
-/*!***********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/popupAd.js ***!
-  \***********************************************************/
+/*!**********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/popupAd.js ***!
+  \**********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14849,9 +14771,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /***/ }),
 
 /***/ 50:
-/*!*******************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/shareAppMessage.js ***!
-  \*******************************************************************/
+/*!******************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/shareAppMessage.js ***!
+  \******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14911,9 +14833,9 @@ shareAppMessage;exports.default = _default;
 /***/ }),
 
 /***/ 51:
-/*!*****************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/shareTimeline.js ***!
-  \*****************************************************************/
+/*!****************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/shareTimeline.js ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14941,9 +14863,9 @@ shareTimeline;exports.default = _default;
 /***/ }),
 
 /***/ 513:
-/*!*******************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/components/u-charts/u-charts.min.js ***!
-  \*******************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/components/u-charts/u-charts.min.js ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14954,9 +14876,9 @@ shareTimeline;exports.default = _default;
 /***/ }),
 
 /***/ 52:
-/*!*************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/subscribe.js ***!
-  \*************************************************************/
+/*!************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/subscribe.js ***!
+  \************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14996,9 +14918,9 @@ subscribe;exports.default = _default;
 /***/ }),
 
 /***/ 53:
-/*!********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/test.js ***!
-  \********************************************************/
+/*!*******************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/test.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15232,9 +15154,9 @@ function object(value) {
 /***/ }),
 
 /***/ 866:
-/*!*******************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/pages/app_admin/image/icon_sent.png ***!
-  \*******************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/pages/app_admin/image/icon_sent.png ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15243,9 +15165,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABQCAYAAADv
 /***/ }),
 
 /***/ 867:
-/*!*******************************************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/pages/app_admin/image/icon_hand.png ***!
-  \*******************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/pages/app_admin/image/icon_hand.png ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15254,9 +15176,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABYCAYAAAAK
 /***/ }),
 
 /***/ 942:
-/*!**********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/upload.js ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/upload.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15295,9 +15217,9 @@ uploadFile;exports.default = _default;
 /***/ }),
 
 /***/ 943:
-/*!**********************************************************!*\
-  !*** C:/Users/26439/Desktop/shop4.3.57_1/core/header.js ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** /Users/wanglong/Desktop/shop4.3.57/core/header.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

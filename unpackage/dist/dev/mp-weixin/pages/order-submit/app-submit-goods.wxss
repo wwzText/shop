@@ -52,8 +52,7 @@ page.data-v-47435608 {
   margin: 12rpx 0 16rpx;
   height: 56rpx;
   line-height: 54rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
 }
 .app-submit-goods .composition .composition-item .composition-open .composition-btn image.data-v-47435608 {
   width: 22rpx;

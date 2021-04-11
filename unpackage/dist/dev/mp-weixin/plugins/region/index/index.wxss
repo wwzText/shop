@@ -165,8 +165,7 @@ page.data-v-58a1fd17 {
   line-height: 80rpx;
   width: 702rpx;
   margin: 0 auto;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   background-color: #ff4544;
   color: #fff;
   font-size: 32rpx;
@@ -229,8 +228,7 @@ page.data-v-58a1fd17 {
   padding: 0 32rpx;
   font-size: 32rpx;
   color: #353535;
-  -webkit-border-radius: 32rpx;
-          border-radius: 32rpx;
+  border-radius: 32rpx;
   border: 2rpx solid #bbbbbb;
 }
 .modal .dialog-list .dialog-item.active.data-v-58a1fd17 {
@@ -242,8 +240,7 @@ page.data-v-58a1fd17 {
   z-index: 99;
   background-color: #fff;
   width: 80%;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
 }
 .modal .protocol .protocol-name.data-v-58a1fd17 {
   text-align: center;
@@ -264,10 +261,8 @@ page.data-v-58a1fd17 {
   background-color: #ff4544;
   color: #fff;
   font-size: 30rpx;
-  -webkit-border-bottom-right-radius: 20rpx;
-          border-bottom-right-radius: 20rpx;
-  -webkit-border-bottom-left-radius: 20rpx;
-          border-bottom-left-radius: 20rpx;
+  border-bottom-right-radius: 20rpx;
+  border-bottom-left-radius: 20rpx;
 }
 .modal .protocol image.data-v-58a1fd17 {
   height: 200rpx;
@@ -275,10 +270,8 @@ page.data-v-58a1fd17 {
 }
 .modal .select-dialog.data-v-58a1fd17 {
   position: fixed;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
   width: 100%;
   bottom: 0;
   left: 0;
@@ -288,10 +281,8 @@ page.data-v-58a1fd17 {
   padding-bottom: 50rpx;
 }
 .modal .select-dialog .select-title.data-v-58a1fd17 {
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
   position: relative;
   width: 100%;
   height: 100rpx;

@@ -95,8 +95,7 @@ page.data-v-6268cb58 {
 }
 .bd-store.data-v-6268cb58 {
   width: 702rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   margin: 24rpx 24rpx 0 24rpx;
   overflow: hidden;
 }

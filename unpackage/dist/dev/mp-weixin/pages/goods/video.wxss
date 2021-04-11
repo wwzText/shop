@@ -61,7 +61,6 @@ page {
   border-color: #dfa245;
 }
 .streamer-gold-gift-figure-rule {
-  background: -webkit-gradient(linear, left top, left bottom, from(#dfa245), to(#f0c482));
   background: -webkit-linear-gradient(top, #dfa245, #f0c482);
   background: linear-gradient(to bottom, #dfa245, #f0c482);
 }
@@ -69,8 +68,7 @@ page {
   border-bottom-color: #dfa245;
 }
 .streamer-gold-gift-shadow {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(223, 162, 69, 0.2);
 }
 /* 浪漫粉 */
 .romantic-powder-gift-color {
@@ -92,7 +90,6 @@ page {
   border-color: #ff547b;
 }
 .romantic-powder-gift-figure-rule {
-  background: -webkit-gradient(linear, left top, left bottom, from(#ff547b), to(#ff96ae));
   background: -webkit-linear-gradient(top, #ff547b, #ff96ae);
   background: linear-gradient(to bottom, #ff547b, #ff96ae);
 }
@@ -100,8 +97,7 @@ page {
   border-bottom-color: #ff547b;
 }
 .romantic-powder-gift-shadow {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 84, 23, 0.2);
 }
 /* 品味红 */
 .taste-red-gift-color {
@@ -123,7 +119,6 @@ page {
   border-color: #ff4544;
 }
 .taste-red-gift-figure-rule {
-  background: -webkit-gradient(linear, left top, left bottom, from(#ff4544), to(#ff8888));
   background: -webkit-linear-gradient(top, #ff4544, #ff8888);
   background: linear-gradient(to bottom, #ff4544, #ff8888);
 }
@@ -131,8 +126,7 @@ page {
   border-bottom-color: #ff4544;
 }
 .taste-red-gift-shadow {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(255, 69, 68, 0.2);
 }
 /* 优雅紫 */
 .elegant-purple-gift-color {
@@ -154,7 +148,6 @@ page {
   border-color: #7783ea;
 }
 .elegant-purple-gift-figure-rule {
-  background: -webkit-gradient(linear, left top, left bottom, from(#7783ea), to(#a1aaf6));
   background: -webkit-linear-gradient(top, #7783ea, #a1aaf6);
   background: linear-gradient(to bottom, #7783ea, #a1aaf6);
 }
@@ -162,8 +155,7 @@ page {
   border-bottom-color: #7783ea;
 }
 .elegant-purple-gift-shadow {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(119, 131, 234, 0.2);
 }
 /* 清醒绿 */
 .fresh-green-gift-color {
@@ -185,7 +177,6 @@ page {
   border-color: #63be72;
 }
 .fresh-green-gift-figure-rule {
-  background: -webkit-gradient(linear, left top, left bottom, from(#63be72), to(#89db96));
   background: -webkit-linear-gradient(top, #63be72, #89db96);
   background: linear-gradient(to bottom, #63be72, #89db96);
 }
@@ -193,8 +184,7 @@ page {
   border-bottom-color: #63be72;
 }
 .fresh-green-gift-shadow {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(99, 190, 114, 0.2);
 }
 /* 商务蓝 */
 .business-blue-gift-color {
@@ -216,7 +206,6 @@ page {
   border-color: #4a90e2;
 }
 .business-blue-gift-figure-rule {
-  background: -webkit-gradient(linear, left top, left bottom, from(#4a90e2), to(#82b4ef));
   background: -webkit-linear-gradient(top, #4a90e2, #82b4ef);
   background: linear-gradient(to bottom, #4a90e2, #82b4ef);
 }
@@ -224,8 +213,7 @@ page {
   border-bottom-color: #4a90e2;
 }
 .business-blue-gift-shadow {
-  -webkit-box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
-          box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
+  box-shadow: 0 10rpx 30rpx 2.5rpx rgba(74, 144, 226, 0.2);
 }
 .empty {
   width: 750rpx;
@@ -260,8 +248,7 @@ page {
 .up-down-goods .item {
   width: 266rpx;
   height: 60rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: rgba(51, 51, 51, 0.4);
   color: #ffffff;
   font-size: 24rpx;
@@ -274,8 +261,7 @@ page {
 .goods-list {
   width: 124rpx;
   height: 124rpx;
-  -webkit-border-radius: 62rpx;
-          border-radius: 62rpx;
+  border-radius: 62rpx;
   background-color: rgba(51, 51, 51, 0.4);
   margin-left: 20rpx;
   position: relative;
@@ -302,8 +288,7 @@ page {
 .but .icon {
   width: 70rpx;
   height: 70rpx;
-  -webkit-border-radius: 35rpx;
-          border-radius: 35rpx;
+  border-radius: 35rpx;
   background-color: rgba(51, 51, 51, 0.4);
   position: relative;
 }
@@ -324,8 +309,7 @@ page {
 .share {
   background: transparent;
   border: none;
-  -webkit-border-radius: 0;
-          border-radius: 0;
+  border-radius: 0;
   padding: 0;
   position: absolute;
   top: 0;
@@ -345,8 +329,7 @@ page {
 .scroll-view {
   height: calc(100% - 23rpx);
   background-color: #ffffff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   padding: 0 25rpx;
 }
 .scroll-view .item-good {
@@ -364,7 +347,6 @@ page {
   font-size: 18rpx;
   color: #ffffff;
   text-align: center;
-  background: -webkit-gradient(linear, right top, left top, from(#ffcb00), to(#ff9600));
   background: -webkit-linear-gradient(right, #ffcb00, #ff9600);
   background: linear-gradient(to left, #ffcb00, #ff9600);
 }
@@ -391,8 +373,7 @@ page {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   margin: 0 4rpx 0 0;
-  -webkit-border-radius: 25rpx;
-          border-radius: 25rpx;
+  border-radius: 25rpx;
   background-color: transparent;
 }
 .scroll-view .pri-but .pri {
@@ -431,8 +412,7 @@ page {
   width: 70rpx;
   height: 70rpx;
   z-index: 1406;
-  -webkit-border-radius: 35rpx;
-          border-radius: 35rpx;
+  border-radius: 35rpx;
   background-color: rgba(51, 51, 51, 0.4);
 }
 .close .image {

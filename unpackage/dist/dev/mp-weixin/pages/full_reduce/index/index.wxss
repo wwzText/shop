@@ -57,8 +57,7 @@ page.data-v-61242973 {
 .search .input.data-v-61242973 {
   width: 620rpx;
   height: 56rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   background-color: #ffffff;
   border: 1rpx solid #eaeaef;
 }
@@ -94,8 +93,7 @@ page.data-v-61242973 {
   margin-right: 32rpx;
   height: 58rpx;
   line-height: 58rpx;
-  -webkit-border-radius: 29rpx;
-          border-radius: 29rpx;
+  border-radius: 29rpx;
   font-size: 26rpx;
   padding: 0 28rpx;
 }
@@ -140,8 +138,7 @@ page.data-v-61242973 {
 .rule .rule-text.data-v-61242973 {
   width: 120rpx;
   height: 40rpx;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
   background-color: rgba(0, 0, 0, 0.4);
   color: #ffffff;
   font-size: 22rpx;
@@ -173,8 +170,7 @@ page.data-v-61242973 {
 .goods-item .goods-pic.data-v-61242973 {
   width: 200rpx;
   height: 200rpx;
-  -webkit-border-radius: 13rpx;
-          border-radius: 13rpx;
+  border-radius: 13rpx;
   margin-right: 24rpx;
 }
 .goods-item .goods-cont.data-v-61242973 {

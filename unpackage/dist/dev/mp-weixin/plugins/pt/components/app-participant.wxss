@@ -59,8 +59,7 @@ page.data-v-61ffc7ac {
   background-color: white;
   padding: 20rpx;
   margin: 24rpx 24rpx 0 24rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
 }
 .app-participant .app-left.data-v-61ffc7ac {
   font-size: 24rpx;
@@ -80,15 +79,13 @@ page.data-v-61ffc7ac {
 }
 .app-participant .app-content.data-v-61ffc7ac {
   padding: 0 24rpx 20rpx 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .app-participant .app-peo-text.data-v-61ffc7ac {
   font-size: 24rpx;
   color: #666666;
   padding: 24rpx 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .app-participant .app-peo-text .app-icon.data-v-61ffc7ac {
   width: 12rpx;
@@ -103,17 +100,14 @@ page.data-v-61ffc7ac {
   height: 100rpx;
   background-color: #f6f6f6;
   width: 614rpx;
-  -webkit-border-bottom-left-radius: 8rpx;
-          border-bottom-left-radius: 8rpx;
-  -webkit-border-top-left-radius: 8rpx;
-          border-top-left-radius: 8rpx;
+  border-bottom-left-radius: 8rpx;
+  border-top-left-radius: 8rpx;
   margin-bottom: 10rpx;
 }
 .app-participant .app-item .app-icon.data-v-61ffc7ac {
   height: 80rpx;
   width: 80rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   margin-left: 20rpx;
 }
 .app-participant .app-item .app-name.data-v-61ffc7ac {

@@ -1,8 +1,7 @@
 
 .bd-xbc.data-v-7ab61cec {
     width: 702rpx;
-    -webkit-border-radius: 15rpx;
-            border-radius: 15rpx;
+    border-radius: 15rpx;
     padding: 20rpx;
     background-color: #ffffff;
     margin: 24rpx 24rpx 0 24rpx;
@@ -41,8 +40,7 @@
     color: #999999;
     height: 51rpx;
     line-height: 51rpx;
-    -webkit-border-radius: 8rpx;
-            border-radius: 8rpx;
+    border-radius: 8rpx;
     font-size: 24rpx;
     padding: 0 20rpx;
 }
@@ -67,8 +65,7 @@
     height: 105rpx;
     background-color: #ffffff;
     position: relative;
-    -webkit-border-radius: 15rpx;
-            border-radius: 15rpx;
+    border-radius: 15rpx;
 }
 .f-image.data-v-7ab61cec {
     width: 78rpx;

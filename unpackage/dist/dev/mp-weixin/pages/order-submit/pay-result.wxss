@@ -39,14 +39,12 @@ page.data-v-1ed179de {
   height: 72rpx;
   line-height: 70rpx;
   border: 2rpx solid;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
   padding: 0 32rpx;
   font-size: 28rpx;
 }
 .return-btn.data-v-1ed179de:active {
-  -webkit-box-shadow: inset 0 0 100rpx rgba(0, 0, 0, 0.15);
-          box-shadow: inset 0 0 100rpx rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 100rpx rgba(0, 0, 0, 0.15);
 }
 .return-btn.small.data-v-1ed179de {
   height: 60rpx;
@@ -87,8 +85,7 @@ page.data-v-1ed179de {
 .pay-result .gift.data-v-1ed179de {
   position: relative;
   padding: 24rpx;
-  -webkit-border-radius: 20rpx;
-          border-radius: 20rpx;
+  border-radius: 20rpx;
   background: #ffbe6a;
 }
 .pay-result .gift .background.data-v-1ed179de {
@@ -111,8 +108,7 @@ page.data-v-1ed179de {
 .pay-result .gift .item.data-v-1ed179de {
   background: #fff;
   margin-bottom: 24rpx;
-  -webkit-border-radius: 18rpx;
-          border-radius: 18rpx;
+  border-radius: 18rpx;
   padding: 18rpx;
   min-height: 160rpx;
 }
@@ -146,8 +142,7 @@ page.data-v-1ed179de {
 .pay-result .gift .card-img.data-v-1ed179de {
   width: 80rpx;
   height: 80rpx;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
 }
 .pay-result .gift .coupon-name.data-v-1ed179de,
 .pay-result .gift .card-name.data-v-1ed179de {

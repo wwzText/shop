@@ -51,8 +51,7 @@ page.data-v-afb61bc2 {
   width: 130rpx;
   height: 130rpx;
   margin: 0 auto 30rpx auto;
-  -webkit-border-radius: 130rpx;
-          border-radius: 130rpx;
+  border-radius: 130rpx;
   overflow: hidden;
 }
 .content .avatar image.data-v-afb61bc2 {
@@ -137,7 +136,6 @@ page.data-v-afb61bc2 {
   margin: 62rpx auto 0 auto;
   width: 520rpx;
   height: 90rpx;
-  -webkit-border-radius: 90rpx;
-          border-radius: 90rpx;
+  border-radius: 90rpx;
 }
 

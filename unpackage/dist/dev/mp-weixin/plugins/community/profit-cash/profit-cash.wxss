@@ -39,8 +39,7 @@ page.data-v-2a0beb94 {
   width: 702rpx;
   height: 256rpx;
   margin: 24rpx 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
 }
 .price-show .title.data-v-2a0beb94 {
@@ -58,15 +57,13 @@ page.data-v-2a0beb94 {
   padding: 0 24rpx;
   height: 46rpx;
   line-height: 44rpx;
-  -webkit-border-radius: 23rpx;
-          border-radius: 23rpx;
+  border-radius: 23rpx;
   border: 2rpx solid;
   margin-top: 30rpx;
   display: inline-block;
 }
 .menu.data-v-2a0beb94 {
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
   width: 702rpx;
   margin: 0 24rpx;

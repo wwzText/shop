@@ -38,8 +38,7 @@ page.data-v-2d09d70c {
 .save-picture.data-v-2d09d70c {
   width: 500rpx;
   height: 80rpx;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   font-size: 32rpx;
   line-height: 80rpx;
   text-align: center;
@@ -83,8 +82,7 @@ page.data-v-2d09d70c {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: white;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   margin-top: 60rpx;
   margin-bottom: 24rpx;
 }
@@ -114,16 +112,14 @@ page.data-v-2d09d70c {
   height: 100rpx;
 }
 .app-share-qr-code-poster .app-bottom .app-button.data-v-2d09d70c button {
-  -webkit-border-radius: 0;
-          border-radius: 0;
+  border-radius: 0;
   border: none;
 }
 .app-share-qr-code-poster .app-center.data-v-2d09d70c {
   width: calc(100% - 80rpx);
   padding-top: 100rpx;
   padding-bottom: 77rpx;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   background-color: white;
   position: absolute;
   top: 50%;
@@ -145,8 +141,7 @@ page.data-v-2d09d70c {
   width: 440rpx;
   height: 783rpx;
   position: relative;
-  -webkit-box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
-          box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
+  box-shadow: 2rpx 2rpx 10rpx #d9d9d9;
 }
 .app-share-qr-code-poster .app-center .app-image-iframe .text.data-v-2d09d70c {
   text-align: center;

@@ -42,15 +42,13 @@ page.data-v-90bd9bc6 {
   height: 56rpx;
   line-height: 56rpx;
   padding: 0 32rpx;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
   background: #fff;
   text-align: center;
   border: 1rpx solid;
 }
 .app-coupon-pick .btn.data-v-90bd9bc6:active {
-  -webkit-box-shadow: 0 0 100rpx rgba(0, 0, 0, 0.05) inset;
-          box-shadow: 0 0 100rpx rgba(0, 0, 0, 0.05) inset;
+  box-shadow: 0 0 100rpx rgba(0, 0, 0, 0.05) inset;
 }
 .app-coupon-pick .btn.use.data-v-90bd9bc6 {
   color: #c5a977;
@@ -92,17 +90,14 @@ page.data-v-90bd9bc6 {
   height: 913rpx;
 }
 .app-coupon-pick .coupon-list.data-v-90bd9bc6 {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 32rpx;
 }
 .app-coupon-pick .coupon-list .item.data-v-90bd9bc6 {
   margin: 32rpx 0;
   background: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
-  -webkit-box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
-          box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
+  border-radius: 16rpx;
+  box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
   overflow: hidden;
 }
 .app-coupon-pick .coupon-list .item .top.data-v-90bd9bc6 {

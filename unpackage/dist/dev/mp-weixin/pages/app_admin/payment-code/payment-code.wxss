@@ -50,8 +50,7 @@ page.data-v-558f37e8 {
   background: #fff;
   margin: 0 auto;
   width: 686rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .code-box.set.data-v-558f37e8 {
   padding: 48rpx;
@@ -66,8 +65,7 @@ page.data-v-558f37e8 {
   background: #ff4544;
   font-size: 32rpx;
   margin-top: 48rpx;
-  -webkit-border-radius: 44rpx;
-          border-radius: 44rpx;
+  border-radius: 44rpx;
 }
 .code-box image.data-v-558f37e8 {
   width: 360rpx;

@@ -40,8 +40,7 @@ page.data-v-3d2f20ce {
   background: -webkit-linear-gradient(45deg, #ff8c40, #ff6d40);
   background: linear-gradient(45deg, #ff8c40, #ff6d40);
   height: 210rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   margin: 24rpx 24rpx 0 24rpx;
 }
 .detail-discount .top.data-v-3d2f20ce {
@@ -61,8 +60,7 @@ page.data-v-3d2f20ce {
   line-height: 54rpx;
   font-size: 26rpx;
   color: #ffffff;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   text-align: center;
   border: 1rpx solid #ffffff;
 }
@@ -78,14 +76,12 @@ page.data-v-3d2f20ce {
   height: 10rpx;
   width: 702rpx;
   background-color: #b24c2d;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   position: relative;
 }
 .content .content-nei.data-v-3d2f20ce {
   height: 10rpx;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   background-color: #ffffff;
 }
 .content .content-text.data-v-3d2f20ce {
@@ -121,8 +117,7 @@ page.data-v-3d2f20ce {
 }
 .content-d-d.data-v-3d2f20ce {
   height: 10rpx;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
 }
 .content-d-d-d.data-v-3d2f20ce {
   height: 10rpx;
@@ -141,8 +136,7 @@ page.data-v-3d2f20ce {
   width: 125rpx;
 }
 .yuan-default.data-v-3d2f20ce {
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   position: absolute;
   z-index: 1400;
   top: 50%;
@@ -155,15 +149,11 @@ page.data-v-3d2f20ce {
   border: 5rpx solid rgba(204, 94, 51, 0.8);
 }
 .border-radius-left.data-v-3d2f20ce {
-  -webkit-border-top-left-radius: 5rpx;
-          border-top-left-radius: 5rpx;
-  -webkit-border-bottom-left-radius: 5rpx;
-          border-bottom-left-radius: 5rpx;
+  border-top-left-radius: 5rpx;
+  border-bottom-left-radius: 5rpx;
 }
 .border-radius-right.data-v-3d2f20ce {
-  -webkit-border-top-right-radius: 5rpx;
-          border-top-right-radius: 5rpx;
-  -webkit-border-bottom-right-radius: 5rpx;
-          border-bottom-right-radius: 5rpx;
+  border-top-right-radius: 5rpx;
+  border-bottom-right-radius: 5rpx;
 }
 

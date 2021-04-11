@@ -76,8 +76,7 @@ page.data-v-5567d999 {
 .user-info .avatar.data-v-5567d999 {
   height: 100rpx;
   width: 100rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   border: 2rpx solid #fff;
   position: absolute;
   left: 45rpx;
@@ -86,16 +85,14 @@ page.data-v-5567d999 {
   position: relative;
   height: 36rpx;
   line-height: 36rpx;
-  -webkit-border-radius: 18rpx;
-          border-radius: 18rpx;
+  border-radius: 18rpx;
   padding: 0 16rpx 0 54rpx;
   background-color: #454955;
   display: inline-block;
   margin-bottom: 15rpx;
 }
 .member-detail .level-icon.data-v-5567d999 {
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   position: absolute;
   margin-bottom: -3rpx;
 }
@@ -148,8 +145,7 @@ page.data-v-5567d999 {
   height: 320rpx;
   width: 660rpx;
   margin: 0 auto;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   z-index: 3;
 }
 .member-info.data-v-5567d999 {
@@ -168,8 +164,7 @@ page.data-v-5567d999 {
   top: 210rpx;
   left: 45rpx;
   right: 45rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   z-index: 999;
   padding: 36rpx;
   color: #fff;
@@ -191,8 +186,7 @@ page.data-v-5567d999 {
   height: 56rpx;
   line-height: 52rpx;
   width: 140rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   font-size: 28rpx;
   color: #fff;
   border: 1rpx solid #fff;
@@ -205,16 +199,14 @@ page.data-v-5567d999 {
 }
 .progress-line.data-v-5567d999 {
   height: 10rpx;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   margin-bottom: 5rpx;
   background-color: #949598;
   position: relative;
 }
 .progress-active.data-v-5567d999 {
   height: 10rpx;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   background-color: #FFB82F;
   position: absolute;
   left: 0;
@@ -297,10 +289,8 @@ page.data-v-5567d999 {
   text-align: center;
   font-size: 24rpx;
   color: #999;
-  -webkit-box-shadow: 0rpx 0rpx 20rpx rgba(0, 0, 0, 0.1);
-          box-shadow: 0rpx 0rpx 20rpx rgba(0, 0, 0, 0.1);
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  box-shadow: 0rpx 0rpx 20rpx rgba(0, 0, 0, 0.1);
+  border-radius: 16rpx;
 }
 .memeber-other.data-v-5567d999 {
   padding-top: 22rpx;
@@ -308,19 +298,15 @@ page.data-v-5567d999 {
   width: 100%;
   border: 1rpx solid #e2e2e2;
   border-top: 0;
-  -webkit-border-bottom-left-radius: 16rpx;
-          border-bottom-left-radius: 16rpx;
-  -webkit-border-bottom-right-radius: 16rpx;
-          border-bottom-right-radius: 16rpx;
+  border-bottom-left-radius: 16rpx;
+  border-bottom-right-radius: 16rpx;
 }
 .memeber-img.data-v-5567d999 {
   width: 100%;
   height: 175rpx;
   display: block;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
 }
 .member-name.data-v-5567d999 {
   color: #353535;
@@ -350,8 +336,7 @@ page.data-v-5567d999 {
   margin: 24rpx auto 0;
   font-size: 28rpx;
   color: #b4914f;
-  -webkit-border-radius: 31rpx;
-          border-radius: 31rpx;
+  border-radius: 31rpx;
   background-color: #fff;
   border: 1rpx solid #b4914f;
 }
@@ -433,10 +418,8 @@ page.data-v-5567d999 {
   color: #999;
   font-size: 24rpx;
   text-align: center;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
-  -webkit-box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
-          box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
+  border-radius: 8rpx;
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
 }
 .goods-img.data-v-5567d999 {
   height: 210rpx;
@@ -462,22 +445,18 @@ page.data-v-5567d999 {
   margin: 32rpx auto 40rpx;
   width: 700rpx;
   height: 206rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   border: 1rpx solid #e2e2e2;
   position: relative;
-  -webkit-box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
-          box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
 }
 .level-img.data-v-5567d999 {
   height: 100%;
   width: 400rpx;
   float: left;
   display: block;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-bottom-left-radius: 16rpx;
-          border-bottom-left-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-bottom-left-radius: 16rpx;
 }
 .level-name.data-v-5567d999 {
   font-size: 32rpx;
@@ -495,10 +474,8 @@ page.data-v-5567d999 {
   font-size: 24rpx;
   text-align: center;
   padding: 20rpx 0;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
-  -webkit-border-bottom-right-radius: 16rpx;
-          border-bottom-right-radius: 16rpx;
+  border-top-right-radius: 16rpx;
+  border-bottom-right-radius: 16rpx;
 }
 .level-right .discount.data-v-5567d999 {
   margin-left: 14rpx;
@@ -509,8 +486,7 @@ page.data-v-5567d999 {
   height: 48rpx;
   line-height: 46rpx;
   padding: 0 30rpx;
-  -webkit-border-radius: 24rpx;
-          border-radius: 24rpx;
+  border-radius: 24rpx;
   border: 1rpx solid #b4914f;
   font-size: 24rpx;
   display: inline-block;
@@ -531,8 +507,7 @@ page.data-v-5567d999 {
   width: 700rpx;
   margin: 0 auto;
   border: 1rpx solid #b4914f;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   text-align: center;
   color: #353535;
   font-size: 26rpx;
@@ -543,8 +518,7 @@ page.data-v-5567d999 {
   margin: 0 26rpx;
   width: auto;
   min-height: 200rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .border .rights-item.data-v-5567d999 {
   margin-top: 34rpx;

@@ -65,8 +65,7 @@ page.data-v-f56f8dee {
 .user .user-info image.data-v-f56f8dee {
   height: 56rpx;
   width: 56rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   display: block;
   margin-right: 20rpx;
 }
@@ -105,8 +104,7 @@ page.data-v-f56f8dee {
 }
 .all-level .level-item.data-v-f56f8dee {
   background-color: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   height: 184rpx;
   width: 702rpx;
   position: relative;
@@ -140,14 +138,10 @@ page.data-v-f56f8dee {
   width: 110rpx;
   line-height: 48rpx;
   padding: 0 16rpx;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 0;
-          border-top-right-radius: 0;
-  -webkit-border-bottom-left-radius: 0;
-          border-bottom-left-radius: 0;
-  -webkit-border-bottom-right-radius: 16rpx;
-          border-bottom-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 16rpx;
   color: #fff;
   font-size: 26rpx;
   background-color: #25bb3e;
@@ -156,8 +150,7 @@ page.data-v-f56f8dee {
   margin-top: 74rpx;
   width: 400rpx;
   height: 16rpx;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   background-color: #e3e3e3;
   position: relative;
 }
@@ -169,22 +162,18 @@ page.data-v-f56f8dee {
   left: 0;
 }
 .all-level .level-item .level-left .level-long .level-rate.big.data-v-f56f8dee {
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
 }
 .all-level .level-item .level-left .level-long .level-rate.small.data-v-f56f8dee {
-  -webkit-border-top-left-radius: 8rpx;
-          border-top-left-radius: 8rpx;
-  -webkit-border-bottom-left-radius: 8rpx;
-          border-bottom-left-radius: 8rpx;
+  border-top-left-radius: 8rpx;
+  border-bottom-left-radius: 8rpx;
 }
 .all-level .level-item .level-left .level-long .about-level.data-v-f56f8dee {
   padding: 2rpx 8rpx;
   background-color: #ff4544;
   color: #fff;
   font-size: 22rpx;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   position: absolute;
   top: -50rpx;
   white-space: nowrap;
@@ -225,8 +214,7 @@ page.data-v-f56f8dee {
   width: 702rpx;
   margin: 0 auto;
   padding: 80rpx 0 75rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   font-size: 28rpx;
   color: #999999;
   background-color: #fff;
@@ -256,8 +244,7 @@ page.data-v-f56f8dee {
   height: 80rpx;
   line-height: 80rpx;
   margin: 24rpx;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   background-color: #ff4544;
   text-align: center;
   color: #fff;
@@ -281,10 +268,8 @@ page.data-v-f56f8dee {
   font-size: 32rpx;
   color: #353535;
   background-color: #fff;
-  -webkit-border-bottom-left-radius: 16rpx;
-          border-bottom-left-radius: 16rpx;
-  -webkit-border-bottom-right-radius: 16rpx;
-          border-bottom-right-radius: 16rpx;
+  border-bottom-left-radius: 16rpx;
+  border-bottom-right-radius: 16rpx;
 }
 .dialog .dialog-content image.data-v-f56f8dee {
   width: 504rpx;
@@ -298,8 +283,7 @@ page.data-v-f56f8dee {
   height: 80rpx;
   line-height: 80rpx;
   text-align: center;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   font-size: 32rpx;
   color: #fff;
   background-color: #ff4544;

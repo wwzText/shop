@@ -57,8 +57,7 @@ page.data-v-71998da9 {
 }
 .fxhb-right view.data-v-71998da9 {
   background: rgba(0, 0, 0, 0.5);
-  -webkit-border-radius: 28rpx 0 0 28rpx;
-          border-radius: 28rpx 0 0 28rpx;
+  border-radius: 28rpx 0 0 28rpx;
   line-height: 56rpx;
   text-align: center;
   width: 136rpx;
@@ -109,8 +108,7 @@ page.data-v-71998da9 {
 }
 .fxhb-box .detail-info.data-v-71998da9 {
   background: rgba(255, 255, 255, 0.9);
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   margin: 0 24rpx;
   padding: 50rpx;
   z-index: 100;
@@ -129,8 +127,7 @@ page.data-v-71998da9 {
   margin-bottom: 40rpx;
   display: inline-block;
   overflow: hidden;
-  -webkit-border-radius: 999rpx;
-          border-radius: 999rpx;
+  border-radius: 999rpx;
   background-color: #fff;
   float: left;
 }
@@ -208,8 +205,7 @@ page.data-v-71998da9 {
 .award-list .user-avatar.data-v-71998da9 {
   width: 80rpx;
   height: 80rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   margin-right: 20rpx;
 }
 .award-list .best.data-v-71998da9 {

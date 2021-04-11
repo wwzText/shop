@@ -62,8 +62,7 @@ page.data-v-eeda5896 {
   font-size: 20rpx;
   color: #ff4544;
   border: 1rpx solid #ff4544;
-  -webkit-border-radius: 4rpx;
-          border-radius: 4rpx;
+  border-radius: 4rpx;
   text-align: center;
 }
 .zhe .image.data-v-eeda5896 {
@@ -87,8 +86,7 @@ page.data-v-eeda5896 {
   background-color: #ffffff;
   width: 702rpx;
   margin: 0 24rpx 0 24rpx;
-  -webkit-border-radius: 0 0 15rpx 15rpx;
-          border-radius: 0 0 15rpx 15rpx;
+  border-radius: 0 0 15rpx 15rpx;
 }
 .u-bottom-fixed.data-v-eeda5896 {
   position: fixed;

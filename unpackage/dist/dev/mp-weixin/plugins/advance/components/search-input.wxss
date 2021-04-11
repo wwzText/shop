@@ -37,8 +37,7 @@ page.data-v-6faedca4 {
 }
 .search-input.data-v-6faedca4 {
   height: 88rpx;
-  -webkit-box-shadow: inset 0 0 1px 0 rgba(0, 0, 0, 0.15);
-          box-shadow: inset 0 0 1px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 0 rgba(0, 0, 0, 0.15);
   background-color: #efeff4;
   position: fixed;
   top: 0;
@@ -66,8 +65,7 @@ page.data-v-6faedca4 {
   height: 56rpx;
   margin-left: 23rpx;
   background-color: #ffffff;
-  -webkit-border-radius: 25rpx;
-          border-radius: 25rpx;
+  border-radius: 25rpx;
 }
 .input-view .input .input-in.data-v-6faedca4 {
   width: 503rpx;

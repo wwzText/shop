@@ -46,8 +46,7 @@ page.data-v-7f2190fc {
 .avatar.data-v-7f2190fc {
   width: 132rpx;
   height: 132rpx;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
 }
 .avatar.is_vip.data-v-7f2190fc {
   border: 8rpx solid #ffe993;
@@ -85,8 +84,7 @@ page.data-v-7f2190fc {
   color: #fff;
   font-size: 22rpx;
   padding: 6rpx 12rpx;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
   height: 36rpx;
   line-height: 36rpx;
 }
@@ -98,8 +96,7 @@ page.data-v-7f2190fc {
   margin-bottom: -6rpx;
   margin-left: -12rpx;
   margin-right: 6rpx;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
   overflow: hidden;
 }
 .address-btn-3.data-v-7f2190fc {
@@ -113,8 +110,7 @@ page.data-v-7f2190fc {
 }
 .address-btn-1.data-v-7f2190fc {
   padding: 16rpx 18rpx;
-  -webkit-border-radius: 1000rpx 0 0 1000rpx;
-          border-radius: 1000rpx 0 0 1000rpx;
+  border-radius: 1000rpx 0 0 1000rpx;
   margin-right: -48rpx;
   background: #ff4544;
   color: #ffffff;
@@ -127,8 +123,7 @@ page.data-v-7f2190fc {
 }
 .style-3 .style-3-container.data-v-7f2190fc {
   background-color: #fff;
-  -webkit-border-radius: 12rpx;
-          border-radius: 12rpx;
+  border-radius: 12rpx;
   width: 656rpx;
   height: 220rpx;
   background-size: 100% 100%;
@@ -170,13 +165,11 @@ page.data-v-7f2190fc {
   margin-bottom: 12rpx;
 }
 .u-refresh.data-v-7f2190fc {
-  -webkit-border-radius: 18rpx;
-          border-radius: 18rpx;
+  border-radius: 18rpx;
   border: 1rpx solid #ffffff;
   min-width: 69rpx;
   margin: 0 0 0 10rpx;
-  -webkit-box-sizing: content-box;
-          box-sizing: content-box;
+  box-sizing: content-box;
   height: 37rpx;
   padding: 0 13rpx;
   background-color: transparent;

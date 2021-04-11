@@ -80,10 +80,8 @@ page.data-v-1f637f30 {
   left: 0;
   z-index: 21;
   background-color: #fff;
-  -webkit-border-top-left-radius: 16rpx;
-          border-top-left-radius: 16rpx;
-  -webkit-border-top-right-radius: 16rpx;
-          border-top-right-radius: 16rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
   padding-top: 68rpx;
 }
 .dialog .menu .toggle-placeholder.data-v-1f637f30 {
@@ -119,8 +117,7 @@ page.data-v-1f637f30 {
   width: 702rpx;
   height: 300rpx;
   background-color: #fff;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   padding: 24rpx 28rpx;
   color: #353535;
   font-size: 28rpx;
@@ -137,8 +134,7 @@ page.data-v-1f637f30 {
   right: 0;
   margin: 0 auto;
   width: 620rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
 }
 .dialog .dialog-item .dialog-title.data-v-1f637f30 {
@@ -243,8 +239,7 @@ page.data-v-1f637f30 {
   line-height: 80rpx;
   height: 80rpx;
   margin: 20rpx auto;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   background-color: #446dfd;
   color: #fff;
   font-size: 32rpx;

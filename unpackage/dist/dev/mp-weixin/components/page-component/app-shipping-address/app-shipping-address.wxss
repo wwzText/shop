@@ -46,8 +46,7 @@ text.data-v-c075d58c {
 .app-view.data-v-c075d58c {
   margin: 20rpx 24rpx;
   background: #FFFFFF;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .app-view .app-information.data-v-c075d58c {
   padding: 32rpx 24rpx;

@@ -43,8 +43,7 @@ page.data-v-c578d2ee {
   color: #999999;
   padding: 50rpx 0;
   font-size: 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .title-right.data-v-c578d2ee {
   float: right;
@@ -71,8 +70,7 @@ page.data-v-c578d2ee {
 .list.data-v-c578d2ee {
   background-color: white;
   padding: 32rpx 32rpx 16rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   margin: 0 24rpx 24rpx;
 }
 .list-title.data-v-c578d2ee {
@@ -93,8 +91,7 @@ page.data-v-c578d2ee {
 .user-avatar image.data-v-c578d2ee {
   height: 100%;
   width: 100%;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
 }
 .name.data-v-c578d2ee {
   float: left;

@@ -45,8 +45,7 @@ page.data-v-ca75bfc8 {
   line-height: 80rpx;
   border: 1rpx dashed #999999;
   color: #353535;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   font-size: 36rpx;
   margin-top: 40rpx;
   background: #FFFFFF;
@@ -55,8 +54,7 @@ page.data-v-ca75bfc8 {
 }
 .cs-box.data-v-ca75bfc8 {
   width: 670rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   border: 1rpx dashed #999999;
   background: #FFFFFF;
 }
@@ -84,8 +82,7 @@ page.data-v-ca75bfc8 {
   width: 264rpx;
   line-height: 64rpx;
   color: #ff4544;
-  -webkit-border-radius: 32rpx;
-          border-radius: 32rpx;
+  border-radius: 32rpx;
   border: 1px solid #ff4544;
   font-size: 24rpx;
 }

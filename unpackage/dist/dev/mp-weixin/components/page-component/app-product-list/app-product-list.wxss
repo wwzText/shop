@@ -42,8 +42,7 @@ page.data-v-605dabcc {
   margin-top: 15rpx;
   background-color: #ffffff;
   width: 344rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
 }
 .list-padding.data-v-605dabcc {
   padding: 0 20rpx;
@@ -51,17 +50,13 @@ page.data-v-605dabcc {
 /*图片名字*/
 .image-name.data-v-605dabcc {
   width: 100%;
-  -webkit-border-top-left-radius: 15rpx;
-          border-top-left-radius: 15rpx;
-  -webkit-border-top-right-radius: 15rpx;
-          border-top-right-radius: 15rpx;
+  border-top-left-radius: 15rpx;
+  border-top-right-radius: 15rpx;
   position: relative;
 }
 .image-name .out-dialog.data-v-605dabcc {
-  -webkit-border-top-left-radius: 15rpx;
-          border-top-left-radius: 15rpx;
-  -webkit-border-top-right-radius: 15rpx;
-          border-top-right-radius: 15rpx;
+  border-top-left-radius: 15rpx;
+  border-top-right-radius: 15rpx;
   width: 344rpx;
   height: 344rpx;
   position: absolute;
@@ -77,10 +72,8 @@ page.data-v-605dabcc {
 .image-name .image.data-v-605dabcc {
   width: 100%;
   height: 344rpx;
-  -webkit-border-top-left-radius: 15rpx;
-          border-top-left-radius: 15rpx;
-  -webkit-border-top-right-radius: 15rpx;
-          border-top-right-radius: 15rpx;
+  border-top-left-radius: 15rpx;
+  border-top-right-radius: 15rpx;
 }
 .image-name .name.data-v-605dabcc {
   font-size: 26rpx;
@@ -154,15 +147,13 @@ page.data-v-605dabcc {
 .f-swipe-content .f-item .f-img.data-v-605dabcc {
   width: 200rpx;
   height: 200rpx;
-  -webkit-border-radius: 23rpx;
-          border-radius: 23rpx;
+  border-radius: 23rpx;
   margin-right: 24rpx;
 }
 .f-swipe-content .f-item .f-out-dialog.data-v-605dabcc {
   width: 200rpx;
   height: 200rpx;
-  -webkit-border-radius: 23rpx;
-          border-radius: 23rpx;
+  border-radius: 23rpx;
   margin-right: 24rpx;
   position: absolute;
   z-index: 10;

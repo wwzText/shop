@@ -58,8 +58,7 @@ page.data-v-f605dd08 {
 .user-avatar.data-v-f605dd08 {
   width: 120rpx;
   height: 120rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   font-size: 26rpx;
   margin-right: 40rpx;
 }
@@ -80,8 +79,7 @@ page.data-v-f605dd08 {
 .withdraw-btn.data-v-f605dd08 {
   float: right;
   width: 105rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   height: 56rpx;
   line-height: 54rpx;
   font-size: 28rpx;
@@ -104,8 +102,7 @@ page.data-v-f605dd08 {
   color: #666;
   width: 702rpx;
   margin: 16rpx auto 0;
-  -webkit-border-radius: 10rpx;
-          border-radius: 10rpx;
+  border-radius: 10rpx;
 }
 .nav > view.data-v-f605dd08 {
   width: 50%;
@@ -127,8 +124,7 @@ page.data-v-f605dd08 {
   margin: 16rpx auto 0;
   background-color: #fff;
   width: 702rpx;
-  -webkit-border-radius: 10rpx;
-          border-radius: 10rpx;
+  border-radius: 10rpx;
 }
 .list-item.data-v-f605dd08 {
   height: 220rpx;
@@ -171,8 +167,7 @@ page.data-v-f605dd08 {
 .no-pass-btn.data-v-f605dd08 {
   height: 80rpx;
   width: 560rpx;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   margin: 88rpx auto 0;
   color: #fff;
   font-size: 30rpx;
@@ -210,8 +205,7 @@ page.data-v-f605dd08 {
   font-size: 30rpx;
   font-weight: bold;
   height: 100rpx;
-  -webkit-border-radius: 50rpx;
-          border-radius: 50rpx;
+  border-radius: 50rpx;
   line-height: 100rpx;
   background: #ff4544;
 }
@@ -234,8 +228,7 @@ page.data-v-f605dd08 {
   margin: 0 auto;
   z-index: 21;
   background-color: #fff;
-  -webkit-border-radius: 10px;
-          border-radius: 10px;
+  border-radius: 10px;
   text-align: center;
   font-size: 30rpx;
 }
@@ -298,8 +291,7 @@ page.data-v-f605dd08 {
 }
 .apply-status-3 .progress.data-v-f605dd08 {
   width: 470rpx;
-  -webkit-border-radius: 5rpx;
-          border-radius: 5rpx;
+  border-radius: 5rpx;
   position: relative;
 }
 .apply-status-3 .progress .progress-content.data-v-f605dd08 {
@@ -382,8 +374,7 @@ page.data-v-f605dd08 {
   width: 221rpx;
   padding: 10rpx 27rpx;
   font-size: 28rpx;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   border: 2rpx solid #e2e2e2;
   background-color: #ffffff;
   margin-right: 18rpx;
@@ -410,8 +401,7 @@ page.data-v-f605dd08 {
   font-size: 32rpx;
   color: #ffffff;
   background: #ff4544;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   text-align: center;
   line-height: 80rpx;
 }

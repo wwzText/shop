@@ -61,8 +61,7 @@ page.data-v-57d992aa {
   width: 97rpx;
   height: 97rpx;
   margin-right: 30rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .app-goods-poster-three .box .user .poster-three-love.data-v-57d992aa {
   font-size: 26rpx;

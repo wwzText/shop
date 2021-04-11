@@ -38,8 +38,7 @@ page.data-v-73974852 {
 .app-view.data-v-73974852 {
   width: 750rpx;
   border: none;
-  -webkit-border-radius: 0;
-          border-radius: 0;
+  border-radius: 0;
   padding-bottom: 24rpx;
 }
 .app-text.data-v-73974852 {

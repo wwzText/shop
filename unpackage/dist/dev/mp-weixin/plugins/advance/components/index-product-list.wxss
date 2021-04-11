@@ -52,8 +52,7 @@ page.data-v-9f9a6a54 {
 .product-list .item .item-in .goods-cover.data-v-9f9a6a54 {
   width: 220rpx;
   height: 220rpx;
-  -webkit-border-radius: 12rpx;
-          border-radius: 12rpx;
+  border-radius: 12rpx;
 }
 .product-list .item .item-in .out-dialog.data-v-9f9a6a54 {
   width: 220rpx;
@@ -116,8 +115,7 @@ page.data-v-9f9a6a54 {
   padding: 0rpx 4rpx;
   font-size: 24rpx;
   border: 1rpx solid;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
   margin: 5rpx 0 5rpx 0;
 }
 .product-list .item .item-in .price-button .price .all-price.data-v-9f9a6a54 {
@@ -140,8 +138,7 @@ page.data-v-9f9a6a54 {
   width: 104rpx;
   height: 56rpx;
   margin-top: 60rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
   font-size: 28rpx;
   color: #ffffff;
   text-align: center;

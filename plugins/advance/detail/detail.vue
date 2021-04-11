@@ -41,7 +41,7 @@
                 v-bind:pay_limit="detail.advanceGoods.pay_limit"
                 v-bind:level_show="detail.level_show"
                 v-bind:cats="detail.goodsWarehouse.cats"
-                v-bind:id="detail.id"
+                v-bind:detail_id="detail.id"
                 v-bind:is_vip_card_user="detail.vip_card_appoint.is_vip_card_user"
                 v-bind:discount="detail.vip_card_appoint.discount"
                 v-bind:theme="getTheme"

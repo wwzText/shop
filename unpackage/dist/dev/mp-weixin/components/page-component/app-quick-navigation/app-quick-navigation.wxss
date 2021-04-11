@@ -64,8 +64,7 @@ page.data-v-eab442cc {
   height: 80rpx;
   background-size: 99% 99%;
   background-repeat: no-repeat;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .app-quick-navigation.data-v-eab442cc {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAhFBMVEUAAAAAAADm5uaQkJAzMzO7u7uvr68AAAD39/fS0tIAAADHx8d+fn4AAADv7+8AAAAAAAAAAAAAAAAAAAAAAABqamoAAAAAAADc3NygoKBSUlIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////DxwzwAAAAK3RSTlOzAPDMuNzWqPrmGuHHrPWeDnVsZ0TCJhTr0b2ajk0fhmBRLwVLl4wNfXwsU3JGkQAABFJJREFUaN7c02tzojAYhuFncwKCnFW01kOr1W3z///fJlKsriZEwf2w9wwM886YaxIEvzzL35fV534RJEASLPaf1fI99/2tFyJ3RYYbZcVODoPIzQKOFhvZFzks9+hsvzz0QGSZwKuklA8issAdFfIBJK9wZ1V+LzIOcHfB+C6kXuOh1rUbcW/DfzOeyLZEj8qtD1K/olevdTeyytCzbNWFTAP0Lpi6ka8EA5R8uZBpa/Teix1ZBRioYGVD6gyDldW3ke0eA7bf3kRKDFp5Cxlj4MbXSB1g4IL6Cllj8NZ/I2M8ofElcgjwhILDBVLBGnMNGWVwVJ0jEtaoojhGyNWweXAlz5DiEYSYFDEJWCp+EIkuhDFGCNPdiUCekNKJzAWIajPKiAol6EurOStbJE9gixOqhGY452nKeWSQb5LjtBMBa0n+jbzBidAoat8JvdgJN2rEufbsvX0jH7AWRxoR4Rly/e9iTuSjQaawR7he5kXR42ODXL94lcawNz0iG9gL52Y9ygCmLhEx4qfjmgnY2xyRBaxNyMQgMdGp1NxI3CCpGvkdFxYGkXD2gyhzNwiNQxVNMGqPy41AamTXjZj0wgJNYUjM8IQQAVc7jRR+SBpFafu9N8MXwZqHjgqNZF6IUJSF8cWQqpG+Iq6Dq+wXcvggLJwBcyXOh7Ga6AdigrMc717ILJzALCvOhqmGfY5LE0sPhM3M6o3SDvUlwkj4IEtU3QhN2x1oJWKgPFKUpQSTVCnSfV4VPrsRNhuhTcTAnJBIA2Y453Hz8bj6jVd0xNAzTWR4ehkCPL3gXyAJ/p/+VGtuq43DQBjWjkZCjrQmxTjYWrPUlECK3v/9qo5j16aUP01TNf1ukujmIz5IcypxuYrc+DKP8KC+nUE9q6sIUQkxKsgJbpBBrwhqpu7On4QlDdzqKa0gNcFtsszTidnirR4eWkS8QLQRszHGy/mrwaG1h5L336mWuC6mGQOOXxRIkKMFR7Ms9EonXkCBxJ8HLFnws0Q7nkNWyAMO7rZHK9d2WuvMq8SKOoD7jsNUIl6h01liu1eJcdmBYokdCLgzVdrgWCkWsUgIZ3T/UOqQYWtW2JhX0sSFksdVEoQJ88U3tTzCF0oOMJ0zK6ol7iWKWhKiCkuOMDHl9B7OEm9rkRCWjDjF5kyI85Olzy+eM+x6kXSTBKXYsDDIjtptyhuTVZU8ws5My55hsQC8KsG5diPpU1DaZ0lIvSzzx3/mPyjgLLTZspZ4Nzm5ctNymzQu4KC3vu04am2SfjuwrK1SL7tvSFWVAihFCY0C2PPbnmHfy2/fkyz4j6P65nPlQdZabxf4kvJgiUJniZJtkeJzmTJ6+YaA8DTc0jE8lWnSlG833b5x9vdQogX4883M27Rl76PB/PVW+f00/TO7a8cXdvc2iHHlSMl9DseUGfMR9uMRK47j/qujVwc0enX4LUNkyzjc2JyGeRxuODXj5eNwLz1cWUQFKjJjAAAAAElFTkSuQmCC);
@@ -76,8 +75,7 @@ page.data-v-eab442cc {
 .app-icon.data-v-eab442cc {
   width: 80rpx;
   height: 80rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

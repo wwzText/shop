@@ -51,8 +51,7 @@ page.data-v-94a6cfe8 {
   width: 470rpx;
   height: 5rpx;
   top: 50rpx;
-  -webkit-border-radius: 2.5rpx;
-          border-radius: 2.5rpx;
+  border-radius: 2.5rpx;
   background-color: #e3e3e3;
   position: relative;
 }
@@ -109,8 +108,7 @@ page.data-v-94a6cfe8 {
 .app-to-index.data-v-94a6cfe8 {
   width: 702rpx;
   height: 80rpx;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
   background-color: #ff4544;
   color: #fff;
   text-align: center;

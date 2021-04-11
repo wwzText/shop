@@ -52,8 +52,7 @@ page.data-v-6329c4a8 {
   width: 80rpx;
   height: 106rpx;
   position: relative;
-  -webkit-box-shadow: -1rpx 0 5rpx -5rpx rgba(0, 0, 0, 0.2);
-          box-shadow: -1rpx 0 5rpx -5rpx rgba(0, 0, 0, 0.2);
+  box-shadow: -1rpx 0 5rpx -5rpx rgba(0, 0, 0, 0.2);
 }
 .item.data-v-6329c4a8 {
   display: inline-block;
@@ -62,8 +61,7 @@ page.data-v-6329c4a8 {
   line-height: 54rpx;
   padding: 0 20rpx;
   border: 1rpx solid #cccccc;
-  -webkit-border-radius: 34rpx;
-          border-radius: 34rpx;
+  border-radius: 34rpx;
   margin-right: 16rpx;
 }
 .icon.data-v-6329c4a8 {

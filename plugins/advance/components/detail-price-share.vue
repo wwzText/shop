@@ -129,7 +129,7 @@
             end_prepayment_at: String,
             pay_limit: Number,
             cats: Array,
-            id: Number,
+            detail_id: Number,
             discount: {
                 type: String
             },

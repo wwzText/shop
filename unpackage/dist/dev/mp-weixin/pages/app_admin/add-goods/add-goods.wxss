@@ -221,8 +221,7 @@ view.input.placeholder.data-v-a189d404 {
   color: #446dfd;
   border: 2rpx solid #446dfd;
   background-color: #FFFFFF;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
 }
 .send.data-v-a189d404 {
   height: 80rpx;
@@ -233,8 +232,7 @@ view.input.placeholder.data-v-a189d404 {
   font-size: 28rpx;
   color: #fff;
   background-color: #446dfd;
-  -webkit-border-radius: 40rpx;
-          border-radius: 40rpx;
+  border-radius: 40rpx;
 }
 .dialog.data-v-a189d404 {
   position: fixed;
@@ -323,8 +321,7 @@ view.input.placeholder.data-v-a189d404 {
   right: 0;
   margin: 0 auto;
   width: 620rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
 }
 .btn-area.data-v-a189d404 {

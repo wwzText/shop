@@ -89,8 +89,7 @@ page.data-v-69ae26d9 {
 }
 .f-bulletin > view.data-v-69ae26d9 {
   background-color: #fff;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   height: 147rpx;
   padding: 32rpx 24rpx;
 }
@@ -103,16 +102,14 @@ page.data-v-69ae26d9 {
 }
 .f-activity .f-item.data-v-69ae26d9 {
   background-color: #fff;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   padding: 24rpx;
   margin-bottom: 20rpx;
 }
 .f-activity .f-item .f-pic.data-v-69ae26d9 {
   width: 240rpx;
   height: 240rpx;
-  -webkit-border-radius: 8rpx;
-          border-radius: 8rpx;
+  border-radius: 8rpx;
 }
 .f-activity .f-item > view.cont.data-v-69ae26d9 {
   width: 394rpx;
@@ -131,8 +128,7 @@ page.data-v-69ae26d9 {
   margin-right: 10rpx;
   text-align: center;
   line-height: 26rpx;
-  -webkit-border-radius: 7rpx;
-          border-radius: 7rpx;
+  border-radius: 7rpx;
   padding: 0 5rpx;
 }
 .f-activity .f-item .f-num.data-v-69ae26d9 {
@@ -146,8 +142,7 @@ page.data-v-69ae26d9 {
   height: 68rpx;
   line-height: 68rpx;
   width: 164rpx;
-  -webkit-border-radius: 34rpx;
-          border-radius: 34rpx;
+  border-radius: 34rpx;
   font-size: 26rpx;
   color: #fff;
   margin: 0;
@@ -171,15 +166,13 @@ page.data-v-69ae26d9 {
 .f-activity .f-item .app-percentage.data-v-69ae26d9 {
   width: 395rpx;
   height: 20rpx;
-  -webkit-border-radius: 12rpx;
-          border-radius: 12rpx;
+  border-radius: 12rpx;
   margin-top: 10rpx;
   overflow: hidden;
 }
 .f-activity .f-item .app-percentage > view.data-v-69ae26d9 {
   height: 20rpx;
-  -webkit-border-radius: 12rpx;
-          border-radius: 12rpx;
+  border-radius: 12rpx;
 }
 .f-activity .f-item .f-sold-out.data-v-69ae26d9 {
   background-color: #cdcdcd;
@@ -191,8 +184,7 @@ page.data-v-69ae26d9 {
 .f-empty .f-empty-con.data-v-69ae26d9 {
   height: 100%;
   background: #efefef;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   position: relative;
 }
 .f-empty .f-no.data-v-69ae26d9 {
@@ -203,10 +195,8 @@ page.data-v-69ae26d9 {
           transform: translate(-50%, -50%);
 }
 .out-dialog.data-v-69ae26d9 {
-  -webkit-border-top-left-radius: 15rpx;
-          border-top-left-radius: 15rpx;
-  -webkit-border-top-right-radius: 15rpx;
-          border-top-right-radius: 15rpx;
+  border-top-left-radius: 15rpx;
+  border-top-right-radius: 15rpx;
   width: 240rpx;
   height: 240rpx;
   position: absolute;

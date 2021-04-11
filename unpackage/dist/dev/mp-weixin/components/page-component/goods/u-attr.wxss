@@ -21,8 +21,7 @@
     width: 200rpx;
     height: 200rpx;
     padding: 4rpx;
-    -webkit-border-radius: 8rpx;
-            border-radius: 8rpx;
+    border-radius: 8rpx;
     position: relative;
     top: -64rpx;
     background-color: #ffffff;
@@ -54,8 +53,7 @@
 }
 .u-group-item.data-v-27247507 {
     padding: 15rpx 24rpx;
-    -webkit-border-radius: 8rpx;
-            border-radius: 8rpx;
+    border-radius: 8rpx;
     margin:0 20rpx 20rpx 0;
     font-size: 26rpx;
 }

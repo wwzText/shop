@@ -49,8 +49,7 @@ page.data-v-75a9db62 {
   background-color: #fff;
   color: #353535;
   font-size: 30rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .card-item .name.data-v-75a9db62 {
   width: 402rpx;
@@ -69,8 +68,7 @@ page.data-v-75a9db62 {
 .card-item .card-img.data-v-75a9db62 {
   height: 88rpx;
   width: 88rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
   margin-left: 24rpx;
 }
 .card-item .right-box.data-v-75a9db62 {
@@ -103,8 +101,7 @@ page.data-v-75a9db62 {
   left: 50%;
   margin-left: -275rpx;
   top: 20%;
-  -webkit-border-radius: 10rpx;
-          border-radius: 10rpx;
+  border-radius: 10rpx;
   text-align: center;
   padding: 50rpx;
   font-size: 34rpx;

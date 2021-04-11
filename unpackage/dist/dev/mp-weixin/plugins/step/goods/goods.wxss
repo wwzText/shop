@@ -169,8 +169,7 @@ page.data-v-1a7d4037 {
 }
 .bd-info.data-v-1a7d4037 {
   width: 702rpx;
-  -webkit-border-radius: 15rpx;
-          border-radius: 15rpx;
+  border-radius: 15rpx;
   overflow: hidden;
   margin: 24rpx 24rpx 0 24rpx;
 }

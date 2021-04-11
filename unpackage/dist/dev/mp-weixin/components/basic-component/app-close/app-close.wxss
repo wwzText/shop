@@ -58,8 +58,7 @@ page.data-v-130d9ded {
 }
 .open-dialog.data-v-130d9ded {
   width: 620rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #fff;
   position: relative;
   padding-top: 40rpx;

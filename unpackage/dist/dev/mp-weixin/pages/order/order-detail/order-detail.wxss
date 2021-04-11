@@ -87,8 +87,7 @@ page.data-v-5b1c5076 {
 }
 .order-list .order-list-btn.data-v-5b1c5076 {
   border: 1rpx solid #bbbbbb;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   padding: 10rpx 30rpx;
   display: inline-block;
   margin-left: calc(100vw - 170rpx);
@@ -191,8 +190,7 @@ page.data-v-5b1c5076 {
   margin: 12rpx 0 16rpx;
   height: 56rpx;
   line-height: 54rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
 }
 .goods-box .composition-item .composition-open .composition-btn image.data-v-5b1c5076 {
   width: 22rpx;
@@ -233,14 +231,12 @@ page.data-v-5b1c5076 {
 }
 .action-box .btn.data-v-5b1c5076 {
   border: 1rpx solid #bbbbbb;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   padding: 10rpx 30rpx;
 }
 .detail-btn.data-v-5b1c5076 {
   border: 1rpx solid #bbbbbb;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   padding: 10rpx 30rpx;
 }
 .e-box.data-v-5b1c5076 {
@@ -263,8 +259,7 @@ page.data-v-5b1c5076 {
 }
 .advance.data-v-5b1c5076 {
   width: 702rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   background-color: #f7f7f7;
   padding: 32rpx 24rpx;
 }
@@ -276,8 +271,7 @@ page.data-v-5b1c5076 {
 .item-box.data-v-5b1c5076 {
   border: 1rpx solid #c2c2c2;
   padding: 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   width: 702rpx;
 }
 .ecard.data-v-5b1c5076 {

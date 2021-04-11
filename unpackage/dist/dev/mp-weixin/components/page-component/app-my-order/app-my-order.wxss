@@ -38,20 +38,16 @@ page.data-v-0d7c5f8c {
 .app-my-order.no-margin.data-v-0d7c5f8c {
   width: 100%;
   margin: 0 auto;
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
 }
 .app-my-order.no-round.data-v-0d7c5f8c {
-  -webkit-border-radius: 0;
-          border-radius: 0;
+  border-radius: 0;
 }
 .app-my-order.data-v-0d7c5f8c {
   width: 702rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   margin: 24rpx auto;
-  -webkit-box-shadow: 0 0 8rpx rgba(0, 0, 0, 0.05);
-          box-shadow: 0 0 8rpx rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 8rpx rgba(0, 0, 0, 0.05);
 }
 .app-my-order .title.data-v-0d7c5f8c {
   padding: 32rpx 32rpx 16rpx;
@@ -76,8 +72,7 @@ page.data-v-0d7c5f8c {
   position: absolute;
   top: 0;
   right: 24rpx;
-  -webkit-border-radius: 1000rpx;
-          border-radius: 1000rpx;
+  border-radius: 1000rpx;
   font-size: 22rpx;
   height: 32rpx;
   line-height: 32rpx;

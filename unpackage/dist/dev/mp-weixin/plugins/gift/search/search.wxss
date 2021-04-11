@@ -45,8 +45,7 @@ page.data-v-4dd8a8ad {
 .icon.data-v-4dd8a8ad {
   width: 32rpx;
   height: 32rpx;
-  -webkit-border-radius: 64rpx;
-          border-radius: 64rpx;
+  border-radius: 64rpx;
   position: absolute;
   right: 120rpx;
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEUAAAAAAAD///8KCgoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiITExMAAAC4uLiysrKXl5eOjo6Hh4dZWVkAAAAAAAAAAAAAAAAAAAD6+vrW1tbOzs6oqKjc3Nx5eXlkZGRKSko3Nzfv7+/9NiE4AAAAJ3RSTlNaAIBZXWBVZDMRTkhEMARdWlBzcm9tbGYfHg8MCn54d3F5amhkX3x+qCs2AAABMUlEQVQ4y4WT13aDMAxAFYSFbUZJwggZDc3o/39ihYMtSk6O9WCGrrUFmyCngy4skS304SR/A2A0KZU6UYq0WQFViVkKQdIMy2oJmDxT8E9UlhsBzFb562JEbY0Hjpavv4vaHl9AlXv9msgrB5QS3kqycgIMzAaI0L94E2AY0Nn8+bijI7Dvgwm9gTO9HNAjSfZMILZJcqM5FTrD4B3ck4mgSZ80wckAegaw3rFmrDs+v7/QAxqKFJbEj+idjwJsyBGRCZYr6wNggaQIVE/3f58EAtACQOwuDFxGxCVgBWgmtcsFxYULUvTX58jnrpYgQ5rUu/gI9/zsSNIcBHD5uVxaKVQoNeCtYb2Lta1BSi3Neu8mN0vavRZpNw8MfByY6MjFhjY69vHFia9efHmj6/8H0gsPNdpbKqwAAAAASUVORK5CYII=);
@@ -58,8 +57,7 @@ page.data-v-4dd8a8ad {
   width: 620rpx;
   height: 65rpx;
   background-color: #ffffff;
-  -webkit-border-radius: 32.5rpx;
-          border-radius: 32.5rpx;
+  border-radius: 32.5rpx;
   padding: 0 35rpx;
 }
 .search-text.data-v-4dd8a8ad {
@@ -95,8 +93,7 @@ page.data-v-4dd8a8ad {
   font-size: 26rpx;
   padding: 0 20rpx;
   background-color: #f7f7f7;
-  -webkit-border-radius: 32rpx;
-          border-radius: 32rpx;
+  border-radius: 32rpx;
   margin-bottom: 32rpx;
 }
 

@@ -104,8 +104,7 @@ page.data-v-c3b12fda {
   height: 54rpx;
   line-height: 54rpx;
   margin-right: 24rpx;
-  -webkit-border-radius: 28rpx;
-          border-radius: 28rpx;
+  border-radius: 28rpx;
 }
 .app-top-t .app-t .app-active-color.data-v-c3b12fda {
   color: #ff4544;

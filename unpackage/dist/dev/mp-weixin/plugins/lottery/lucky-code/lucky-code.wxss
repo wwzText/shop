@@ -40,8 +40,7 @@ page.data-v-35a777c8 {
   position: relative;
   background: #ffffff;
   margin: 40rpx 24rpx 16rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
   height: 140rpx;
 }
 .lucky-head .lucky-logo.data-v-35a777c8 {
@@ -56,16 +55,14 @@ page.data-v-35a777c8 {
   width: 64rpx;
   height: 64rpx;
   margin-left: 40rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .lucky-center.data-v-35a777c8 {
   font-size: 28rpx;
   color: #353535;
   background: #ffffff;
   margin: 24rpx 24rpx 0;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .lucky-center .lucky-code.data-v-35a777c8 {
   height: 88rpx;
@@ -82,8 +79,7 @@ page.data-v-35a777c8 {
   width: 64rpx;
   height: 64rpx;
   margin-left: 40rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .lucky-name.data-v-35a777c8 {
   margin: 0 32rpx;

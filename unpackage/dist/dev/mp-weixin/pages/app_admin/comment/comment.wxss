@@ -73,16 +73,12 @@ page.data-v-b05a24b0 {
   background-color: #f7f7f7;
 }
 .replyStatus.data-v-b05a24b0 :first-child {
-  -webkit-border-top-left-radius: 28rpx;
-          border-top-left-radius: 28rpx;
-  -webkit-border-bottom-left-radius: 28rpx;
-          border-bottom-left-radius: 28rpx;
+  border-top-left-radius: 28rpx;
+  border-bottom-left-radius: 28rpx;
 }
 .replyStatus.data-v-b05a24b0 :last-child {
-  -webkit-border-top-right-radius: 28rpx;
-          border-top-right-radius: 28rpx;
-  -webkit-border-bottom-right-radius: 28rpx;
-          border-bottom-right-radius: 28rpx;
+  border-top-right-radius: 28rpx;
+  border-bottom-right-radius: 28rpx;
 }
 .replyStatus > view.data-v-b05a24b0 {
   width: 160rpx;
@@ -116,37 +112,29 @@ page.data-v-b05a24b0 {
 .content.data-v-b05a24b0 {
   width: 750rpx;
   padding: 24rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .content .item.data-v-b05a24b0 {
   background-color: white;
   width: 702rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 24rpx;
   margin-bottom: 24rpx;
-  -webkit-border-radius: 16rpx;
-          border-radius: 16rpx;
+  border-radius: 16rpx;
 }
 .content .item .top .image.data-v-b05a24b0 {
   width: 144rpx;
   height: 144rpx;
-  -webkit-border-top-left-radius: 8rpx;
-          border-top-left-radius: 8rpx;
-  -webkit-border-bottom-left-radius: 8rpx;
-          border-bottom-left-radius: 8rpx;
+  border-top-left-radius: 8rpx;
+  border-bottom-left-radius: 8rpx;
 }
 .content .item .top .text.data-v-b05a24b0 {
   width: 510rpx;
   height: 144rpx;
   padding: 20rpx 24rpx 20rpx 20rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  -webkit-border-top-right-radius: 8rpx;
-          border-top-right-radius: 8rpx;
-  -webkit-border-bottom-right-radius: 8rpx;
-          border-bottom-right-radius: 8rpx;
+  box-sizing: border-box;
+  border-top-right-radius: 8rpx;
+  border-bottom-right-radius: 8rpx;
 }
 .content .item .top .text .name.data-v-b05a24b0 {
   width: 466rpx;
@@ -169,8 +157,7 @@ page.data-v-b05a24b0 {
 }
 .content .item .bottom.data-v-b05a24b0 {
   padding-top: 20rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   height: 80rpx;
 }
 .content .item .bottom .performed.data-v-b05a24b0 {
@@ -191,8 +178,7 @@ page.data-v-b05a24b0 {
   width: 88rpx;
   height: 36rpx;
   line-height: 36rpx;
-  -webkit-border-radius: 18rpx;
-          border-radius: 18rpx;
+  border-radius: 18rpx;
   background-color: #ff9000;
   font-size: 22rpx;
   color: #ffffff;
@@ -210,8 +196,7 @@ page.data-v-b05a24b0 {
   min-width: 120rpx;
   border-style: solid;
   border-width: 1rpx;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
+  border-radius: 30rpx;
   font-size: 28rpx;
   text-align: center;
 }

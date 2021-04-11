@@ -95,8 +95,7 @@ page.data-v-34ba2599 {
   height: 96rpx;
   width: 96rpx;
   display: block;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
 .app-goods-poster-two .box .end-bg .end-info .user > view.data-v-34ba2599 {
   max-width: 250rpx;
@@ -116,8 +115,7 @@ page.data-v-34ba2599 {
   height: 100%;
   background: #f1f1f1;
   padding: 0 20rpx;
-  -webkit-border-radius: 20px;
-          border-radius: 20px;
+  border-radius: 20px;
 }
 .app-goods-poster-two .box .end-bg .end-info .icon-three-arrow.data-v-34ba2599 {
   height: 17rpx;
